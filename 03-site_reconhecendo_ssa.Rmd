@@ -1,3 +1,7 @@
-# Contexto {#contexto}
+# Elaboração de site com estatísticas históricas da cidade de Salvador
 
-Contextualização, referência a relatórios anteriores. Mais uma vez, importante ser sucinto por que há um relatório de 2019 extenso. A ideia é trazer as pessoas para o ponto imediatamente anterior ao período coberto pelo relatório (como uma retrospectiva).
+A construção do site (re)Conhecendo Salvador requer a realização de cinco etapas: (1) Briefing; (2) Conteúdo; (3) Design; (4) Desenvolvimento e (5) Publicação. A etapa (1) está concluída. Dados e estatísticas de Salvador são explorados individualmente ou conectando os seguintes grandes temas: Educação, Turismo, Segurança, População e Famílias, Ciência e Tecnologia, Lazer e Desporto, Saúde, Transporte, Meio Ambiente e Justiça. Um mapa conceitual deste site é apresentado na Figura 5. A partir das experiências trazidas pelos estudantes são exploradas e sua visão da cidade e sociedade ampliada com a exploração gráfica de dados e estatísticas. Tais habilidades tentam fortalecê-los ao se perceberem como agentes de mudanças da sociedade.
+
+```{r recossa, fig.cap='Desenho esquemático do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/mapaconceitualressa.png")
+```
