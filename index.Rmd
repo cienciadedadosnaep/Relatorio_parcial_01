@@ -52,7 +52,7 @@ Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-g
 knitr::include_graphics("images/image113.png")
 ```
 
-## Ações do Projeto 
+## Ações do Projeto {-}
 
 As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações, conforme descrito a seguir (seções 1-5). Juntamente com as demais seções, este relatório busca descrever de forma sucinta tais ações e seus resultados, assim como os desafios e dificuldades encontradas que exigiram o reajuste das atividades planejadas inicialmente.
 

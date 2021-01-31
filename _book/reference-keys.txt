@@ -15,3 +15,14 @@ fig:pagcdnaep
 fig:diagrpagcdnaep
 ações-do-projeto
 construção-do-website-do-projeto
+páginas-do-website
+e-book-1.-ciência-de-dados-80-concluído
+e-book-2.-inteligência-artificial-75-concluído
+e-book-3.-produção-do-conhecimento-científico-50-concluído
+e-book-4.-protagonismo-social-racial-e-de-gênero
+protagonismo-social-proposta-em-andamento
+protagonismo-racial-80-concluído
+protagonismo-de-gênero-0-concluído
+elaboração-de-4-e-books
+fig:ebookcd
+fig:ebookprotag

@@ -1,6 +1,6 @@
 #  Construção do Website do Projeto
 
-O website do Projeto foi construído como ferramenta de compartilhamento de materiais para toda a comunidade escolar, professores, estudantes, coordenadores e gestores (Figura 1). Visando facilitar o acesso ao site (de modo intuitivo) os conteúdos foram organizados e agrupados em: “Início”, “Sobre”, “Café com Dados”, “Professores”, “Estudantes” e “Ferramentas” . Na Figura 2 é apresentado um mapa conceitual da página.
+O [website do Projeto](https://cienciadedadosep.wixsite.com/cdep/sobre) foi construído como ferramenta de compartilhamento de materiais para toda a comunidade escolar, professores, estudantes, coordenadores e gestores (ver Figura \@ref(fig:pagcdnaep)). Visando facilitar o acesso ao site (de modo intuitivo) os conteúdos foram organizados e agrupados em: “Início”, “Sobre”, “Café com Dados”, “Professores”, “Estudantes” e “Ferramentas” . Na Figura \@ref(fig:diagrpagcdnaep) é apresentado um mapa conceitual da página.
 O site “Ciência de Dados na Educação Pública” foi desenvolvido em março, através do Wix, devido a facilidade apresentada pela plataforma na personalização e manipulação de conteúdo. Produzido através de um modelo de template oferecido pelo Wix, o design de interface e estrutura do site precisaram de algumas adaptações para adentrarem na identidade visual do projeto. Ademais estruturalmente, com o objetivo de ampliar a interação com os usuários, todas as páginas do site possuem um espaço para "comentários".
 Os materiais presentes no website, foram designados de acordo com as demandas do projeto, dessa forma, a plataforma funcionava como um repositório de informações, sendo possível acessar apresentações, ferramentas, gravações e os mais diversos conteúdos apresentados pela equipe, com o intuito de facilitar as atividades assíncronas e síncronas. 
 
@@ -15,3 +15,31 @@ knitr::include_graphics("images/image85.png")
 ```{r diagrpagcdnaep, fig.cap='Página inicial do site do projeto Ciência de Dados na Escola Pública', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("images/image26.png")
 ```
+
+
+
+## Páginas do website
+
+### Início e Sobre {-}
+
+A página [Início](https://cienciadedadosep.wixsite.com/cdep) foi projetada para ressaltar as informações de conhecimento imediato do público alvo.  Desta maneira, a página contém a apresentação do projeto no Lemann Center Virtual Meeting - Stanford University, com o intuito de introduzir as ações, parcerias e resultados do projeto. 
+O menu [Sobre](https://cienciadedadosep.wixsite.com/cdep/sobre), descreve trajetória, proposta, idealizadores, equipe e parcerias do projeto Ciência de Dados na Educação Pública. Além de vídeos-posters sobre o projeto elaborados pelas bolsistas de graduação para a submissão no Congresso Virtual UFBA 2020.
+
+### Café com Dados {-}
+
+A página [Café com Dados](https://cienciadedadosep.wixsite.com/cafecomdados)  foi criada para oferecer auxílio aos professores que apresentavam algumas dificuldades para ingressar nos encontros como: pouco conhecimento do ambiente virtual dos encontros, falha na conexão com a internet, limitação de participantes na plataforma, dificuldade para visualizar a apresentação, falta de disponibilidade, dificuldade para escutar o palestrante.
+Para enfrentar esses obstáculos, a Webpage dispõe dos temas, nome e atribuições dos palestrantes, slides, referências sugeridas e gravações de todas as palestras que ocorreram de 01/04/2020 à 07/10/2020 no Café com Dados.
+
+### Professores {-}
+
+A seção [Professores](https://cienciadedadosep.wixsite.com/professores), foi idealizada para apresentar materiais de apoio para os docentes na área de Ciência de Dados, Inteligência Artificial, protagonismo feminino e programação. Dessa forma, o site é dividido em: “Cursos”, “Artigos”, “Palestras”, “Sites”, “Vídeos”, “Mulheres na Ciência”, “Sistema de Dados” e “Programas”.
+Alguns dos materiais sugeridos encontram-se na língua inglesa, deste modo, a equipe disponibilizou no site os tutoriais “Como colocar legenda no vídeo do YouTube” e “Como traduzir uma página” para auxiliar os professores.
+
+### Estudantes {-}
+
+A webpage [estudantes](https://cienciadedadosep.wixsite.com/estudantes) tem a finalidade de fornecer suporte e facilitar o acesso dos estudantes aos materiais manuseados pelo projeto. Inicialmente, a página continha apenas textos sobre as mulheres extraordinárias, cursos e palestras. Entretanto, no segundo semestre de 2020 o site passou a abranger os vídeos diários e os materiais utilizados nos encontros online, como apresentações, atividades e vídeos. 
+
+### Ferramentas {-}
+
+A página [ferramentas](https://cienciadedadosep.wixsite.com/cdep/ferramentas), foi uma das primeiras seções a serem desenvolvidas no site, devido a urgência de instrumentos online para estimular os estudantes a manterem o interesse na escola. Dessa forma, o projeto apresentou, instruiu e disponibilizou na web page 10 ferramentas online de diversas áreas para os docentes das escolas parceiras. 
+

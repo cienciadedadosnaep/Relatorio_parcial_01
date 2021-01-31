@@ -1,3 +1,0 @@
-# Resumo {-}
-
-Informações mais importantes, condensadas do relatório em texto com poucos parágrafos.
