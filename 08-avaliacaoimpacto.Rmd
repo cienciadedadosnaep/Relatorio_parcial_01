@@ -1,0 +1,61 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+# Avaliação de Impacto
+
+Tratando-se da avaliação de impactos de projetos sociais é fundamental estabelecer quais os resultados esperados, métricas e instrumentos para verificar o status deles e métodos para contornar vieses. A teoria da mudança é um método que facilita a construção de uma cadeia de elementos que parte dos insumos necessários para as atividades de um projeto e chega até os efeitos estimados no público-alvo. Métricas devem ser relevantes para o público-alvo, tão fáceis quão possível de obter e precisas no que estão medindo. Além disso, é importante ponderar que podem haver características não-observadas no público alvo e que afetam as métricas escolhidas (INSPER METRICIS, 2018).
+Os principais resultados que esperamos observar como consequência das atividades que as/os estudantes participaram são: 
+
+ (a) estudantes ganham instrumentos na luta contra a desigualdade, 
+ (b) estudantes adquirem novas perspectivas e habilidades socioemocionais e 
+ (c) estudantes adquirem habilidades de letramento científico e em dados.
+
+**A avaliação dos impactos do Projeto está sendo construída. Neste relatório são apresentadas percepções com base qualitativa obtidas a partir dos encontros com as/os estudantes e professoras/es e dos materiais produzidos por eles. Para mensurar tais resultados foram planejadas avaliações qualitativas e quantitativas cujos resultados são apresentados no relatório anual.** 
+Os professores também tomaram parte em atividades no Projeto, entretanto a pandemia demandou uma mudança de planos da equipe. A intenção inicial para o ano de 2020 era maior foco no contato com os professores para que ferramentas da ciência de dados e questões sobre protagonismos social, racial e de gênero foram integradas aos conteúdos discutidos em sala de aula. Uma vez que a quarentena impediu a realização de aulas presenciais e até mesmo à distância nas escolas, a atividade liderada pelos professores não foi realizada como esperado. Não obstante, duas professoras, passaram a ministrar a disciplina de Inteligência Artificial para estudantes do ensino médio de suas respectivas escolas, e passou a ministrar palestras em eventos públicos sobre o tema. Elas têm sido exemplos de lideranças para as/os demais professoras/es.
+
+## Percepções com base qualitativa
+
+### Questões sociais
+
+As/os estudantes demonstraram uma percepção mais aguçada em relação a questões sociais ao longo dos encontros realizados no ano. Assim, atas das reuniões semanais contendo impressões da equipe e paráfrases do que foi dito pelas/os alunas/os evidenciam essa habilidade adquirida. É importante notar que as/os estudantes desconheciam ou tinham pouca ciência acerca da atuação decisiva das mulheres em diversos campos de atuação, o que destituiu a ideia fabricada pela sociedade patriarcal que marca o local feminino em áreas estritamente ligadas ao cuidado ou ainda a concepção de mulheres como donas de casa, mães, esposas... Por isso, ao serem apresentadas a mulheres (chamadas de extraordinárias) atuando em diversas áreas, em diferentes contextos sociais, geográficos, culturais e de época, o construto do papel da mulher na sociedade passou a ser questionado e deslocado. Foi imprescindível para garotas perceberem que elas podem assumir o papel de protagonistas nas mais diversas áreas, inclusive destituindo o que imaginavam para si, reproduzindo os papéis desenvolvidos por familiares, especialmente mães e avós, sem muitas perspectivas de subversão da realidade. É importante salientar que as garotas partícipes do projeto são de comunidades em condição de vulnerabilidade social, nas quais, as mulheres ainda são vistas sob a égide do patriarcado.   
+Em um encontro que tratou do esforço para garantir a acessibilidade a deficientes visuais, foi apresentada a educadora e ativista Dorina Norwill, as/os estudantes foram além do escopo das perguntas orientadoras. Eles pensaram a acessibilidade de uma escola para além da estrutura física e chamaram a atenção para a importância de “que elas (deficientes visuais) socializem e não sejam excluídas e que deviam frequentar a mesma escola”. Uma das estudantes acrescentou “que se deve evitar o bullying”.
+Em outro encontro, tratando da adolescente alemã, vítima do holocausto, Anne Frank e o diário que ela escreveu relatando suas experiências em meio à guerra os estudantes foram capazes de associar as ameaças do passado com os problemas do presente. Apesar de Anne Frank ter sido uma menina perseguida na Europa devido à sua etnia e cultura judaica, as/os estudantes chamaram a atenção para pessoas podem ser perseguidas por “seguir uma religião”, por ser homossexual ou por não gostar de uma opinião política, por exemplo.
+As/os estudantes também manifestaram perceber como a representação dos negros pode reforçar estereótipos. Em um encontro (24/04) sobre Ruth de Souza, atriz negra e ativista, uma das estudantes criticou um papel que a atriz assumiu representando uma escrava. A estudante afirmou que “papéis como esse dão a ideia de que todo negro é escravo”.
+Uma estudante também demonstrou perceber de maneira intuitiva parte do conceito de interseccionalidade. Ao ser indagada sobre diferenças como o machismo incide sobre mulheres negras e brancas ela indicou que “mulheres negras sofrem machismo e racismo ao mesmo tempo”.
+Diversas estudantes relataram experiências de racismo em primeira mão, seja como vítimas ou testemunhas, adotando uma postura empática, algumas até buscaram trazer os agressores à luz do conhecimento.
+O destilado dos vários aprendizados das/os estudantes foram os glossários coletivos. Esses documentos apresentam definições de palavras importantes para entender as questões sociais, raciais e de gênero. Tal documento foi uma construção coletiva baseado nas dúvidas e na pesquisa prévia realizada pelas estudantes. A elaboração foi feita em uma plataforma visível para todos. Algumas palavras definidas pelas/os estudantes foram:  branquitude, matriz de dominação, representatividade e homem universal.
+
+### Letramento científico e em dados
+
+Os encontros das equipes de Ciência de Dados, do Site e Produção do Conhecimento Científico foram estruturados de forma que os objetivos fossem explícitos nos relatos das equipes em ata. Esses documentos indicam que objetivos foram considerados pela equipe como alcançados com sucesso.
+
+Em termos de letramento científico, foi relatado que as/os estudantes:
+
+ - Demonstraram interesse na discussão sobre onde, como e quem faz ciência;
+ - Aqueles que tiveram experiência anterior com projetos científicos se empolgaram em compartilhar sua experiência com os colegas;
+ - Participaram de atividades de formulação de problemas, levantamento de hipóteses de solução e estratégias para testá-las;
+ - Discutiram métodos (entrevistas, observações, etc.) de coleta de dados e ferramentas (livros, balanças, etc.) para tal. Bem como estabeleceram um cronograma de ações.
+ 
+ Em termos de letramento em dados, foi relatado que as/os estudantes:
+ 
+ - Tiveram facilidade e curiosidade para identificar e analisar os elementos de mapas e gráficos apresentados sobre a cidade de Salvador;
+ - Puderam perceber tempo, espaço e transformação de um local da cidade através da apresentação de fotos;
+ - Interpretaram com facilidade e discutiram coletivamente elementos como o padrão de cores dos mapas, a importância da legenda, os diferentes tamanhos e cores das regiões e dos círculos nos mapas;
+ - Confrontaram opiniões prévias que tinham quanto à proporção de estudantes matriculados do sexo feminino e masculino com dados coletados e foram capazes de incorporar as informações novas às suas noções;
+ - Foram capazes de sugerir mudanças relevantes para aprimorar os gráficos de matrículas apresentados como: padrão das cores, escala mais exata, aumento da fonte da legenda, uso das tabelas, etc.;
+ - Algumas/ns estudantes demonstraram interesse, discutiram e construíram análises sobre os sistemas de notificação de infrações de trânsitos de Salvador e perceberam a mudança de comportamento do número de ocorrências desses eventos por meio de gráficos (barras e boxplot), bem como os recortes temporais que os colocam frente ao momento da pandemia;
+ - A compreensão da importância do turismo gerou curiosidade sobre estratégias de identificação de padrões como a exploração da intensidade de cores e reordenação de informações do domínio temporal de estrutura linear para o modelo de blocos periódicos. Assim, eles reconheceram os meses do ano que há mais ocupação da rede hoteleira e reconheceram a quebra de padrão como os eventos especiais como Copa do Mundo e pandemia;
+ - Aprenderam o significado de medidas centrais (média, moda, etc.) e de dispersão (amplitude, desvio padrão, etc.) em um contexto mais próximo (idade dos colegas);
+ - Foram expostos aos conceitos de população, amostra, intervalo de confiança, aleatoriedade e margem de erro através do tema de pesquisas eleitorais. Os conceitos de inferência estatística e intervalo de confiança foram reforçados através de uma atividade lúdica;
+ - As manifestações de algumas/ns estudantes revelam indícios que houve o processo introdutório do letramento em dados, as perguntas geradas por informações anteriormente não citadas nos encontros, a abordagem de problemas com base em evidências são algumas das formas percebidas. 
+
+
+As/os estudantes também realizaram tarefas de casa que envolviam representação gráfica, cálculo de medidas e reflexão sobre dados. Elas/es passaram a reconhecer a importância das grades em um gráfico, mas mantendo uma parcimônia para não tornar a figura cheia (ver Figura 19, superior esquerda), bem como a importância da legibilidade dos eixos e a escolha de um padrão de cores para informações que correspondem a mesma categoria. Nessa atividade, surgiram diferentes métodos de representação da informação; a Figura 19 (superior direita) mostra um bom exemplo. Nessa figura também se destaca a simplicidade e elegância da representação, bem como o uso inteligente de cores no título do gráfico como maneira de comunicar facilmente o tema apresentado. Em outra atividade, as/os estudantes calcularam medidas centrais das idades de colegas. Um estudante incluiu intuitivamente em sua resolução um gráfico de pontos ou dot-plot para identificar a moda (ver Figura \@ref(fig:exercestud), inferior).
+
+```{r exercestud, fig.cap='Gráficos produzidos pelas/os estudantes.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/exercico_estudantes.png")
+```
+
+
