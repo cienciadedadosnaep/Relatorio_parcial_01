@@ -40,6 +40,17 @@ tab:quadro5
 fig:ondeestaAI
 fig:encerrSNCT
 fig:exercestud
+fig:transmosaic
+fig:mixword
+fig:profestu
+fig:nivprofestu
+fig:carreirasestu
+fig:habilidades
+fig:nivpares
+fig:nivgrupos
+fig:nivtena
+fig:quaseman
+fig:sitevisita
 apresentação---relatório-2020.1
 construção-do-website-do-projeto
 páginas-do-website
@@ -81,3 +92,8 @@ avaliação-de-impacto
 percepções-com-base-qualitativa
 questões-sociais
 letramento-científico-e-em-dados
+ciência-de-dados-como-instrumento
+novas-perspectivas-e-habilidades-socioemocionais
+percepção-com-base-quantitativa
+atividade-de-fixação
+ciência-de-dados
