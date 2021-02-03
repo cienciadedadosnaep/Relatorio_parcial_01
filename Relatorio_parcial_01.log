@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  2 FEB 2021 15:59
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  3 FEB 2021 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2078,34 +2078,131 @@ File: images/image17.png Graphic file (type bmp)
 [91] [92]
 Chapter 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1183
+Package hyperref Warning: Suppressing empty link on input line 1176.
 
- []
+
+Underfull \vbox (badness 6188) has occurred while \output is active []
 
 [93
 
-] [94]
+]
+File: images/Impactos/01.png Graphic file (type bmp)
+<images/Impactos/01.png>
+File: images/Impactos/02.png Graphic file (type bmp)
+<images/Impactos/02.png>
+[94]
+File: images/Impactos/03.png Graphic file (type bmp)
+<images/Impactos/03.png>
+[95]
+File: images/Impactos/04.png Graphic file (type bmp)
+<images/Impactos/04.png>
+File: images/Impactos/05.png Graphic file (type bmp)
+<images/Impactos/05.png>
+File: images/Impactos/06.png Graphic file (type bmp)
+<images/Impactos/06.png>
+File: images/Impactos/07.png Graphic file (type bmp)
+<images/Impactos/07.png>
+File: images/Impactos/08.png Graphic file (type bmp)
+<images/Impactos/08.png>
+[96] [97]
+File: images/Impactos/09.png Graphic file (type bmp)
+<images/Impactos/09.png>
+File: images/Impactos/10.png Graphic file (type bmp)
+<images/Impactos/10.png>
+File: images/Impactos/11.png Graphic file (type bmp)
+<images/Impactos/11.png>
+File: images/Impactos/12.png Graphic file (type bmp)
+<images/Impactos/12.png>
+[98] [99]
+File: images/Impactos/13.png Graphic file (type bmp)
+<images/Impactos/13.png>
+File: images/Impactos/14.png Graphic file (type bmp)
+<images/Impactos/14.png>
+File: images/Impactos/15.png Graphic file (type bmp)
+<images/Impactos/15.png>
+File: images/Impactos/16.png Graphic file (type bmp)
+<images/Impactos/16.png>
+File: images/Impactos/17.png Graphic file (type bmp)
+<images/Impactos/17.png>
+[100] [101]
+File: images/Impactos/18.png Graphic file (type bmp)
+<images/Impactos/18.png>
+[102]
+File: images/Impactos/19.png Graphic file (type bmp)
+<images/Impactos/19.png>
+File: images/Impactos/20.png Graphic file (type bmp)
+<images/Impactos/20.png>
+File: images/Impactos/21.png Graphic file (type bmp)
+<images/Impactos/21.png>
+File: images/Impactos/22.png Graphic file (type bmp)
+<images/Impactos/22.png>
+File: images/Impactos/23.png Graphic file (type bmp)
+<images/Impactos/23.png>
+File: images/Impactos/24.png Graphic file (type bmp)
+<images/Impactos/24.png>
+File: images/Impactos/25.png Graphic file (type bmp)
+<images/Impactos/25.png>
+[103] [104] [105]
+File: images/Impactos/26.png Graphic file (type bmp)
+<images/Impactos/26.png>
+[106] [107]
+File: images/Impactos/27.png Graphic file (type bmp)
+<images/Impactos/27.png>
+File: images/Impactos/28.png Graphic file (type bmp)
+<images/Impactos/28.png>
+File: images/Impactos/29.png Graphic file (type bmp)
+<images/Impactos/29.png>
+File: images/Impactos/30.png Graphic file (type bmp)
+<images/Impactos/30.png>
+File: images/Impactos/31.png Graphic file (type bmp)
+<images/Impactos/31.png>
+File: images/Impactos/32.png Graphic file (type bmp)
+<images/Impactos/32.png>
+[108] [109] [110] [111]
+File: images/Impactos/33.png Graphic file (type bmp)
+<images/Impactos/33.png>
+File: images/Impactos/34.png Graphic file (type bmp)
+<images/Impactos/34.png>
+[112]
+File: images/Impactos/35.png Graphic file (type bmp)
+<images/Impactos/35.png>
+File: images/Impactos/36.png Graphic file (type bmp)
+<images/Impactos/36.png>
+File: images/Impactos/37.png Graphic file (type bmp)
+<images/Impactos/37.png>
+File: images/Impactos/38.png Graphic file (type bmp)
+<images/Impactos/38.png>
+[113] [114] [115] [116]
+Chapter 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1723
+
+ []
+
+[117
+
+] [118]
 No file Relatorio_parcial_01.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1205.
-[95
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1745.
+[119
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1205.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1745.
 (./Relatorio_parcial_01.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1205.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1205.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1745.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1745.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1205.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1745.
  ) 
 Here is how much of TeX's memory you used:
- 27517 strings out of 493007
- 496656 string characters out of 6136720
- 741810 words of memory out of 5000000
- 31119 multiletter control sequences out of 15000+600000
+ 27724 strings out of 493007
+ 500774 string characters out of 6136720
+ 745725 words of memory out of 5000000
+ 31287 multiletter control sequences out of 15000+600000
  538657 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,9n,117p,10415b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Relatorio_parcial_01.pdf (95 pages).
+Output written on Relatorio_parcial_01.pdf (119 pages).
