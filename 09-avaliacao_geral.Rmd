@@ -362,5 +362,269 @@ Outro fator que pode explicar os resultados alcançados pelos estudantes nos exa
 knitr::include_graphics(c("images/Impactos/38.png"))
 ```
 
+Vê-se que os estudantes que responderam as questões incorretamente não estiveram todos ausentes em qualquer encontro em particular. A Tabela \@ref(tab:quadroimpacto4) mostra encontros cuja ausência possivelmente podem explicar as dificuldades dos estudantes com algumas questões.
 
+
+
+```{r quadroimpacto4, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(kableExtra)
+
+Questao <-c("Q1.1: Planejar investigação científica",
+"Q1.2: Planejar investigação científica",
+"Q1.3: Planejar investigação científica",
+"Q1.4: Planejar investigação científica",
+"Q1.5: Planejar investigação científica","",
+"Q2.1: Raciocínio correlacional","","",
+"Q2.2: Raciocínio correlacional","","",
+"Q2.3: Raciocínio correlacional",
+"Q3.1: Raciocínio correlacional",
+"Q3.2: Raciocínio correlacional",
+"Q3.3: Raciocínio correlacional",
+"Q3.4: Raciocínio correlacional",
+"Q4: Explicar resultados inesperados",
+"Q5: Formular pergunta científica","")
+
+Encontros <- c(
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E22: O que é uma pergunta científica?",
+"E22: O que é uma pergunta científica?",
+"E26: O que é hipótese?",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E22: O que é uma pergunta científica?",
+"E26: O que é hipótese?",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E22: O que é uma pergunta científica?",
+"E30: Quais são as etapas de uma investigação científica?",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E22: O que é uma pergunta científica?",
+"E22: O que é uma pergunta científica?",
+"E22: O que é uma pergunta científica?",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E18: Introdução a produção do conhecimento científico (o que é investigação científica?)",
+"E22: O que é uma pergunta científica?")
+
+
+
+quadro <- data.frame(Questao,Encontros)
+
+names(quadro) <- c("Questão","Encontros")
+
+kbl(quadro,caption = "Questões temáticas e encontros com maior taxa de faltas entre os estudantes que as erraram.")
+```
+
+Percebe-se uma destacada presença dos encontros “E18: Introdução a produção do conhecimento científico (o que é investigação científica?)” e “E22: O que é uma pergunta científica?”. A associação do temas desses encontros com as questões “Q1: Planejar investigação científica” e “Q5: Formular pergunta científica” é evidente. As questões 2 e 3 que buscam verificar a capacidade do estudante de associar corretamente fenômenos estão associados a vários encontros, possivelmente por ser uma habilidade que deriva da prática constante e não de apenas um encontro.
+
+### Inteligência artificial
+
+12 estudantes responderam à atividade de sete questões. A questão 5 busca identificar ideias de aplicação de inteligência artificial de uso cotidiano que os estudantes gostariam de criar. Já as questões 6 e 7 tentam identificar mudanças nas perspectivas que os estudantes tiveram sobre o tema após os encontros. Na Figura \@ref(fig:impacto39) vê-se que os estudantes tiveram um desempenho geral mediano.
+
+```{r impacto39,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Distribuição de estudantes por total de acertos.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/39.png"))
+```
+
+A cada questão foi associado um tema discutido em sala com os estudantes. A Figura \@ref(fig:impacto40) mostra a quantidade de estudantes que respondeu corretamente a cada questão. Percebe-se que os estudantes manifestaram maior dificuldade na tarefa de diferenciar aprendizados de máquina supervisionados ou não.
+
+```{r impacto40,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/40.png"))
+```
+
+Cruzando os acertos e erros nas questões com as variáveis coletadas dos estudantes nos questionários pode-se investigar possíveis causas de dificuldades na compreensão dos estudantes. As Figuras \@ref(fig:impacto41) a \@ref(fig:impacto43) exibem tais cruzamentos. É importante chamar à atenção de que as categorias têm pequenas quantidades, logo as tendências observadas têm razoável incerteza. Uma peculiaridade dessa avaliação foi a participação de alguns estudantes do ensino médio que também participaram do curso. O desempenho de estudantes dos anos escolares mais avançados (8º e 9º do fundamental e 2º do médio) foi similarmente superior aos dos estudantes de anos mais iniciais.
+
+
+```{r impacto41,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e ano escolar.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/41.png"))
+```
+
+
+```{r impacto42,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e idade.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/42.png"))
+```
+
+
+```{r impacto43,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e sexo.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/43.png"))
+```
+
+### Questão aberta sobre saneamento
+
+30 estudantes responderam à atividade de três questões. A questão 2 tem duas seções, logo é apresentada em duas partes. Na Figura \@ref(fig:impacto44) vê-se que os estudantes tiveram um desempenho geral excelente.
+
+
+
+```{r impacto44,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Distribuição de estudantes por total de acertos.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/44.png"))
+```
+
+A cada questão foi associado um tema discutido em sala com os estudantes. A Figura \@ref(fig:impacto45) mostra a quantidade de estudantes que respondeu corretamente a cada questão. Apesar do desempenho geral ser positivo é curioso que os estudantes tenham errado mais uma das questões que envolve interpretação gráfica (questão 1) dado o bom desempenho que demonstraram em questões de temática similar no exame de Exploração gráfica (questões 1 e 2 da Figura \@ref(fig:impacto26)).
+
+
+```{r impacto45,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/45.png"))
+```
+
+Cruzando os acertos e erros nas questões com as variáveis coletadas dos estudantes nos questionários pode-se investigar possíveis causas de dificuldades na compreensão dos estudantes. As Figuras \@ref(fig:impacto46) a \@ref(fig:impacto48) exibem tais cruzamentos. É importante chamar à atenção de que as categorias têm pequenas quantidades, logo as tendências observadas têm razoável incerteza. Nessa avaliação também houve a participação de alguns estudantes do ensino médio (que tomaram parte no curso de IA). Os erros foram poucos e não se concentram em nenhum grupo. Isto é, todos tiveram resultados muito similares.
+
+
+
+```{r impacto46,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e ano escolar.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/46.png"))
+```
+
+
+```{r impacto47,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e idade.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/47.png"))
+```
+
+
+```{r impacto48,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e sexo.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/48.png"))
+```
+
+### Observações cruzadas
+
+
+Uma vez que os estudantes realizaram múltiplos exames é natural buscar observar se acertos em certas seções estão correlacionadas (levantando a hipótese de haver sinergia no aprendizado de certos temas). A Tabela \@ref(tab:quadroimpacto5) apresenta as questões temáticas com maior nível de correlação (acima de 0,7).
+
+
+```{r quadroimpacto5, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(kableExtra)
+
+Questao_A <-c(
+"CD6: Coleta de dados",
+"IA1: Identificar conceitos",
+"IA4: Identificar viés algorítmico",
+"CD6: Coleta de dados",
+"IA2: Identificar bases do pensamento computacional",
+"PC1.1: Planejar investigação científica")
+
+Questao_B <-c(
+"IA2: Identificar bases do pensamento computacional",
+"CD8: Métodos estatísticos (noção de intervalos de confiança)",
+"CD8: Métodos estatísticos (noção de intervalos de confiança)",
+"EG3.5: Crítica de gráficos (posição da cidade no mapa)",
+"EG3.5: Crítica de gráficos (posição da cidade no mapa)",
+"IA3: Identificar tipos de aprendizado de máquina")
+
+correlacaopearson <- c(
+"1,00",
+"0,77",
+"0,77",
+"0,76",
+"0,76",
+"0,76")
+
+
+
+quadro <- data.frame(Questao_A,Questao_B,correlacaopearson)
+
+names(quadro) <- c("Questões","","Encontros")
+
+kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
+```
+A maioria das relações acima não parece ter uma relação clara. Todavia, há temas com aparente sinergia. O tema “IA4: Identificar viés algorítmico” convida o estudante a reconhecer em um conjunto de reportagens o problema de viés que dados não representativos podem gerar aos modelos gerados a partir deles. O tema “CD8: Métodos estatísticos (noção de intervalos de confiança)” busca verificar se o estudante entende que um valor podem estar relacionados com a capacidade do estudante de perceber que dados selecionar para que um intervalo de confiança melhor represente um comportamento dos dados. Curiosamente, o tema “CD6: Coleta de dados” no qual propõe-se aos estudantes que indiquem quais as características que uma amostra deve ter para evitar vieses tem correlação baixa e negativa com os temas referidos anteriormente (-0,34 para CD8 e -0,45 para IA4).
+
+
+## Conclusão
+
+O desempenho geral dos estudantes foi de mediano a muito bom. O melhor resultado geral foi obtido no exame de Protagonismo, curso que teve a maior quantidade de encontros. Sugerindo que uma maior frequência tem efeito sobre o aprendizado dos estudantes. Todavia, não necessariamente por meio de “aulas cruciais” às quais se o estudante faltar não será capaz de compreender os temas.
+Os resultados mostram que estudantes que falharam em acertar em vários casos tiveram assiduidade mais baixa em encontros que na verdade têm relação meramente marginal ou não existente com o tema no qual falharam. Tal situação pode ser explicada por um conjunto de hipóteses: 1. Há um espalhamento do conteúdo ao longo dos encontros através de repetições e reforços. Assim, os estudantes têm diversas oportunidades de assimilar os temas. 2. Em alguns dos exames os estudantes que erraram certas questões não faltaram aula alguma. Há também casos onde os estudantes estiveram presentes em aulas cujo tema focal coincidiu com o tema da questão que eles falharam. Isso indica que tais estudantes estão tendo dificuldades mesmo presentes nas aulas.
+No que se refere aos cruzamentos dos acertos com as características dos estudantes, em geral há pouca distinção entre os diferentes grupos. Tal resultado é particularmente satisfatório no exame de Inteligência Artificial onde estudantes do 8º e 9º ano do fundamental e do 2º ano do médio estiveram em pé de igualdade. Em contraponto, estudantes mais velhos ou de anos escolares mais avançados tiveram desempenho levemente superior no exame de Produção do Conhecimento Científico. Ao mesmo tempo estes estudantes parecem têm maior complacência com entregar seus dados ou maior dificuldade em perceber as diversas formas de dados, uma condição frágil em relação à privacidade e proteção de seu próprio rastro digital.
+Ainda nesse ponto, o sexo biológico dos estudantes teve pouca relação com os resultados apesar dos estudantes do sexo masculino estarem a menos tempo participando do projeto. Entretanto o desempenho das estudantes do sexo feminino foi superior no exame de Protagonismo, o qual teve mais encontros em 2020. O que pode indicar que um efeito mais pronunciado na melhora de desempenho dos estudantes ocorre quando mais encontros são realizados dentro de um certo curso. Isto é, o conhecimento é consolidado através de várias aulas. Nesse mesmo exame um resultado positivo foi que nenhum dos estudantes autodeclarados negros errou as questões 2 e 5 (referentes à questão racial).
+
+
+## Referências 
+
+ - Gould, R. (2017). Data literacy is statistical literacy. Statistics Education Research Journal, 16(1), 22-25.
+ - Law, N., Woo, D., de la Torre, J., & Wong, G. (2018). A global framework of reference on digital literacy skills for indicator 4.4. 2. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
+ - UNESCO (2018). Mathematics Global-Content-Framework. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
+ - Wenning, C. J. Science literacy: What it is, how to assess it, and a way to achieve it. Disponível em: http://www.phy.ilstu.edu/pte/INDONESIA/PDFs/G.%20SciLit-What_&_How.pdf. Acessado em: Novembro/2020.
+ - Wenning, C. J. ScInqLiT (Scientific Inquiry Literacy Test). Disponível em: https://studylib.net/doc/8991191/scinqlit--scientific-inquiry-literacy-test-. Acessado em: Novembro/2020.
+ - Indiana Department of Education. ISTAR Science Sample Items for Grades 4, 6, and 10. Disponível em: https://www.doe.in.gov/sites/default/files/assessment/istar-2016-17-science-item-sampler-final.pdf. Acessado em: Novembro/2020.
+
+## Anexo: Teoria da mudança elaborada no início de 2020 {-}
+
+```{r impactoanexo1,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e sexo.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/anexo1.png"))
+```
+
+## Anexo: Questão aberta aplicada em exames de 2019 e 2020 e sua rubrica {-}
+
+Segundo o site do Instituto Trata Brasil, “Saneamento é o conjunto de medidas que visa preservar ou modificar as condições do meio ambiente com a finalidade de prevenir doenças e promover a saúde, melhorar a qualidade de vida da população e à produtividade do indivíduo e facilitar a atividade econômica. No Brasil, o saneamento básico é um direito assegurado pela Constituição (...)”.
+
+Embora atualmente se usa no Brasil o conceito de Saneamento Ambiental como sendo o conjunto de ações diretamente relacionadas a saúde pública e a proteção ambiental. Dentre estas ações se inserem: o abastecimento de água em quantidade e qualidade compatível com os padrões de potabilidade; coleta, tratamento e disposição adequada dos esgotos e dos resíduos sólidos, comumente chamado de lixo; drenagem e manejo de águas pluviais; e controle de vetores e reservatórios transmissores de doenças.
+
+A partir dos conceitos apresentados, observa-se que as ações de saneamento estão diretamente relacionadas à saúde pública e a proteção ambiental, além da sua essencialidade socioambiental. A falta de saneamento básico é extremamente grave por trabalhar com a questão do lixo, coleta do lixo, com esgotamento sanitário, água potável, e ter essas coisas tratadas significa qualidade de vida. O gráfico mostra como a falta de saneamento básico interferiu na saúde das pessoas em dez anos (2009 – 2018) no Brasil.
+
+
+```{r graficosaneamento,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Internações por carência de saneamento básico.",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("images/Impactos/grafico-saneamento.png"))
+```
+
+    A. O que representa o tamanho das bolinhas no gráfico?
+    B. Qual região tem as menores taxas de internação? Você acha que isso acontece por algum motivo? Se sim, qual?
+    C. Com base no gráfico, o que você percebeu sobre o Saneamento Básico da região Nordeste?
+    
+    
+    
+
+```{r quadroimpacto6, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(kableExtra)
+
+Parte <-c(
+"A.",
+"B.",
+"B.",
+"C."
+)
+
+Pergunta<-c("O que representa o tamanho das bolinhas no gráfico?",
+"Qual região tem as menores taxas de internação?",
+"Você acha que isso acontece por algum motivo?",
+"Com base no gráfico, o que você percebeu sobre o Saneamento Básico da região Nordeste?"
+)
+
+Tarefa <-c(
+"Identificar o significado de um elemento gráfico",
+"Extrair informação específica a partir de um elemento gráfico",
+"Elaborar uma hipótese verificável",
+"Extrair informações em geral a partir de um elemento gráfico")
+
+RespostasV <-c(
+"Respondeu alguma das respostas abaixo ou uma variante:
+“a taxa/qtd de pessoas internadas”;
+“a taxa/qtd de pessoas internadas por 100 mil hab.”;
+“a taxa/qtd de pessoas internadas por carência de saneamento básico por 100 mil hab.”;
+“o mesmo que o eixo Y/horizontal”.",
+"Respondeu exatamente:
+“Sudeste”",
+"Respondeu algo que possa ser medido com experimentos ou coleta de dados. Exemplos:
+“há mais investimento em saúde/saneamento”;
+“as pessoas se cuidam mais”;
+“há menos pessoas lá”.",
+"Em relação à taxa de internações, respondeu alguma das respostas abaixo ou uma variante:
+“tendeu a cair”;
+“oscilou e caiu”;
+“passou a ser a maior do Brasil”;
+“se manteve como uma das mais altas do Brasil”.
+
+OU
+
+Em relação ao saneamento básico, respondeu alguma das respostas abaixo ou uma variante:
+“melhorou um pouco, mas menos que as outras regiões”;")
+
+
+
+
+quadro <- data.frame(Parte,Pergunta,Tarefa,RespostasV)
+
+names(quadro) <- c("Parte","Pergunta","Tarefa","Resposta Válida")
+
+kbl(quadro,caption = "Rubrica:")
+```
 

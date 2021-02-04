@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  3 FEB 2021 19:54
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  4 FEB 2021 00:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2172,37 +2172,110 @@ File: images/Impactos/37.png Graphic file (type bmp)
 <images/Impactos/37.png>
 File: images/Impactos/38.png Graphic file (type bmp)
 <images/Impactos/38.png>
-[113] [114] [115] [116]
-Chapter 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1721--1723
+Overfull \hbox (228.47005pt too wide) in paragraph at lines 1709--1754
+ [][] 
+ []
+
+[113] [114] [115] [116] [117]
+File: images/Impactos/39.png Graphic file (type bmp)
+<images/Impactos/39.png>
+File: images/Impactos/40.png Graphic file (type bmp)
+<images/Impactos/40.png>
+[118]
+File: images/Impactos/41.png Graphic file (type bmp)
+<images/Impactos/41.png>
+File: images/Impactos/42.png Graphic file (type bmp)
+<images/Impactos/42.png>
+File: images/Impactos/43.png Graphic file (type bmp)
+<images/Impactos/43.png>
+File: images/Impactos/44.png Graphic file (type bmp)
+<images/Impactos/44.png>
+File: images/Impactos/45.png Graphic file (type bmp)
+<images/Impactos/45.png>
+[119] [120]
+File: images/Impactos/46.png Graphic file (type bmp)
+<images/Impactos/46.png>
+File: images/Impactos/47.png Graphic file (type bmp)
+<images/Impactos/47.png>
+File: images/Impactos/48.png Graphic file (type bmp)
+<images/Impactos/48.png>
+
+Overfull \hbox (232.91pt too wide) in paragraph at lines 1875--1892
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+[121] [122]
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
+\TU/lmr/m/n/10 em: []$[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [][][][] [] [
+] [] [] [] [] [] [] [][] [][] [] [] [] [] [] [] [] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1920--1921
+[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [
+] [] [] [] [] [][] [] [] [][] [][] [][] [][] [] [] [] [] [] [] [] [][] [] [] []
+[] [][] [] [] [] [] [] [] [] [][] [] [] [] [] [] [] [] [] []$[]\TU/lmr/m/n/10 .
 
  []
 
-[117
+File: images/Impactos/anexo1.png Graphic file (type bmp)
+<images/Impactos/anexo1.png>
+[123] [124]
+File: images/Impactos/grafico-saneamento.png Graphic file (type bmp)
+<images/Impactos/grafico-saneamento.png>
 
-] [118]
-No file Relatorio_parcial_01.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1745.
-[119
+Overfull \hbox (232.5pt too wide) in paragraph at lines 1959--1959
+[]\TU/lmtt/m/n/10 B. Qual região tem as menores taxas de internação? Você acha 
+que isso acontece por algum motivo? Se sim, qual?[] 
+ []
+
+
+Overfull \hbox (122.25pt too wide) in paragraph at lines 1959--1959
+[]\TU/lmtt/m/n/10 C. Com base no gráfico, o que você percebeu sobre o Saneament
+o Básico da região Nordeste?[] 
+ []
+
+
+Overfull \hbox (1985.08015pt too wide) in paragraph at lines 1965--1995
+ [][] 
+ []
+
+[125] [126
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1745.
+Chapter 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2017
+
+ []
+
+[127] [128]
+No file Relatorio_parcial_01.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2039.
+[129
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2039.
 (./Relatorio_parcial_01.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1745.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1745.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2039.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2039.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1745.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2039.
  ) 
 Here is how much of TeX's memory you used:
- 27724 strings out of 493007
- 500774 string characters out of 6136720
- 745725 words of memory out of 5000000
- 31287 multiletter control sequences out of 15000+600000
- 538657 words of font info for 89 fonts, out of 8000000 for 9000
+ 27811 strings out of 493007
+ 502720 string characters out of 6136720
+ 747294 words of memory out of 5000000
+ 31355 multiletter control sequences out of 15000+600000
+ 538681 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,9n,117p,10415b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,9n,117p,10415b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Relatorio_parcial_01.pdf (119 pages).
+Output written on Relatorio_parcial_01.pdf (129 pages).
