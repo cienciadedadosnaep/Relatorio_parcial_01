@@ -4,6 +4,15 @@ As atividades de fixação com os estudantes foram realizadas entre os meses de 
 As atividades foram elaboradas no Google Forms e disponibilizadas aos estudantes no horário da dinâmica realizada no Google Meet, após as instruções das equipes. O período de avaliação foi configurado para 40 minutos a partir do momento de abertura do link. Após este tempo novas respostas não foram aceitas. 
 
  **Sugestão: depois que todas as equipes inserirem suas atividades, sugiro um quadro com as informações dia da atividade, quantidade de alunos que realizaram, quantidade de questões por equipe e na ordem de apresentação dos itens a seguir. ou no final com mais uma coluna com as considerações gerais por equipe.** 
+
+As avaliações podem ser acessadas via os seguintes links:
+
+ - [Saneamento](https://docs.google.com/forms/d/1xAr6bonRjfJumIGB_0SHndqAAqJ2bLBUvWLZAh8doFw/edit)
+  - [Inteligência Artificial](https://docs.google.com/forms/d/18AF3aKUOceI_BEmef9ZFq-KJq9n-a97SgLRkW8s8RKI/edit)
+  - [Protagonismo](https://docs.google.com/forms/d/18WCwc6q87M9FTeV8u-pWQAvbOcSR02130lpMXvseiFI/edit)
+ - [Exploração Gráfica](https://docs.google.com/forms/d/1mIdDxZklOGfIrCCBrHdZXoSSdrSyk2oeovmwcBB274s/edit)
+ - [Ciência de Dados](https://docs.google.com/forms/d/13kIWrOCiosreMTk-sXc7PzOLZ52mRJgGKwV1s_dQqlE/edit)
+ 
  
 ## Ciência de Dados
 
