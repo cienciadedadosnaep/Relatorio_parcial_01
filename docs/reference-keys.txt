@@ -104,6 +104,7 @@ fig:impacto46
 fig:impacto47
 fig:impacto48
 tab:quadroimpacto5
+tab:quadroimpacto7
 fig:impactoanexo1
 fig:graficosaneamento
 tab:quadroimpacto6
