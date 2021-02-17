@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  16 FEB 2021 18:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  17 FEB 2021 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2077,23 +2077,25 @@ File: images/image17.png Graphic file (type bmp)
 <images/image17.png>
 [91] [92]
 Chapter 10.
+File: images/figura_capa/capa_impacto.png Graphic file (type bmp)
+<images/figura_capa/capa_impacto.png>
 
-Package hyperref Warning: Suppressing empty link on input line 1176.
-
-
-Underfull \vbox (badness 6188) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [93
 
 ]
+
+Package hyperref Warning: Suppressing empty link on input line 1180.
+
 File: images/Impactos/01.png Graphic file (type bmp)
 <images/Impactos/01.png>
+[94]
 File: images/Impactos/02.png Graphic file (type bmp)
 <images/Impactos/02.png>
-[94]
 File: images/Impactos/03.png Graphic file (type bmp)
 <images/Impactos/03.png>
-[95]
+[95] [96]
 File: images/Impactos/04.png Graphic file (type bmp)
 <images/Impactos/04.png>
 File: images/Impactos/05.png Graphic file (type bmp)
@@ -2104,16 +2106,15 @@ File: images/Impactos/07.png Graphic file (type bmp)
 <images/Impactos/07.png>
 File: images/Impactos/08.png Graphic file (type bmp)
 <images/Impactos/08.png>
-[96] [97]
 File: images/Impactos/09.png Graphic file (type bmp)
 <images/Impactos/09.png>
 File: images/Impactos/10.png Graphic file (type bmp)
 <images/Impactos/10.png>
+[97] [98] [99]
 File: images/Impactos/11.png Graphic file (type bmp)
 <images/Impactos/11.png>
 File: images/Impactos/12.png Graphic file (type bmp)
 <images/Impactos/12.png>
-[98] [99]
 File: images/Impactos/13.png Graphic file (type bmp)
 <images/Impactos/13.png>
 File: images/Impactos/14.png Graphic file (type bmp)
@@ -2124,10 +2125,10 @@ File: images/Impactos/16.png Graphic file (type bmp)
 <images/Impactos/16.png>
 File: images/Impactos/17.png Graphic file (type bmp)
 <images/Impactos/17.png>
-[100] [101]
+[100] [101] [102]
 File: images/Impactos/18.png Graphic file (type bmp)
 <images/Impactos/18.png>
-[102]
+[103]
 File: images/Impactos/19.png Graphic file (type bmp)
 <images/Impactos/19.png>
 File: images/Impactos/20.png Graphic file (type bmp)
@@ -2140,16 +2141,17 @@ File: images/Impactos/23.png Graphic file (type bmp)
 <images/Impactos/23.png>
 File: images/Impactos/24.png Graphic file (type bmp)
 <images/Impactos/24.png>
+[104] [105] [106]
 File: images/Impactos/25.png Graphic file (type bmp)
 <images/Impactos/25.png>
-[103] [104] [105]
+[107]
 File: images/Impactos/26.png Graphic file (type bmp)
 <images/Impactos/26.png>
-[106] [107]
 File: images/Impactos/27.png Graphic file (type bmp)
 <images/Impactos/27.png>
 File: images/Impactos/28.png Graphic file (type bmp)
 <images/Impactos/28.png>
+[108] [109]
 File: images/Impactos/29.png Graphic file (type bmp)
 <images/Impactos/29.png>
 File: images/Impactos/30.png Graphic file (type bmp)
@@ -2158,12 +2160,12 @@ File: images/Impactos/31.png Graphic file (type bmp)
 <images/Impactos/31.png>
 File: images/Impactos/32.png Graphic file (type bmp)
 <images/Impactos/32.png>
-[108] [109] [110] [111]
+[110] [111] [112] [113]
 File: images/Impactos/33.png Graphic file (type bmp)
 <images/Impactos/33.png>
 File: images/Impactos/34.png Graphic file (type bmp)
 <images/Impactos/34.png>
-[112]
+[114] [115]
 File: images/Impactos/35.png Graphic file (type bmp)
 <images/Impactos/35.png>
 File: images/Impactos/36.png Graphic file (type bmp)
@@ -2173,16 +2175,16 @@ File: images/Impactos/37.png Graphic file (type bmp)
 File: images/Impactos/38.png Graphic file (type bmp)
 <images/Impactos/38.png>
 
-Overfull \hbox (228.47005pt too wide) in paragraph at lines 1709--1754
+Overfull \hbox (228.47005pt too wide) in paragraph at lines 1713--1758
  [][] 
  []
 
-[113] [114] [115] [116] [117]
+[116]
 File: images/Impactos/39.png Graphic file (type bmp)
 <images/Impactos/39.png>
 File: images/Impactos/40.png Graphic file (type bmp)
 <images/Impactos/40.png>
-[118]
+[117] [118] [119]
 File: images/Impactos/41.png Graphic file (type bmp)
 <images/Impactos/41.png>
 File: images/Impactos/42.png Graphic file (type bmp)
@@ -2193,7 +2195,7 @@ File: images/Impactos/44.png Graphic file (type bmp)
 <images/Impactos/44.png>
 File: images/Impactos/45.png Graphic file (type bmp)
 <images/Impactos/45.png>
-[119] [120]
+[120] [121]
 File: images/Impactos/46.png Graphic file (type bmp)
 <images/Impactos/46.png>
 File: images/Impactos/47.png Graphic file (type bmp)
@@ -2201,22 +2203,27 @@ File: images/Impactos/47.png Graphic file (type bmp)
 File: images/Impactos/48.png Graphic file (type bmp)
 <images/Impactos/48.png>
 
-Overfull \hbox (232.91pt too wide) in paragraph at lines 1875--1892
+Overfull \hbox (232.91pt too wide) in paragraph at lines 1879--1896
  [][] 
  []
 
 
-Underfull \vbox (badness 1107) has occurred while \output is active []
+Overfull \hbox (3065.4702pt too wide) in paragraph at lines 1904--1919
+ [][] 
+ []
 
-[121] [122]
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
+
+Underfull \vbox (badness 2503) has occurred while \output is active []
+
+[122] [123]
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
 \TU/lmr/m/n/10 em: []$[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
 [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [][][][] [] [
 ] [] [] [] [] [] [] [][] [][] [] [] [] [] [] [] [] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1921
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
 [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [
 ] [] [] [] [] [][] [] [] [][] [][] [][] [][] [] [] [] [] [] [] [] [][] [] [] []
 [] [][] [] [] [] [] [] [] [] [][] [] [] [] [] [] [] [] [] []$[]\TU/lmr/m/n/10 .
@@ -2225,57 +2232,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 1920--1921
 
 File: images/Impactos/anexo1.png Graphic file (type bmp)
 <images/Impactos/anexo1.png>
-[123] [124]
+[124] [125]
 File: images/Impactos/grafico-saneamento.png Graphic file (type bmp)
 <images/Impactos/grafico-saneamento.png>
 
-Overfull \hbox (232.5pt too wide) in paragraph at lines 1959--1959
+Overfull \hbox (232.5pt too wide) in paragraph at lines 1984--1984
 []\TU/lmtt/m/n/10 B. Qual região tem as menores taxas de internação? Você acha 
 que isso acontece por algum motivo? Se sim, qual?[] 
  []
 
 
-Overfull \hbox (122.25pt too wide) in paragraph at lines 1959--1959
+Overfull \hbox (122.25pt too wide) in paragraph at lines 1984--1984
 []\TU/lmtt/m/n/10 C. Com base no gráfico, o que você percebeu sobre o Saneament
 o Básico da região Nordeste?[] 
  []
 
 
-Overfull \hbox (1985.08015pt too wide) in paragraph at lines 1965--1995
+Overfull \hbox (1985.08015pt too wide) in paragraph at lines 1990--2020
  [][] 
  []
 
-[125] [126
+[126] [127] [128
 
 ]
 Chapter 11.
-[127]
-Underfull \hbox (badness 10000) in paragraph at lines 2031--2033
+[129]
+Underfull \hbox (badness 10000) in paragraph at lines 2056--2058
 
  []
 
-[128]
+[130]
 No file Relatorio_parcial_01.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2055.
-[129
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2080.
+[131
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2055.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2080.
 (./Relatorio_parcial_01.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2055.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2055.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2080.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2080.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2055.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2080.
  ) 
 Here is how much of TeX's memory you used:
- 27811 strings out of 493007
- 502720 string characters out of 6136720
- 747294 words of memory out of 5000000
- 31355 multiletter control sequences out of 15000+600000
+ 27817 strings out of 493007
+ 502893 string characters out of 6136720
+ 747373 words of memory out of 5000000
+ 31359 multiletter control sequences out of 15000+600000
  538681 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,9n,117p,10415b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Relatorio_parcial_01.pdf (129 pages).
+Output written on Relatorio_parcial_01.pdf (131 pages).
