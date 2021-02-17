@@ -1,5 +1,17 @@
 # Avaliação geral de impacto
 
+<div class="capa">
+
+<div class="foto_ativ">
+![](images/figura_capa/capa_impacto.png)
+</div>
+
+<div class="leg_ativ">
+Representação da avaliação de impacto
+</div>
+
+</div>
+
 ## Introdução 
 
 As atividades de um projeto social precisam ser avaliadas com critérios transparentes e precisos. A avaliação permite uma melhor gestão do projeto e traz clareza à comunidade sobre o andamento do mesmo. Boas métricas devem ser baratas, precisas e mensurar elementos que tenham uma clara relação com objetos do interesse do público-alvo. A Teoria da Mudança auxilia na escolha das métricas. Esse método auxilia o analista a associar atividades e seus efeitos em uma cadeia de eventos. A certos efeitos associa-se uma métrica e desenha-se um método para medi-la. Apesar da simplicidade do método, não são incomuns empecilhos na sua execução.
@@ -527,6 +539,47 @@ names(quadro) <- c("Questões","","Encontros")
 kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
 ```
 A maioria das relações acima não parece ter uma relação clara. Todavia, há temas com aparente sinergia. O tema “IA4: Identificar viés algorítmico” convida o estudante a reconhecer em um conjunto de reportagens o problema de viés que dados não representativos podem gerar aos modelos gerados a partir deles. O tema “CD8: Métodos estatísticos (noção de intervalos de confiança)” busca verificar se o estudante entende que um valor podem estar relacionados com a capacidade do estudante de perceber que dados selecionar para que um intervalo de confiança melhor represente um comportamento dos dados. Curiosamente, o tema “CD6: Coleta de dados” no qual propõe-se aos estudantes que indiquem quais as características que uma amostra deve ter para evitar vieses tem correlação baixa e negativa com os temas referidos anteriormente (-0,34 para CD8 e -0,45 para IA4).
+
+
+```{r quadroimpacto7, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(kableExtra)
+
+Temas <- c("Protagomismos racial, social e de gênero",
+"Ciência de dados",
+"(re)Conhecendo Salvador",
+"Inteligência artificial",
+"Pensamento científico")
+
+Habilidades  <- c("Questões de gênero, raça e sociedade.",
+"Capacidade de coleta, organização e interpretação de dados; pensamento crítico, solução analítica de problemas através de métodos estatísticos.",
+"Reconhecimento das mudanças históricas da cidade através de dados e estatísticas; criatividade e interpretabilidade em exploração gráfica. Temas explorados: educação, população, turismo, transporte, e segurança.",
+"Inteligência artificial e seus impactos na sociedade; aprendizado de máquina; interseções com a ciência de dados; aspectos éticos e sociais envolvidos na criação de ferramentas de IA; autopercepção como futuros produtores de tecnologias", 
+"Formulação de uma pergunta científica; formulação de hipóteses; raciocínio correlacional;  cadeia de eventos de um fenômeno;  planejamento e condução de experimentos/coleta de dados da hipótese; análise de resultados inesperados; e apresentação e delineamento de conclusões baseadas em evidência." 
+)
+
+Avancos <- c("Reconhecimento das relações entre machismo e desigualdade de gênero; do papel social da mulher negra; do movimento social com liderança feminina.",
+"Compreensão de estatísticas descritivas - medidas de tendência central e medidas de dispersão, estatísticas inferenciais - população, amostra e amostragem, intervalo de confiança e margem de erro, interpretação gráfica - barras, linhas, box-plot.",
+"Leitura de mapas dos distritos sanitários, a compreensão da diferença de densidade populacional da cidade, análise de gráficos de linha e barra e identificação de potenciais relações causais dos estudantes",
+"Reconhecimento do uso de IA no cotidiano; desmistificação da associação de IA exclusivamente para a produção de robôs, observados em filmes.",
+"Reconhecimento da ciência no cotidiano; desmistificação da profissão do cientista (e cientista de dados) associados a imagem masculina de um cientista maluco; entendimento individual de cada etapa do método científico; entendimento da importância da exploração de resultados esperados ou não."
+)
+
+limitaobs<-c("Abstração dos conceitos estudados, na interpretação de uma música, por exemplo.",
+"Compreensão limitada da ideia de viés amostral e como evitá-lo.",
+"Análise e expressão escrita, incompletude das respostas e carência de argumentação espontânea.",
+"Compreensão de conceitos de aprendizagem de máquina; extrapolação dos usos de IA para além do que lhes foram apresentados.", 
+"Identificação das etapas de um experimento/pesquisa precisam ser fortalecidas."
+)
+
+quadro <- data.frame(Temas,Habilidades,Avancos,limitaobs)
+
+names(quadro) <- c("Temas",	"Habilidades",	"Avanços",	"Limitações observadas")
+
+kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
+
+
+```
 
 
 ## Conclusão
