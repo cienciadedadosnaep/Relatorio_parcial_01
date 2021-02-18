@@ -1,4 +1,4 @@
-#  Construção do Website do Projeto
+#  Construção do Website do Projeto {#website}
 
 O [website do Projeto](https://cienciadedadosep.wixsite.com/cdep/sobre) foi construído como ferramenta de compartilhamento de materiais para toda a comunidade escolar, professores, estudantes, coordenadores e gestores (ver Figura \@ref(fig:pagcdnaep)). Visando facilitar o acesso ao site (de modo intuitivo) os conteúdos foram organizados e agrupados em: “Início”, “Sobre”, “Café com Dados”, “Professores”, “Estudantes” e “Ferramentas” . Na Figura \@ref(fig:diagrpagcdnaep) é apresentado um mapa conceitual da página.
 O site “Ciência de Dados na Educação Pública” foi desenvolvido em março, através do Wix, devido a facilidade apresentada pela plataforma na personalização e manipulação de conteúdo. Produzido através de um modelo de template oferecido pelo Wix, o design de interface e estrutura do site precisaram de algumas adaptações para adentrarem na identidade visual do projeto. Ademais estruturalmente, com o objetivo de ampliar a interação com os usuários, todas as páginas do site possuem um espaço para "comentários".

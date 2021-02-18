@@ -541,6 +541,20 @@ kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
 A maioria das relações acima não parece ter uma relação clara. Todavia, há temas com aparente sinergia. O tema “IA4: Identificar viés algorítmico” convida o estudante a reconhecer em um conjunto de reportagens o problema de viés que dados não representativos podem gerar aos modelos gerados a partir deles. O tema “CD8: Métodos estatísticos (noção de intervalos de confiança)” busca verificar se o estudante entende que um valor podem estar relacionados com a capacidade do estudante de perceber que dados selecionar para que um intervalo de confiança melhor represente um comportamento dos dados. Curiosamente, o tema “CD6: Coleta de dados” no qual propõe-se aos estudantes que indiquem quais as características que uma amostra deve ter para evitar vieses tem correlação baixa e negativa com os temas referidos anteriormente (-0,34 para CD8 e -0,45 para IA4).
 
 
+
+
+## Conclusão
+
+
+O desempenho geral dos estudantes foi de mediano a muito bom. O melhor resultado geral foi obtido no exame de Protagonismo, curso que teve a maior quantidade de encontros. Sugerindo que uma maior frequência tem efeito sobre o aprendizado dos estudantes. Todavia, não necessariamente por meio de “aulas cruciais” às quais se o estudante faltar não será capaz de compreender os temas.
+Os resultados mostram que estudantes que falharam em acertar em vários casos tiveram assiduidade mais baixa em encontros que na verdade têm relação meramente marginal ou não existente com o tema no qual falharam. Tal situação pode ser explicada por um conjunto de hipóteses: 1. Há um espalhamento do conteúdo ao longo dos encontros através de repetições e reforços. Assim, os estudantes têm diversas oportunidades de assimilar os temas. 2. Em alguns dos exames os estudantes que erraram certas questões não faltaram aula alguma. Há também casos onde os estudantes estiveram presentes em aulas cujo tema focal coincidiu com o tema da questão que eles falharam. Isso indica que tais estudantes estão tendo dificuldades mesmo presentes nas aulas.
+No que se refere aos cruzamentos dos acertos com as características dos estudantes, em geral há pouca distinção entre os diferentes grupos. Tal resultado é particularmente satisfatório no exame de Inteligência Artificial onde estudantes do 8º e 9º ano do fundamental e do 2º ano do médio estiveram em pé de igualdade. Em contraponto, estudantes mais velhos ou de anos escolares mais avançados tiveram desempenho levemente superior no exame de Produção do Conhecimento Científico. Ao mesmo tempo estes estudantes parecem ter maior complacência com entregar seus dados ou maior dificuldade em perceber as diversas formas de dados, uma condição frágil em relação à privacidade e proteção de seu próprio rastro digital.
+Ainda nesse ponto, o sexo biológico dos estudantes teve pouca relação com os resultados apesar dos estudantes do sexo masculino estarem a menos tempo participando do projeto. Entretanto o desempenho das estudantes do sexo feminino foi superior no exame de Protagonismo, o qual teve mais encontros em 2020. O que pode indicar que um efeito mais pronunciado na melhora de desempenho dos estudantes ocorre quando mais encontros são realizados dentro de um certo curso. Isto é, o conhecimento é consolidado através de várias aulas. Nesse mesmo exame um resultado positivo foi que nenhum dos estudantes autodeclarados negros errou as questões 2 e 5 (referentes à questão racial).
+
+
+Uma síntese das observações realizadas pelas diferentes equipes do projeto está disponível na tabela 
+\@ref(tab:quadroimpacto7): 
+
 ```{r quadroimpacto7, echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
 library(kableExtra)
@@ -576,18 +590,17 @@ quadro <- data.frame(Temas,Habilidades,Avancos,limitaobs)
 
 names(quadro) <- c("Temas",	"Habilidades",	"Avanços",	"Limitações observadas")
 
-kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
-
-
+kbl(quadro,caption = "Observações qualitativas sobre a experiências dos estudantes em diferentes encontros.")
 ```
 
-
-## Conclusão
-
-O desempenho geral dos estudantes foi de mediano a muito bom. O melhor resultado geral foi obtido no exame de Protagonismo, curso que teve a maior quantidade de encontros. Sugerindo que uma maior frequência tem efeito sobre o aprendizado dos estudantes. Todavia, não necessariamente por meio de “aulas cruciais” às quais se o estudante faltar não será capaz de compreender os temas.
-Os resultados mostram que estudantes que falharam em acertar em vários casos tiveram assiduidade mais baixa em encontros que na verdade têm relação meramente marginal ou não existente com o tema no qual falharam. Tal situação pode ser explicada por um conjunto de hipóteses: 1. Há um espalhamento do conteúdo ao longo dos encontros através de repetições e reforços. Assim, os estudantes têm diversas oportunidades de assimilar os temas. 2. Em alguns dos exames os estudantes que erraram certas questões não faltaram aula alguma. Há também casos onde os estudantes estiveram presentes em aulas cujo tema focal coincidiu com o tema da questão que eles falharam. Isso indica que tais estudantes estão tendo dificuldades mesmo presentes nas aulas.
-No que se refere aos cruzamentos dos acertos com as características dos estudantes, em geral há pouca distinção entre os diferentes grupos. Tal resultado é particularmente satisfatório no exame de Inteligência Artificial onde estudantes do 8º e 9º ano do fundamental e do 2º ano do médio estiveram em pé de igualdade. Em contraponto, estudantes mais velhos ou de anos escolares mais avançados tiveram desempenho levemente superior no exame de Produção do Conhecimento Científico. Ao mesmo tempo estes estudantes parecem têm maior complacência com entregar seus dados ou maior dificuldade em perceber as diversas formas de dados, uma condição frágil em relação à privacidade e proteção de seu próprio rastro digital.
-Ainda nesse ponto, o sexo biológico dos estudantes teve pouca relação com os resultados apesar dos estudantes do sexo masculino estarem a menos tempo participando do projeto. Entretanto o desempenho das estudantes do sexo feminino foi superior no exame de Protagonismo, o qual teve mais encontros em 2020. O que pode indicar que um efeito mais pronunciado na melhora de desempenho dos estudantes ocorre quando mais encontros são realizados dentro de um certo curso. Isto é, o conhecimento é consolidado através de várias aulas. Nesse mesmo exame um resultado positivo foi que nenhum dos estudantes autodeclarados negros errou as questões 2 e 5 (referentes à questão racial).
+**O quadro \@ref(tab:quadroimpacto7)  demonstra a variedade de experiências 
+compartilhadas entre as equipes e os estudantes. Sendo detalhadas as habilidades, 
+avanços e limitações nos diferentes temas, que foram explorados com bases conceituais, 
+centrais para o pleno desenvolvimento em protagonismo e letramento em dados. Embora seja
+destacada a dificuldade de abstração, desenvolvimento de escrita, argumentação e ainda
+ do reconhecimento das etapas conceituais em pensamento científico, 
+ quantitativamente o resultado está coeso com os avanços revelados no quadro \@ref(tab:quadroimpacto7).
+ Os encontros com professores geraram debates entorno destas dificuldades, contudo reconheciam os avanços apresentados.**
 
 
 ## Referências 

@@ -22,9 +22,21 @@ Parafraseando Mary Beardy para Women & Power: O Manifesto,\ 2017: "You cannot ea
 
 ## Objetivos {-}
 
-O projeto Ciência de Dados na Educação Pública atua no desenvolvimento de ferramentas e meios para apoiar a formação de estudantes e a capacitação de professoras/es na área de ciência de dados de modo a reconhecerem, construírem e proporem soluções para problemas da sociedade. 
-Ampliando as ações do Projeto Meninas na Ciência de Dados, passa-se a abraçar toda comunidade escolar, estudantes do ensino fundamental II e médio, sem distinção de sexo.
-A nova estratégia de ação, além de cotar com a liderança integrada entre as escolas, a universidade e a comunidade, fundamenta todo o material didático utilizado e em construção no cotidiano de vulnerabilidades sociais, raciais e de gênero, mas estende-se a outras escolas da rede pública, visando, assim, a construção de novos territórios educacionais.
+O projeto Ciência de Dados na Educação Pública
+atua no desenvolvimento de ferramentas e meios para
+apoiar a formação de estudantes e a capacitação de
+professoras/es na área de ciência de dados de modo
+a reconhecerem, construírem e proporem soluções
+para problemas da sociedade.
+A mpliando as ações do Projeto Meninas na Ciência
+de Dados, passa-se a abraçar toda comunidade
+escolar, estudantes do ensino fundamental II e médio,
+sem distinção de sexo.
+A nova estratégia de ação, além de contar com a
+liderança integrada entre as escolas, a universidade e
+a comunidade, fundamenta todo o material didático
+utilizado e em construção, no cotidiano de vulnerabilidades sociais, raciais e de gênero, com vistas a se estender a outras
+escolas da rede pública, visando, assim, a construção de novos territórios educacionais.
 
 ## Público Alvo {-}
 
@@ -54,7 +66,6 @@ knitr::include_graphics("images/image113.png")
 
 ## Ações do Projeto {-}
 
-As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações, conforme descrito a seguir (seções 1-5). Juntamente com as demais seções, este relatório busca descrever de forma sucinta tais ações e seus resultados, assim como os desafios e dificuldades encontradas que exigiram o reajuste das atividades planejadas inicialmente.
+As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações, conforme descrito a seguir (seções \@ref(website)-\@ref(encest)). Juntamente com as demais seções, este relatório busca descrever de forma sucinta tais ações e seus resultados, assim como os desafios e dificuldades encontradas que exigiram o reajuste das atividades planejadas inicialmente.
 
 
-**COLOCAR LISTA SUMARIO**
