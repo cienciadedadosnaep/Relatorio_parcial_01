@@ -5,6 +5,11 @@ O E-book sobre protagonismos social, racial e de gênero é o único volume que 
 
 ## *e-book* 1. Ciência de Dados ($80\%$ concluído)
 
+Na Figura \@ref(fig:ebookcd) é apresentado o mapa conceitual do E-book 1 - Ciência de Dados e a Figura \@ref(fig:ebookprotag) exemplifica a apresentação visual do conteúdo do Capítulo 2 deste mesmo e-book.
+
+```{r ebookprotag, fig.cap='Imagem apresentada no Capítulo 2 do E-book de Ciência de Dados.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/image116.png")
+```
 
 ```{r ebookcd, fig.cap='Mapa conceitual do E-book 1 – Ciência de Dados.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("images/image115.png")
@@ -30,11 +35,7 @@ Cap. 1 - Blackface, Representatividade negra e Preconceito racial na mídia; Cap
 
 ### Protagonismo de Gênero ($0\%$ concluído)
 Cap. 1 - A trajetória da construção do conceito (de mulher para gênero); Cap. 2- Sexo e sexualidade; Cap. 3 - Identidade de gênero (homens e mulheres cisgênero e transgênero); Cap. 4 - Orientação sexual (heterossexualidade, homossexualidade e bissexualidade); Cap. 5 - Sexo biológico e expressão de gênero (masculina, feminina e não-binária); Cap. 6- Diversidade sexual e cidadania; Cap. 7 - Movimentos sociais LGBTQI+ e a luta/conquista de direitos; Cap. 8 - Discursos hegemônicos e narrativas sobre homens e mulheres na sociedade brasileira; atribuição de papéis e expectativas sociais; Cap. 9 - Violência de gênero e violência contra a mulher; Cap. 10 - Diversidade sexual na escola e a Atenção à criança e ao adolescente vítima de discriminação por orientação sexual e identidade de gênero; Cap. 11- Representatividade feminina nas ciências; Cap. 12- Protagonismo de gênero e Lei de Diretrizes e Bases (LDB); Cap. 13 - Protagonismo de gênero, Ciência de Dados e Inteligência Artificial (IA).
-Na Figura \@ref(fig:ebookcd) é apresentado o mapa conceitual do E-book 1 - Ciência de Dados e a Figura \@ref(fig:ebookprotag) exemplifica a apresentação visual do conteúdo do Capítulo 2 deste mesmo e-book.
 
-```{r ebookprotag, fig.cap='Imagem apresentada no Capítulo 2 do E-book de Ciência de Dados.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("images/image116.png")
-```
 
 
 

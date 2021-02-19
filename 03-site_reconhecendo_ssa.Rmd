@@ -2,7 +2,7 @@
 
 A construção do site (re)Conhecendo Salvador requer a realização de cinco etapas: (1) Briefing; (2) Conteúdo; (3) Design; (4) Desenvolvimento e (5) Publicação. A etapa (1) está concluída. Dados e estatísticas de Salvador são explorados individualmente ou conectando os seguintes grandes temas: Educação, Turismo, Segurança, População e Famílias, Ciência e Tecnologia, Lazer e Desporto, Saúde, Transporte, Meio Ambiente e Justiça. Um mapa conceitual deste site é apresentado na Figura \@ref(fig:recossa). A partir das experiências trazidas pelos estudantes são exploradas e sua visão da cidade e sociedade ampliada com a exploração gráfica de dados e estatísticas. Tais habilidades tentam fortalecê-los ao se perceberem como agentes de mudanças da sociedade.
 
-```{r recossa, fig.cap='Desenho esquemático do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r recossa, fig.cap='Desenho esquemático do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/mapaconceitualressa.png")
 ```
 
@@ -19,39 +19,24 @@ Para dar início ao desenvolvimento, em abril de 2020, ocorreu a primeira reuni�
 O levantamento dos dados para o desenvolvimento do banco de dados responsável por abastecer o site começou em Agosto. Esta etapa ainda está em andamento em decorrência da dificuldade de encontrar dados abertos e que respondam ao nosso banco de perguntas. Para agilizar o desenvolvimento do banco de dados, algumas perguntas estão sendo reformuladas de acordo com os dados já levantados.
 A Figura \@ref(fig:steprecossa) apresenta as etapas de desenvolvimento do site. Em relação ao relatório de setembro, tivemos um avanço significativo a partir das entregas da logomarca e identidade visual do (re)Conhecendo Salvador. O design de interface, entretanto, é uma etapa que continua em andamento porque apenas uma tela foi desenvolvida, a tela inicial, porém, a partir dela, e da identidade visual feita pela Alinhavo Jr. será continuado o trabalho de design de interface das páginas seguintes de forma interna. 
 
-```{r steprecossa, fig.cap='Fluxo do processo de desenvolvimento do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r steprecossa, fig.cap='Fluxo do processo de desenvolvimento do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image108.png")
 ```
 
-### Relato da contratação da empresa de design gráfico Alinhavo Jr. e entrega da identidade visual e página principal do site (re)Conhecendo Salvador 
-
-No início do mês de setembro, foi enviado o Termo de Referência para
-contratação de empresa especializada na prestação de serviços de design gráfico à FAPEX. Entretanto, dentro do prazo estipulado no edital, não houve submissões de empresas candidatas, fazendo-se necessária a prorrogação do prazo por três vezes. Por se tratar de um processo licitatório, era preciso ter, pelo menos, 3 propostas de empresas candidatas para realizar a contratação, entretanto, só houve uma empresa interessada e, assim, foi solicitado ao setor jurídico da FAPEX a aprovação desta proposta para dar início ao desenvolvimento da identidade visual e da interface do site (re)Conhecendo Salvador. Todo esse processo consumiu, aproximadamente, 50 dias do projeto, sendo a contratação da empresa efetivada no início do mês de novembro.
-De acordo com o edital, a empresa contratada deveria desenvolver e entregar, em um prazo de 8 semanas ininterruptas, os seguintes produtos:
-
- - A identidade visual do (re)Conhecendo Salvador;
- - A página principal do site contendo no mínimo:
-    i.	Logomarca do site (Re)Conhecendo Salvador;
-    ii.	Menu superior;
-    iii.	Ilustração com temática de (Re)Conhecendo Salvador;
-    iv.	Menu inferior.
-
-A partir do aceite da FAPEX para a contratação da única empresa candidata ao edital, foram realizadas 5 reuniões da equipe do site com a empresa Alinhavo Jr.. A primeira reunião foi solicitada pela equipe do projeto para comunicar a aprovação da proposta pela FAPEX (29/10/2020). As demais reuniões foram solicitadas pela Alinhavo Jr. para apresentar a equipe responsável por desenvolver a identidade visual e a interface do site, além do cronograma de entregas, dando início ao processo de imersão da empresa (19/11/2020), que foi continuado no na semana seguinte (26/11/2020), a partir de uma demanda da equipe do site de incluir estudantes do projeto Ciência de Dados na Educação Pública.
-Posteriormente, ocorreram outras reuniões para realizar entregas parciais (11/01/2021 e 20/01/2021). Por ser um processo iterativo e incremental, o cronograma de entrega precisou ser reajustado, dadas as necessidades de mudança no processo de construção dos produtos solicitados pela própria equipe do site (re)Conhecendo Salvador. Detalhes dos encontros estão descritos a seguir.
 
 ### Etapas de desenvolvimento da homepage do site (re)Conhecendo Salvador 
 O desenvolvimento da tela inicial do site (re)conhecendo Salvador foi 
-realizado de forma incremental entre as partes. Quando a equipe recebeu 
-a confirmação da contratação da empresa Alinhavo Jr. pela FAPEX, 
-marcou-se uma reunião inicial (29/10/2020) com as duas equipes, dando 
-início ao alinhamento de expectativas e processo de desenvolvimento da 
+realizado de forma incremental entre a equipe idealizadora do projeto e a empresa Alinhavo Jr. Inicialmente, foi realizado uma reunião de 
+alinhamento de expectativas e processo de desenvolvimento da 
 identidade visual e da interface do site. 
 Durante a reunião, novamente, foi apresentada a proposta do projeto, ressaltada a sua relevância e o seu impacto social. O site (re)Conhecendo Salvador, que foi inspirado em um site de Portugal (Pordata Kids), tem como público estudantes de escolas públicas do ensino fundamental 2, e deveria trazer um “mapa” da cidade como ilustração principal, sem perder o aspecto funcional da cidade, retratando suas particularidades, que incluem os contrastes sociais, sua historicidade, porém sem parecer um marketing turístico. A Alinhavo Jr. aproveitou a oportunidade para solicitar que a equipe do site apresentasse referências para que eles pudessem começar o processo de criação dos produtos. Então, foram enviados por e-mail as principais referências de sites para a concepção do (re)Conhecendo Salvador ([Pordatakids](https://www.pordatakids.pt/); [Educa IBGE](https://educa.ibge.gov.br/) e [YouCubed](https://www.youcubed.org/pt-br/)), além de relatórios e apresentações sobre os projetos “Meninas na Ciência de Dados” e “Ciência de Dados na Educação Pública” e suas respectivas logomarcas. 
 	
-Após a assinatura do contrato em 06 de novembro de 2020, a Alinhavo Jr. solicitou uma nova reunião para apresentar oficialmente a equipe responsável por desenvolver o projeto de identidade visual e interface do site. A partir dessa nova reunião, a equipe do site passou a contar com a colaboração da Professora Drª. Roseline Vanessa Santos Oliveira, líder do Laboratório de Investigações de Núcleos Habitados (LIN-A), da Universidade Federal de Alagoas (UFAL). A Prof. Roseline trouxe observações bastante pertinentes e relevantes sobre os aspectos históricos e urbanísticos da cidade de Salvador, como a percepção dos sentidos como a audição (os sons da cidade de Salvador e a sua musicalidade), o olfato e o paladar (o cheiro característico da cidade proveniente de sua cultura e culinária), além dos aspectos artístico presentes no mais diversos lugares da cidade, remontando, muitas vezes, não apenas suas origens quanto influências sofridas da fundação e desenvolvimento da cidade de Salvador. Durante essa reunião, a equipe do site solicitou que a Alinhavo Jr. incluísse no processo de criação a participação dos estudantes atuais do projeto o que gerou a necessidade de uma reunião exclusiva com esses estudantes e uma extensão do prazo em 10 dias. Ainda nesta reunião, ficou acordado que a equipe deveria responder a um questionário elaborado pela própria empresa Jr. assim como também seria elaborado um questionário específico para os estudantes, para captação de dados. Após essa reunião, a Alinhavo Jr. disponibilizou os links dos formulários para serem respondidos pela equipe, e pelos estudantes. Os links foram publicados no canal geral do Slack do projeto e no grupo de WhatsApp dos estudantes, junto com uma mensagem de solicitação para o preenchimento dos formulários por todos.
-Após o preenchimentos dos formulários, os estudantes foram convidados a participarem de um encontro extra (26/11/2020) sobre o desenvolvimento do site (re)Conhecendo Salvador no dia . Em função do horário da reunião divergir dos horários de atividades combinados previamente com os estudantes e seus familiares, houve pouca adesão - aproximadamente 10/25 estudantes participaram do novo encontro com a empresa Jr. e poucos se manifestaram no chat ou por áudio. Para equilibrar a baixa interatividade dos estudantes nessa reunião e, ainda, captar mais informações deles, foi sugerido pela equipe do site que eles fizessem um esboço ou desenho sobre Salvador ou como eles imaginavam que seria o site de acordo com a proposta do projeto. A Alinhavo Jr.também elaborou um novo questionário que foi enviado aos estudantes para mais coleta de informações. 
-A primeira entrega parcial aconteceu no dia 11 de janeiro de 2020 na presença de toda a equipe desenvolvedora da identidade visual da Alinhavo Jr. juntamente com a equipe do site, a Prof. Roseline e pesquisadores do “Ciência de Dados na Educação Pública”. Na entrega parcial foi apresentada a concepção da logomarca do site, a justificativa pela escolha das cores e como a logomarca se relaciona com o projeto. Em seguida, foi apresentada a interface da tela inicial do site, de forma detalhada, desde a apresentação dos menus, da ilustração, das seções de apresentação do site, projeto e grupo de pesquisa, apresentação da equipe, e contatos. Ao final, a equipe do site, junto com as professoras Karla Esquerre e Roseline apontaram aspectos que precisavam ser ajustados para atingir o objetivo do projeto. A ilustração principal não trazia os aspectos funcionais da cidade e nem respondiam aos temas do menu superior (como educação, saúde, emprego, ciência e tecnologia), estava muito focada nos aspectos históricos e turísticos de Salvador. Também foram solicitadas alterações menores como na cor dos botões, nas cores do logo, para ficarem mais vivas, mudança nos títulos das abas da seção “Sobre o projeto”  de “História” para “Percurso” e “Atividades” para “Dinâmicas”, mudança na seção “nossa equipe” por um único elemento fotográfico, além do desenho de fundo da página, e por fim, uma pequena alteração no rodapé. Ficou acordado entre as partes, o envio de uma nova versão em 48 horas. 
-Na nova versão, havia um esboço da ilustração inicial bastante modificada e mais adequada aos objetivos do site, mas ainda precisava de algum refinamento. Por e-mail foram solicitadas as seguintes alterações:
+
+O desenvolvimento da identidade visual e interface contou com a colaboração da equipe do projeto, estudantes e Laboratório de Investigações de Núcleos Habitados (LIN-A), da Universidade Federal de Alagoas (UFAL) e empresa Alinhavo Jr. por meio de encontros virtuais com estes grupo e formulários digitais. Entre as considerações apresentadas neste amplo debate foram destacados os aspectos históricos e urbanísticos da cidade de Salvador, como a percepção dos sentidos como a audição (os sons da cidade de Salvador e a sua musicalidade), o olfato e o paladar (o cheiro característico da cidade proveniente de sua cultura e culinária), além dos aspectos artístico presentes no mais diversos lugares da cidade, remontando, muitas vezes, não apenas suas origens quanto influências sofridas da fundação e desenvolvimento da cidade de Salvador. Adicionalmente, a equipe do site solicitou que a Alinhavo Jr. incluísse no processo de criação a participação dos estudantes por meio do envio de seus desenhos assim como o preenchimento de um questionário específico para os estudantes, para captação de dados. 
+
+A primeira entrega parcial aconteceu no início janeiro de 2021 na presença de toda a equipe desenvolvedora da identidade visual da Alinhavo Jr. e os colaboradores do projeto "Ciência de Dados na Escola Pública". Na entrega parcial foi apresentada a concepção da logomarca do site, a justificativa pela escolha das cores e como a logomarca se relaciona com o projeto. Em seguida, foi apresentada a interface da tela inicial do site, de forma detalhada, desde a apresentação dos menus, da ilustração, das seções de apresentação do site, projeto e grupo de pesquisa, apresentação da equipe, e contatos. Ao final, conclui-se que alguns aspectos precisavam ser ajustados para atingir o objetivo do projeto. A ilustração principal não trazia completamente os aspectos funcionais da cidade e nem respondiam aos temas do menu superior (como educação, saúde, emprego, ciência e tecnologia), estava muito focada nos aspectos históricos e turísticos de Salvador. Também foram solicitadas alterações menores como na cor dos botões, nas cores do logo, para ficarem mais vivas, mudança nos títulos das abas da seção “Sobre o projeto”  de “História” para “Percurso” e “Atividades” para “Dinâmicas”, mudança na seção “nossa equipe” por um único elemento fotográfico, além do desenho de fundo da página, e por fim, uma pequena alteração no rodapé.
+
+A nova versão, havia um esboço da ilustração inicial bastante modificada e mais adequada aos objetivos do site, mas ainda precisava de algum refinamento. Por e-mail foram solicitadas as seguintes alterações:
 
  **Tela inicial**
 
@@ -74,29 +59,29 @@ Na nova versão, havia um esboço da ilustração inicial bastante modificada e 
 
  - Substituir gráficos de fundo por uma ilustração da entrada da politécnica, pois representa o lugar onde a equipe está localizada (Politécnica) e a própria UFBA, que não apareceu em outros lugares do site.
 
-A entrega dos produtos foi realizada no dia 28 de Janeiro de 2021 através do compartilhamento dos arquivos em nuvem.  Abaixo, serão apresentadas a logomarca e a tela inicial do site.
+A entrega dos produtos foi realizada ao final de Janeiro de 2021 através do compartilhamento dos arquivos em nuvem.  Abaixo, serão apresentadas a logomarca e a tela inicial do site.
 A logomarca é o elemento de identidade visual mais representativo.  Assim, a logomarca do projeto foi desenvolvida para conversar entre a proposta do projeto Ciência de Dados na Educação Pública e do grupo de pesquisa GAMMA. A proposta que foi apresentada pela Alinhavo Jr. e aceita pela equipe está apresentada na Figura \@ref(fig:logorecossa).
 
-```{r logorecossa, fig.cap=' Logomarca oficial do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r logorecossa, fig.cap=' Logomarca oficial do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image100.png")
 ```
 
 A logomarca traz elementos que representam o sol e as pessoas, assim como o céu de Salvador. O movimento das ondas do mar está representado através de parábolas, que se abraçam, trazendo a sensação do afeto que é tão importante para o projeto. Os “dedos” também fazem alusão à representação do gráfico de barras, representando a ciência de dados e a estatística. 
 A interface da página inicial do site (re)Conhecendo Salvador aprovada pela equipe está apresentada nas figuras \@ref(fig:ilustrecossa), \@ref(fig:sobrerecossa), \@ref(fig:equiperecossa) e \@ref(fig:contatorecossa) (ilustração, sobre o projeto, equipe e contato respectivamente).
 
-```{r ilustrecossa, fig.cap='Apresentação e ilustração/menu do site (re)Conhecendo Salvador', echo=FALSE, message=FALSE, warning=FALSE}
+```{r ilustrecossa, fig.cap='Apresentação e ilustração/menu do site (re)Conhecendo Salvador', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image29.png")
 ```
 
-```{r sobrerecossa, fig.cap='Seção “Sobre o Projeto”.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r sobrerecossa, fig.cap='Seção “Sobre o Projeto”.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image7.png")
 ```
 
-```{r equiperecossa, fig.cap='Seção “Equipe”.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r equiperecossa, fig.cap='Seção “Equipe”.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image23.png")
 ```
 
-```{r contatorecossa, fig.cap='Seção “Contato”.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r contatorecossa, fig.cap='Seção “Contato”.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image90.png")
 ```
 
@@ -116,20 +101,20 @@ A próxima etapa de desenvolvimento do (re)Conhecendo Salvador versão beta foi 
 A diagramação das telas seguiu o fluxo de telas do site Pordata Kids: tela inicial > tela de submenus dos temas > painel de perguntas > dashboards com gráficos. A logomarca, os elementos do menu principal e os botões foram todos criados utilizando dos recursos gratuitos oferecidos na plataforma de design online Canva (Figura \@ref(fig:logotrecossa), \@ref(fig:botaotrecossa), \@ref(fig:voltartrecossa) e \@ref(fig:botaointtrecossa))
 
 
-```{r logotrecossa, out.width = "50%",fig.cap='Logomarca da versão teste.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r logotrecossa, out.width = "50%",fig.cap='Logomarca da versão teste.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image11.png")
 ```
 
-```{r botaotrecossa,out.width = "150%", fig.cap='Botões do menu principal', echo=FALSE, message=FALSE, warning=FALSE}
+```{r botaotrecossa,out.width = "150%", fig.cap='Botões do menu principal', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image80.png")
 ```
 
-```{r voltartrecossa, out.width = "50%",fig.cap='Botão de rodapé.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r voltartrecossa, out.width = "50%",fig.cap='Botão de rodapé.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image69.png")
 ```
 
 
-```{r botaointtrecossa, out.width = "50%",fig.cap='Botões dos painéis dos subtemas educação, população e segurança, de cima para baixo, respectivamente.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r botaointtrecossa, out.width = "50%",fig.cap='Botões dos painéis dos subtemas educação, população e segurança, de cima para baixo, respectivamente.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image27.png")
 ```
 
@@ -146,22 +131,22 @@ A seguir, serão apresentadas as telas da versão teste do (re)Conhecendo Salvad
 
 
 
-```{r teleinicialtrecossa, out.width = "100%",fig.cap='Tela inicial/ Página Principal.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r teleinicialtrecossa, out.width = "100%",fig.cap='Tela inicial/ Página Principal.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image61.png")
 ```
 
 
-```{r painelsubtrecossa, out.width = "100%",fig.cap='Painel do submenu do tema.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r painelsubtrecossa, out.width = "100%",fig.cap='Painel do submenu do tema.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image74.png")
 ```
 
 
-```{r paineldisptrecossa, out.width = "100%",fig.cap='Painel de perguntas disparadoras.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r paineldisptrecossa, out.width = "100%",fig.cap='Painel de perguntas disparadoras.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image92.png")
 ```
 
 
-```{r dashtrecossa, out.width = "100%",fig.cap='Painel de perguntas disparadoras.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashtrecossa, out.width = "100%",fig.cap='Painel de perguntas disparadoras.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image77.png")
 ```
 
@@ -215,7 +200,7 @@ Nem todas as informações coletadas durante o processo de atendimento das pergu
 
 A exploração destes dados, frente ao escopo de perguntas elaborado no projeto Meninas na Ciência de Dados, norteou a construção de visualizações gráficas, incluídas como estratégia de desenvolvimento de letramento em dados e estatística nos encontros semanais (Ver Figura \@ref(fig:reunicossa)).  
 
-```{r reunicossa, fig.cap='Exploração dos temas de Segurança Pública e de Mobilidade Urbana.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r reunicossa, fig.cap='Exploração dos temas de Segurança Pública e de Mobilidade Urbana.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/imagereunida.png")
 ```
 
@@ -225,22 +210,22 @@ Para alcançar o desenvolvimento do ambiente de dados na forma gráfica mais apr
 Para o desenvolvimento dos dashboards foi optado pelo controle de versões realizado via Github na conta do projeto [Ciência de Dados na Escola Pública](https://github.com/orgs/cienciadedadosnaep/). O ambiente do github permite a publicação do do dashboard na forma de website desde que o repositório desenvolvido esteja no modo público. Assim é possível ao mesmo tempo, produzir o dashboard,  realizar controle de versões, permite a integração com o desenvolvimento da Website e mantém  o padrão da política de dados abertos.  A disponibilidade do código dos dashboards em formato aberto tem entre outras vantagens a fácil difusão do conhecimento para que outras cidades que desejem aderir à proposta de reconhecimento das suas cidades por meio de dados. Para alguns tipos de dados como pirâmide etárias ou dados desagregados por faixa etárias foi utilizado um formato no qual o controle de versões é realizado por meio do Github porém a publicização do dashboard foi realizado no repositório Appshiny. As Figuras \@ref(fig:dashm1cossa) a \@ref(fig:dashm3cossa) são a representação de um dos [dashboards](https://robsonpessoa.shinyapps.io/piramide_etaria/) desenvolvidos para uso do website. A Figura \@ref(fig:dashm1cossa) demonstra a estrutura geral do dashboard que inclui uma estrutura de seleção da classe, que funciona como filtro para o banco de dados que são utilizados na renderização do gráfico. Esta estrutura foi desenvolvida utilizando o Flexdashboard com elemento de entrada sendo incluindo como uma funcionalidade do pacote Shiny, no preâmbulo do Flexdashboard  é utilizada a linguagem yaml e assim é possível integrar estes pacotes (runtime: shiny). A Figura \@ref(fig:dashm2cossa) dá destaque ao sistema de seleção com barra de rolagem. No corpo principal foi utilizado o pacote dplyr do R para gestão dos dados enquanto as figuras foram produzidas por meio do ggplot2. Algumas funcionalidades como zoom, destaque de áreas, impressão da visualização atual do gráfico e o recurso mouseover obtido pela aplicação do pacote ggplotly, na figura \@ref(fig:dashm3cossa), no canto superior direito é possível ver os botões destes recursos. Também foi testado o pacote echarts4r, com sua base em Java Script, tem forte integração com o pacote dplyr. Embora tenha uma estética simples e agradável e bom comportamento, não tem a mesma variedade de opções gráficas que ainda será necessária em futuras modificações do website.
 
 
-```{r dashm1cossa, fig.cap=' Dashboards  com dados de número de óbitos anuais de Salvador apresentados em gráficos de linha e caixa de seleção de classe.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashm1cossa, fig.cap=' Dashboards  com dados de número de óbitos anuais de Salvador apresentados em gráficos de linha e caixa de seleção de classe.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image65.png")
 ```
 
-```{r dashm2cossa, fig.cap='Destaque da caixa de seleção de faixas etárias.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashm2cossa, fig.cap='Destaque da caixa de seleção de faixas etárias.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image6.png")
 ```
 
-```{r dashm3cossa, fig.cap='Destaque para o comportamento de resposta do gráfico ao movimento do ponteiro do mouse.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashm3cossa, fig.cap='Destaque para o comportamento de resposta do gráfico ao movimento do ponteiro do mouse.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image82.png")
 ```
 
 
 Também com intuito de exemplificar os dashboards desenvolvidos, demonstramos na Figura \@ref(fig:dashm4cossa) construída de forma estática, ou seja, sem recursos Shiny,  a possibilidade de criar uma estrutura que ao invés de filtrar dados temos as diferentes variáveis dispostas num sistema de abas com destaque em amarelo para aquela que está em uso. 
 
-```{r dashm4cossa, fig.cap='Dashboard de Crimes Violentos contra o Patrimônio, é formado por 3 abas com séries temporais dos crimes Roubo à ônibus (destacada em amarelo), Roubo de Veículo e Furto de Veículo.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashm4cossa, fig.cap='Dashboard de Crimes Violentos contra o Patrimônio, é formado por 3 abas com séries temporais dos crimes Roubo à ônibus (destacada em amarelo), Roubo de Veículo e Furto de Veículo.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image9.png")
 ```
 
@@ -248,7 +233,7 @@ knitr::include_graphics("images/image9.png")
 A opção de diferentes formas gráficas e diferentes disposições do dashboard ocorre de acordo com o tipo de variável e nível de dificuldade apropriado ao estudante, vejamos os dados de população apresentada na Figura \@ref(fig:dashm5cossa). Neste dashboard foi optado pela forma gráfica recorrente no ensino fundamental para apresentação de informações por faixa etária e pirâmide etária. Ao lado da pirâmide etária é apresentado o levantamento histórico do número de pessoas residentes em Salvador desde o  século XVI.
 
 
-```{r dashm5cossa, fig.cap='Dashboard de população com dados do Censo de 1991, 2000 e 2010 disponíveis como pirâmide etário e do lado direito a evolução da população de Salvador a partir do século XVI.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r dashm5cossa, fig.cap='Dashboard de população com dados do Censo de 1991, 2000 e 2010 disponíveis como pirâmide etário e do lado direito a evolução da população de Salvador a partir do século XVI.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image51.png")
 ```
 

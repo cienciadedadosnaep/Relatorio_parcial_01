@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  18 FEB 2021 08:57
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.1)  18 FEB 2021 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1408,17 +1408,17 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 14.39977pt on input line 231.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.9999pt on input line 231.
-[17] [18]
 File: images/image115.png Graphic file (type bmp)
 <images/image115.png>
 
-Overfull \hbox (633.92847pt too wide) in paragraph at lines 265--265
+Overfull \hbox (633.92847pt too wide) in paragraph at lines 234--234
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 36.09589pt on input line 266.
+LaTeX Warning: Float too large for page by 36.09589pt on input line 235.
 
+[17] [18] [19]
 File: images/image116.png Graphic file (type bmp)
 <images/image116.png>
 
@@ -1429,28 +1429,23 @@ Overfull \hbox (633.25305pt too wide) in paragraph at lines 269--269
 
 LaTeX Warning: Float too large for page by 36.05875pt on input line 270.
 
-[19] [20] [21] [22
+[20] [21] [22
 
 ]
 Chapter 4.
 File: images/mapaconceitualressa.png Graphic file (type bmp)
 <images/mapaconceitualressa.png>
 
-Overfull \hbox (633.25305pt too wide) in paragraph at lines 278--278
-[][]
+Overfull \hbox (633.25305pt too wide) in paragraph at lines 279--280
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.49875pt on input line 279.
+LaTeX Warning: Float too large for page by 24.49875pt on input line 284.
 
 
-Overfull \hbox (25.29588pt too wide) in paragraph at lines 284--284
+Overfull \hbox (25.29588pt too wide) in paragraph at lines 289--289
 []\TU/lmr/bx/n/14.4 Construção e exploração do site (re)Conhecendo
- []
-
-
-Overfull \hbox (43.18066pt too wide) in paragraph at lines 287--287
-[]\TU/lmr/bx/n/14.4 Etapas de desenvolvimento do site (re)Conhecendo
  []
 
 
@@ -1466,20 +1461,12 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
 File: images/image108.png Graphic file (type bmp)
 <images/image108.png>
 
-Overfull \hbox (618.79095pt too wide) in paragraph at lines 296--296
-[][]
+Overfull \hbox (618.79095pt too wide) in paragraph at lines 302--303
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 38.24239pt on input line 297.
-
-
-Underfull \hbox (badness 1127) in paragraph at lines 300--300
-\TU/lmr/bx/n/14.4 gráfico Alinhavo Jr. e entrega da iden-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Float too large for page by 26.24239pt on input line 307.
 
 
 Overfull \hbox (40.20341pt too wide) has occurred while \output is active
@@ -1494,13 +1481,9 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (573.00806pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.3.  RELATO DA CONTRATAÇÃO DA EMPRESA DE DESIGN GRÁFICO ALINHA
-VO JR. E ENTREGA DA IDENTIDADE VISUAL E PÁGINA PRINCIPAL DO SITE (RE)CONHECENDO
- SALVADOR \TU/lmr/m/n/10 27
+Overfull \hbox (40.20341pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.1.  CONSTRUÇÃO E EXPLORAÇÃO DO SITE (RE)CONHECENDO SALVADOR \
+TU/lmr/m/n/10 27
  []
 
 [27]
@@ -1510,72 +1493,72 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [28]
-Overfull \hbox (126.02122pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.4.  ETAPAS DE DESENVOLVIMENTO DA HOMEPAGE DO SITE (RE)CONHECE
-NDO SALVADOR \TU/lmr/m/n/10 29
- []
-
-[29]
 File: images/image100.png Graphic file (type bmp)
 <images/image100.png>
 
-Overfull \hbox (1239.28804pt too wide) in paragraph at lines 392--392
-[][]
+Overfull \hbox (1239.28804pt too wide) in paragraph at lines 371--372
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.52293pt on input line 393.
+LaTeX Warning: Float too large for page by 24.52293pt on input line 376.
 
 File: images/image29.png Graphic file (type bmp)
 <images/image29.png>
 
-Overfull \hbox (618.39178pt too wide) in paragraph at lines 399--399
-[][]
+Overfull \hbox (618.39178pt too wide) in paragraph at lines 383--384
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 28.40788pt on input line 400.
+LaTeX Warning: Float too large for page by 16.40788pt on input line 388.
 
 File: images/image7.png Graphic file (type bmp)
 <images/image7.png>
 
-Overfull \hbox (618.39178pt too wide) in paragraph at lines 403--403
-[][]
+Overfull \hbox (618.39178pt too wide) in paragraph at lines 392--393
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 27.96788pt on input line 404.
+LaTeX Warning: Float too large for page by 15.96788pt on input line 397.
 
 File: images/image23.png Graphic file (type bmp)
 <images/image23.png>
 
-Overfull \hbox (618.39178pt too wide) in paragraph at lines 407--407
-[][]
+Overfull \hbox (618.39178pt too wide) in paragraph at lines 401--402
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 27.96788pt on input line 408.
+LaTeX Warning: Float too large for page by 15.96788pt on input line 406.
 
 File: images/image90.png Graphic file (type bmp)
 <images/image90.png>
 
-Overfull \hbox (618.39178pt too wide) in paragraph at lines 411--411
-[][]
+Overfull \hbox (618.39178pt too wide) in paragraph at lines 410--411
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 27.96788pt on input line 412.
+LaTeX Warning: Float too large for page by 15.96788pt on input line 415.
 
 
+Overfull \hbox (105.16014pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.2.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
+S GRÁFICOS \TU/lmr/m/n/10 29
+ []
+
+[29]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [30]
-Overfull \hbox (126.02122pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.4.  ETAPAS DE DESENVOLVIMENTO DA HOMEPAGE DO SITE (RE)CONHECE
-NDO SALVADOR \TU/lmr/m/n/10 31
+Overfull \hbox (105.16014pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.2.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
+S GRÁFICOS \TU/lmr/m/n/10 31
  []
 
 [31]
@@ -1585,9 +1568,9 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [32]
-Overfull \hbox (126.02122pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.4.  ETAPAS DE DESENVOLVIMENTO DA HOMEPAGE DO SITE (RE)CONHECE
-NDO SALVADOR \TU/lmr/m/n/10 33
+Overfull \hbox (105.16014pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.2.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
+S GRÁFICOS \TU/lmr/m/n/10 33
  []
 
 [33]
@@ -1597,19 +1580,13 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [34]
-Overfull \hbox (126.02122pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.4.  ETAPAS DE DESENVOLVIMENTO DA HOMEPAGE DO SITE (RE)CONHECE
-NDO SALVADOR \TU/lmr/m/n/10 35
- []
-
-[35]
 File: images/image11.png Graphic file (type bmp)
 <images/image11.png>
 File: images/image80.png Graphic file (type bmp)
 <images/image80.png>
 
-Overfull \hbox (172.51343pt too wide) in paragraph at lines 435--435
-[][]
+Overfull \hbox (172.51343pt too wide) in paragraph at lines 444--445
+ [][] 
  []
 
 File: images/image69.png Graphic file (type bmp)
@@ -1617,167 +1594,161 @@ File: images/image69.png Graphic file (type bmp)
 File: images/image27.png Graphic file (type bmp)
 <images/image27.png>
 
+Overfull \hbox (105.16014pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.2.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
+S GRÁFICOS \TU/lmr/m/n/10 35
+ []
+
+[35]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 36 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [36]
-Overfull \hbox (105.16014pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.5.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
-S GRÁFICOS \TU/lmr/m/n/10 37
- []
-
-[37]
 File: images/image61.png Graphic file (type bmp)
 <images/image61.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[][]
- []
-
 File: images/image74.png Graphic file (type bmp)
 <images/image74.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--469
-[][]
- []
-
 File: images/image92.png Graphic file (type bmp)
 <images/image92.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
-[][]
- []
-
 File: images/image77.png Graphic file (type bmp)
 <images/image77.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[][]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[37]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 38 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [38]
-Overfull \hbox (105.16014pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.5.  DESENVOLVIMENTO DO SITE NA VERSÃO BETA (TESTE) COM MÓDULO
-S GRÁFICOS \TU/lmr/m/n/10 39
- []
+Underfull \vbox (badness 1939) has occurred while \output is active []
 
 [39]
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+
+ []
+
+
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 40 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [40]
-Underfull \vbox (badness 2181) has occurred while \output is active []
-
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 505--506
+Underfull \hbox (badness 1137) in paragraph at lines 548--549
 \TU/lmr/m/n/10 forma desagregada ao nível dos municípios pelos produtos gerados
  pelo
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 505--506
+Underfull \hbox (badness 1024) in paragraph at lines 548--549
 \TU/lmr/m/n/10 Instituto Brasileiro de Geografia e Estatística (IBGE), de forma
  organi-
  []
 
 
-Underfull \hbox (badness 7168) in paragraph at lines 505--506
+Underfull \hbox (badness 7168) in paragraph at lines 548--549
 \TU/lmr/m/n/10 ([]$[] [] [][] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [
 ] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] []
  [] [] [] [] [] [] [] [] [][] [][] [] [] [] [] [] [] [] [] [][]$[]), na
  []
 
 
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+[41]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 42 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [42] [43]
+File: images/imagereunida.png Graphic file (type bmp)
+<images/imagereunida.png>
+
+Overfull \hbox (205.02922pt too wide) in paragraph at lines 591--592
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 34.1392pt on input line 596.
+
+
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
-[44]
-Underfull \vbox (badness 4048) has occurred while \output is active []
-
-[45]
-File: images/imagereunida.png Graphic file (type bmp)
-<images/imagereunida.png>
-
-Overfull \hbox (205.02922pt too wide) in paragraph at lines 547--547
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 46.1392pt on input line 548.
-
-
+[44] [45]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [46]
-Overfull \hbox (100.02232pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.7.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
-HBOARDS \TU/lmr/m/n/10 47
- []
-
-[47]
 File: images/image65.png Graphic file (type bmp)
 <images/image65.png>
 
-Overfull \hbox (174.95892pt too wide) in paragraph at lines 557--557
-[][]
+Overfull \hbox (174.95892pt too wide) in paragraph at lines 606--607
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 48.0691pt on input line 558.
+LaTeX Warning: Float too large for page by 36.0691pt on input line 611.
 
 File: images/image6.png Graphic file (type bmp)
 <images/image6.png>
 
-Overfull \hbox (162.11127pt too wide) in paragraph at lines 561--561
-[][]
+Overfull \hbox (162.11127pt too wide) in paragraph at lines 615--616
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.10135pt on input line 562.
+LaTeX Warning: Float too large for page by 24.10135pt on input line 620.
 
 File: images/image82.png Graphic file (type bmp)
 <images/image82.png>
 
-Overfull \hbox (175.60718pt too wide) in paragraph at lines 565--565
-[][]
+Overfull \hbox (175.60718pt too wide) in paragraph at lines 624--625
+ [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 47.98079pt on input line 566.
+LaTeX Warning: Float too large for page by 35.98079pt on input line 629.
+
+File: images/image9.png Graphic file (type bmp)
+<images/image9.png>
+
+Overfull \hbox (633.25305pt too wide) in paragraph at lines 635--636
+ [][] 
+ []
 
 
-Underfull \vbox (badness 2698) has occurred while \output is active []
+LaTeX Warning: Float too large for page by 46.21875pt on input line 640.
+
+File: images/image51.png Graphic file (type bmp)
+<images/image51.png>
+
+Overfull \hbox (633.25305pt too wide) in paragraph at lines 646--647
+ [][] 
+ []
 
 
+LaTeX Warning: Float too large for page by 47.93875pt on input line 651.
+
+
+Overfull \hbox (100.02232pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.4.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
+HBOARDS \TU/lmr/m/n/10 47
+ []
+
+[47]
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 48 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
@@ -1785,7 +1756,7 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
 
 [48]
 Overfull \hbox (100.02232pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.7.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
+\TU/lmr/m/sl/10 4.4.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
 HBOARDS \TU/lmr/m/n/10 49
  []
 
@@ -1797,198 +1768,186 @@ AS HISTÓRICAS DA CIDADE DE SALVADOR
 
 [50]
 Overfull \hbox (100.02232pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.7.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
+\TU/lmr/m/sl/10 4.4.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
 HBOARDS \TU/lmr/m/n/10 51
  []
 
 [51]
-File: images/image9.png Graphic file (type bmp)
-<images/image9.png>
-
-Overfull \hbox (633.25305pt too wide) in paragraph at lines 571--571
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 58.21875pt on input line 572.
-
-File: images/image51.png Graphic file (type bmp)
-<images/image51.png>
-
-Overfull \hbox (633.25305pt too wide) in paragraph at lines 577--577
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 59.93875pt on input line 578.
-
-
 Overfull \hbox (145.89012pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 52 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
 AS HISTÓRICAS DA CIDADE DE SALVADOR
  []
 
 [52]
-Overfull \hbox (100.02232pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.7.  REPRESENTAÇÃO GRÁFICA DOS DADOS E DESENVOLVIMENTO DOS DAS
-HBOARDS \TU/lmr/m/n/10 53
- []
-
-[53]
-Overfull \hbox (145.89012pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 54 \TU/lmr/m/sl/10 CHAPTER 4.  ELABORAÇÃO DE SITE COM ESTATÍSTIC
-AS HISTÓRICAS DA CIDADE DE SALVADOR
- []
-
-[54]
 Chapter 5.
-[55
+[53
 
 ]
 Overfull \hbox (245.26793pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 56 \TU/lmr/m/sl/10 CHAPTER 5.  DESENVOLVIMENTO E ACESSO DE NOVOS
+\TU/lmr/m/n/10 54 \TU/lmr/m/sl/10 CHAPTER 5.  DESENVOLVIMENTO E ACESSO DE NOVOS
  MÉTODOS E METODOLOGIAS DE ENSINO E APRENDIZAGEM
  []
 
-[56]
+[54]
 Chapter 6.
 File: images/image105.png Graphic file (type bmp)
 <images/image105.png>
 
-Overfull \hbox (627.70555pt too wide) in paragraph at lines 605--605
+Overfull \hbox (627.70555pt too wide) in paragraph at lines 678--678
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 29.07294pt on input line 606.
+LaTeX Warning: Float too large for page by 29.07294pt on input line 679.
 
 
-Overfull \hbox (353.45006pt too wide) in paragraph at lines 614--649
+Overfull \hbox (353.45006pt too wide) in paragraph at lines 687--722
  [][] 
  []
 
 
-Overfull \hbox (1132.15007pt too wide) in paragraph at lines 657--674
+Overfull \hbox (1132.15007pt too wide) in paragraph at lines 730--747
  [][] 
  []
 
-[57
+[55
 
-] [58] [59] [60]
+] [56] [57] [58]
 Chapter 7.
-[61
+[59
 
 ]
 File: images/image121.png Graphic file (type bmp)
 <images/image121.png>
 
-Overfull \hbox (632.7913pt too wide) in paragraph at lines 704--704
+Overfull \hbox (632.7913pt too wide) in paragraph at lines 777--777
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 47.93756pt on input line 705.
+LaTeX Warning: Float too large for page by 47.93756pt on input line 778.
 
-[62] [63]
+[60] [61]
 File: images/image123.png Graphic file (type bmp)
 <images/image123.png>
 
-Overfull \hbox (727.55782pt too wide) in paragraph at lines 719--719
+Overfull \hbox (727.55782pt too wide) in paragraph at lines 792--792
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 84.08961pt on input line 720.
+LaTeX Warning: Float too large for page by 84.08961pt on input line 793.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[64] [65] [66]
+[62] [63] [64]
 Chapter 8.
 
-Package hyperref Warning: Suppressing empty link on input line 757.
+Package hyperref Warning: Suppressing empty link on input line 830.
 
-[67
+[65
 
 ]
-Overfull \hbox (338.14006pt too wide) in paragraph at lines 769--784
+Overfull \hbox (338.14006pt too wide) in paragraph at lines 842--857
  [][] 
  []
 
 
 Overfull \hbox (2.56563pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 68 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
+\TU/lmr/m/n/10 66 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
  BOLSISTAS
  []
 
-[68]
+[66]
 File: images/image125.png Graphic file (type bmp)
 <images/image125.png>
 
-Overfull \hbox (632.7913pt too wide) in paragraph at lines 791--791
+Overfull \hbox (632.7913pt too wide) in paragraph at lines 864--864
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 36.06757pt on input line 792.
+LaTeX Warning: Float too large for page by 36.06757pt on input line 865.
 
 File: images/image126.png Graphic file (type bmp)
 <images/image126.png>
 
-Overfull \hbox (769.32492pt too wide) in paragraph at lines 795--795
+Overfull \hbox (769.32492pt too wide) in paragraph at lines 868--868
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 46.22308pt on input line 796.
+LaTeX Warning: Float too large for page by 46.22308pt on input line 869.
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 799--799
+Underfull \hbox (badness 3838) in paragraph at lines 872--872
 []\TU/lmr/bx/n/14.4 Produção de Podcasts: Mulheres Ex-
  []
 
 
-Overfull \hbox (82.97002pt too wide) in paragraph at lines 809--822
+Overfull \hbox (82.97002pt too wide) in paragraph at lines 882--895
  [][] 
  []
 
 File: images/image95.png Graphic file (type bmp)
 <images/image95.png>
 
-Overfull \hbox (934.1207pt too wide) in paragraph at lines 825--825
+Overfull \hbox (934.1207pt too wide) in paragraph at lines 898--898
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 72.5085pt on input line 826.
+LaTeX Warning: Float too large for page by 72.5085pt on input line 899.
 
-[69]
+[67]
+Overfull \hbox (2.56563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 68 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
+ BOLSISTAS
+ []
+
+[68] [69]
 Overfull \hbox (2.56563pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 70 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
  BOLSISTAS
  []
 
-[70] [71]
+[70]
+File: images/image96.png Graphic file (type bmp)
+<images/image96.png>
+
+Overfull \hbox (629.54425pt too wide) in paragraph at lines 925--925
+[][]
+ []
+
+
+LaTeX Warning: Float too large for page by 46.13687pt on input line 926.
+
+
+Overfull \hbox (662.27005pt too wide) in paragraph at lines 935--958
+ [][] 
+ []
+
+[71]
 Overfull \hbox (2.56563pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 72 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
  BOLSISTAS
  []
 
 [72]
-File: images/image96.png Graphic file (type bmp)
-<images/image96.png>
+File: images/image98.png Graphic file (type bmp)
+<images/image98.png>
+File: images/image99.png Graphic file (type bmp)
+<images/image99.png>
+File: images/image101.png Graphic file (type bmp)
+<images/image101.png>
 
-Overfull \hbox (629.54425pt too wide) in paragraph at lines 852--852
+Overfull \hbox (632.80106pt too wide) in paragraph at lines 972--972
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 46.13687pt on input line 853.
-
-
-Overfull \hbox (662.27005pt too wide) in paragraph at lines 862--885
- [][] 
- []
+LaTeX Warning: Float too large for page by 96.5131pt on input line 973.
 
 [73]
 Overfull \hbox (2.56563pt too wide) has occurred while \output is active
@@ -1997,45 +1956,24 @@ Overfull \hbox (2.56563pt too wide) has occurred while \output is active
  []
 
 [74]
-File: images/image98.png Graphic file (type bmp)
-<images/image98.png>
-File: images/image99.png Graphic file (type bmp)
-<images/image99.png>
-File: images/image101.png Graphic file (type bmp)
-<images/image101.png>
-
-Overfull \hbox (632.80106pt too wide) in paragraph at lines 899--899
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 96.5131pt on input line 900.
-
-[75]
-Overfull \hbox (2.56563pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 76 \TU/lmr/m/sl/10 CHAPTER 8.  ENCONTROS VIRTUAIS COM ESTUDANTES
- BOLSISTAS
- []
-
-[76]
 Chapter 9.
-[77
+[75
 
-] [78] [79]
+] [76] [77]
 File: images/exercico_estudantes.png Graphic file (type bmp)
 <images/exercico_estudantes.png>
 
-Overfull \hbox (633.2772pt too wide) in paragraph at lines 984--984
+Overfull \hbox (633.2772pt too wide) in paragraph at lines 1057--1057
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 36.51231pt on input line 985.
+LaTeX Warning: Float too large for page by 36.51231pt on input line 1058.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[80] [81] [82] [83]
+[78] [79] [80] [81]
 File: images/image124.png Graphic file (type bmp)
 <images/image124.png>
 File: images/image36.png Graphic file (type bmp)
@@ -2046,53 +1984,53 @@ File: images/image38.png Graphic file (type bmp)
 <images/image38.png>
 File: images/image39.png Graphic file (type bmp)
 <images/image39.png>
-[84] [85]
+[82] [83]
 File: images/image40.png Graphic file (type bmp)
 <images/image40.png>
 File: images/image41.png Graphic file (type bmp)
 <images/image41.png>
-[86]
+[84]
 File: images/image42.png Graphic file (type bmp)
 <images/image42.png>
 
 Underfull \vbox (badness 1270) has occurred while \output is active []
 
-[87]
+[85]
 File: images/image43.png Graphic file (type bmp)
 <images/image43.png>
 File: images/image44.png Graphic file (type bmp)
 <images/image44.png>
 File: images/image45.png Graphic file (type bmp)
 <images/image45.png>
-[88] [89]
+[86] [87]
 File: images/image14.png Graphic file (type bmp)
 <images/image14.png>
-[90]
+[88]
 File: images/image16.png Graphic file (type bmp)
 <images/image16.png>
 File: images/image17.png Graphic file (type bmp)
 <images/image17.png>
-[91] [92]
+[89] [90]
 Chapter 10.
 File: images/figura_capa/capa_impacto.png Graphic file (type bmp)
 <images/figura_capa/capa_impacto.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[93
+[91
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 1190.
+Package hyperref Warning: Suppressing empty link on input line 1263.
 
 File: images/Impactos/01.png Graphic file (type bmp)
 <images/Impactos/01.png>
-[94]
+[92]
 File: images/Impactos/02.png Graphic file (type bmp)
 <images/Impactos/02.png>
 File: images/Impactos/03.png Graphic file (type bmp)
 <images/Impactos/03.png>
-[95] [96]
+[93] [94]
 File: images/Impactos/04.png Graphic file (type bmp)
 <images/Impactos/04.png>
 File: images/Impactos/05.png Graphic file (type bmp)
@@ -2107,7 +2045,7 @@ File: images/Impactos/09.png Graphic file (type bmp)
 <images/Impactos/09.png>
 File: images/Impactos/10.png Graphic file (type bmp)
 <images/Impactos/10.png>
-[97] [98] [99]
+[95] [96] [97]
 File: images/Impactos/11.png Graphic file (type bmp)
 <images/Impactos/11.png>
 File: images/Impactos/12.png Graphic file (type bmp)
@@ -2122,10 +2060,10 @@ File: images/Impactos/16.png Graphic file (type bmp)
 <images/Impactos/16.png>
 File: images/Impactos/17.png Graphic file (type bmp)
 <images/Impactos/17.png>
-[100] [101] [102]
+[98] [99] [100]
 File: images/Impactos/18.png Graphic file (type bmp)
 <images/Impactos/18.png>
-[103]
+[101]
 File: images/Impactos/19.png Graphic file (type bmp)
 <images/Impactos/19.png>
 File: images/Impactos/20.png Graphic file (type bmp)
@@ -2138,17 +2076,17 @@ File: images/Impactos/23.png Graphic file (type bmp)
 <images/Impactos/23.png>
 File: images/Impactos/24.png Graphic file (type bmp)
 <images/Impactos/24.png>
-[104] [105] [106]
+[102] [103] [104]
 File: images/Impactos/25.png Graphic file (type bmp)
 <images/Impactos/25.png>
-[107]
+[105]
 File: images/Impactos/26.png Graphic file (type bmp)
 <images/Impactos/26.png>
 File: images/Impactos/27.png Graphic file (type bmp)
 <images/Impactos/27.png>
 File: images/Impactos/28.png Graphic file (type bmp)
 <images/Impactos/28.png>
-[108] [109]
+[106] [107]
 File: images/Impactos/29.png Graphic file (type bmp)
 <images/Impactos/29.png>
 File: images/Impactos/30.png Graphic file (type bmp)
@@ -2157,12 +2095,12 @@ File: images/Impactos/31.png Graphic file (type bmp)
 <images/Impactos/31.png>
 File: images/Impactos/32.png Graphic file (type bmp)
 <images/Impactos/32.png>
-[110] [111] [112] [113]
+[108] [109] [110] [111]
 File: images/Impactos/33.png Graphic file (type bmp)
 <images/Impactos/33.png>
 File: images/Impactos/34.png Graphic file (type bmp)
 <images/Impactos/34.png>
-[114] [115]
+[112] [113]
 File: images/Impactos/35.png Graphic file (type bmp)
 <images/Impactos/35.png>
 File: images/Impactos/36.png Graphic file (type bmp)
@@ -2172,16 +2110,16 @@ File: images/Impactos/37.png Graphic file (type bmp)
 File: images/Impactos/38.png Graphic file (type bmp)
 <images/Impactos/38.png>
 
-Overfull \hbox (228.47005pt too wide) in paragraph at lines 1723--1768
+Overfull \hbox (228.47005pt too wide) in paragraph at lines 1796--1841
  [][] 
  []
 
-[116]
+[114]
 File: images/Impactos/39.png Graphic file (type bmp)
 <images/Impactos/39.png>
 File: images/Impactos/40.png Graphic file (type bmp)
 <images/Impactos/40.png>
-[117] [118] [119]
+[115] [116] [117]
 File: images/Impactos/41.png Graphic file (type bmp)
 <images/Impactos/41.png>
 File: images/Impactos/42.png Graphic file (type bmp)
@@ -2192,7 +2130,7 @@ File: images/Impactos/44.png Graphic file (type bmp)
 <images/Impactos/44.png>
 File: images/Impactos/45.png Graphic file (type bmp)
 <images/Impactos/45.png>
-[120] [121]
+[118] [119]
 File: images/Impactos/46.png Graphic file (type bmp)
 <images/Impactos/46.png>
 File: images/Impactos/47.png Graphic file (type bmp)
@@ -2200,95 +2138,107 @@ File: images/Impactos/47.png Graphic file (type bmp)
 File: images/Impactos/48.png Graphic file (type bmp)
 <images/Impactos/48.png>
 
-Overfull \hbox (232.91pt too wide) in paragraph at lines 1889--1906
- [][] 
- []
-
-
-Overfull \hbox (3065.4702pt too wide) in paragraph at lines 1914--1929
+Overfull \hbox (232.91pt too wide) in paragraph at lines 1962--1979
  [][] 
  []
 
 
 Underfull \vbox (badness 2503) has occurred while \output is active []
 
-[122] [123]
-Underfull \hbox (badness 10000) in paragraph at lines 1953--1955
+[120] [121]
+Overfull \hbox (3065.4702pt too wide) in paragraph at lines 1998--2013
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2038--2040
 \TU/lmr/m/n/10 em: []$[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
 [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [][][][] [] [
 ] [] [] [] [] [] [] [][] [][] [] [] [] [] [] [] [] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1955--1956
+Underfull \hbox (badness 10000) in paragraph at lines 2040--2041
 [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [
 ] [] [] [] [] [][] [] [] [][] [][] [][] [][] [] [] [] [] [] [] [] [][] [] [] []
 [] [][] [] [] [] [] [] [] [] [][] [] [] [] [] [] [] [] [] []$[]\TU/lmr/m/n/10 .
 
  []
 
+[122]
 File: images/Impactos/anexo1.png Graphic file (type bmp)
 <images/Impactos/anexo1.png>
-[124] [125]
+
+Underfull \vbox (badness 4660) has occurred while \output is active []
+
+[123]
 File: images/Impactos/grafico-saneamento.png Graphic file (type bmp)
 <images/Impactos/grafico-saneamento.png>
 
-Overfull \hbox (232.5pt too wide) in paragraph at lines 1994--1994
+Overfull \hbox (232.5pt too wide) in paragraph at lines 2079--2079
 []\TU/lmtt/m/n/10 B. Qual região tem as menores taxas de internação? Você acha 
 que isso acontece por algum motivo? Se sim, qual?[] 
  []
 
 
-Overfull \hbox (122.25pt too wide) in paragraph at lines 1994--1994
+Overfull \hbox (122.25pt too wide) in paragraph at lines 2079--2079
 []\TU/lmtt/m/n/10 C. Com base no gráfico, o que você percebeu sobre o Saneament
 o Básico da região Nordeste?[] 
  []
 
 
-Overfull \hbox (1985.08015pt too wide) in paragraph at lines 2000--2030
+Overfull \hbox (1985.08015pt too wide) in paragraph at lines 2085--2115
  [][] 
  []
 
-[126] [127] [128
+[124] [125] [126
 
 ]
 Chapter 11.
-[129]
-Underfull \hbox (badness 10000) in paragraph at lines 2066--2068
+[127] [128
 
- []
-
-[130]
-Underfull \hbox (badness 1014) in paragraph at lines 2089--2089
+]
+Underfull \hbox (badness 1014) in paragraph at lines 2144--2144
 []\TU/lmr/bx/n/14.4 Quadro de perguntas - (re)Conhecendo
  []
 
 
-Overfull \hbox (542.23006pt too wide) in paragraph at lines 2095--2218
+Overfull \hbox (542.23006pt too wide) in paragraph at lines 2150--2273
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 235.04964pt on input line 2218.
+LaTeX Warning: Float too large for page by 235.04964pt on input line 2273.
 
+
+Underfull \hbox (badness 1052) in paragraph at lines 2276--2276
+\TU/lmr/bx/n/14.4 sign gráfico Alinhavo Jr. e entrega da
+ []
+
+[129] [130]
 No file Relatorio_parcial_01.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2222.
-[131
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2308.
 
-] [132]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2222.
+Overfull \hbox (583.00806pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 11.2.  RELATO DA CONTRATAÇÃO DA EMPRESA DE DESIGN GRÁFICO ALINH
+AVO JR. E ENTREGA DA IDENTIDADE VISUAL E PÁGINA PRINCIPAL DO SITE (RE)CONHECEND
+O SALVADOR \TU/lmr/m/n/10 131
+ []
+
+[131]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2308.
 (./Relatorio_parcial_01.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2222.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2222.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2222.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2308.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2308.
  ) 
 Here is how much of TeX's memory you used:
- 27819 strings out of 493007
- 502622 string characters out of 6136720
- 747593 words of memory out of 5000000
- 31361 multiletter control sequences out of 15000+600000
+ 27814 strings out of 493007
+ 502420 string characters out of 6136720
+ 746550 words of memory out of 5000000
+ 31356 multiletter control sequences out of 15000+600000
  538681 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,9n,117p,10415b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Relatorio_parcial_01.pdf (132 pages).
+Output written on Relatorio_parcial_01.pdf (131 pages).

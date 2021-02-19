@@ -5,7 +5,7 @@ Tais atividades se baseiam em três eixos estruturantes da alfabetização cient
 O Quadro Colaborativo ilustrado na Figura \@ref(fig:prodcocient) sintetiza os elementos associados ao pensamento científico trabalhados, destaca-se que esse quadro foi construído juntamente com as/os estudantes partícipes do Projeto.
   
 
-```{r prodcocient, fig.cap='Quadro Colaborativo construído juntamente com os estudantes partícipes do Projeto.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r prodcocient, fig.cap='Quadro Colaborativo construído juntamente com os estudantes partícipes do Projeto.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image105.png")
 ```
 A equipe identificou a oportunidade, durante o período das atividades, de incentivar e oferecer apoio à inscrição dos estudantes de escolas públicas em dois eventos científicos distintos: 10º  Evento Jovens Cientistas da UFBA (Tabela \@ref(tab:quadro1)); e a Feira de Ciências do Agreste Pernambucano - FCAP (Tabela \@ref(tab:quadro2)), como forma de desenvolver na prática os conceitos explorados nos encontros e no material didático em produção, bem como seus respectivos links de acesso.

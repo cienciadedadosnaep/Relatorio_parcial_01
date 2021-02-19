@@ -22,7 +22,7 @@ Debatendo sobre gênero e diversidade - Profa. Maíse Zucco / UFBA; Refletindo s
 Contribuíram como palestrantes professores, profissionais, estudantes de graduação e pós-graduação compartilhando as suas experiências nas mais diversas áreas. Destaca-se a participação das professoras Alzira Melo e Érica Nascimento, do Colégio Estadual Henriqueta Martins Catharino e do Colégio Estadual Evaristo da Veiga, respectivamente, que apresentaram suas experiências ministrando a disciplina Introdução à Inteligência Artificial juntamente com a graduanda Ana Luisa Nogueira e a mestranda Laís Bastos, ambas bolsistas do projeto. A Figura \@ref(fig:cafe) apresenta um registro desse encontro. 
 
 
-```{r cafe, fig.cap='Registro do encontro da disciplina Introdução à Inteligência Artificial em 01 de setembro, com o tema Reconhecimento Facial.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r cafe, fig.cap='Registro do encontro da disciplina Introdução à Inteligência Artificial em 01 de setembro, com o tema Reconhecimento Facial.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image121.png")
 ```
 
@@ -36,7 +36,7 @@ As inscrições para a disciplina foram feitas através de um formulário do Goo
 Ao todo, foram feitas 43 inscrições. Contudo, 20 estudantes nunca compareceram. Essas faltas foram averiguadas e, geralmente, apresentaram justificativas relacionadas à pandemia. Foi observada uma frequência máxima de 23 estudantes no encontro do dia 01/09/2020, e mínima de 11 estudantes no encontro do dia 13/10/2020, variando entre esses valores e entre os mesmos estudantes. Vale ressaltar que temos estudantes sem faltas.
 Na Figura \@ref(fig:diagramaAI) é apresentada uma representação das discussões de Inteligência Artificial e a formação de futuros protagonistas de transformação da sociedade.
 
-```{r diagramaAI, fig.cap='Discussão dos vários aspectos da IA e os resultados na formação de protagonistas de transformação da sociedade. Textos no extremo esquerdo: “obg pela oportunidade de adquirir (sic) mais conhecimento!!!”; “por isso daqui pra frente nós vamos mudar o mundo do jeito da gente”; “o último encontro foi sensacional, e muito bom conversar com alguém que trabalha na área de IA”.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r diagramaAI, fig.cap='Discussão dos vários aspectos da IA e os resultados na formação de protagonistas de transformação da sociedade. Textos no extremo esquerdo: “obg pela oportunidade de adquirir (sic) mais conhecimento!!!”; “por isso daqui pra frente nós vamos mudar o mundo do jeito da gente”; “o último encontro foi sensacional, e muito bom conversar com alguém que trabalha na área de IA”.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image123.png")
 ```
 

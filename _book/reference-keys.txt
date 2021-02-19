@@ -2,8 +2,8 @@ fig:estudcdnaep
 fig:profcdnaep
 fig:pagcdnaep
 fig:diagrpagcdnaep
-fig:ebookcd
 fig:ebookprotag
+fig:ebookcd
 fig:recossa
 fig:steprecossa
 fig:logorecossa
@@ -105,12 +105,14 @@ fig:impacto47
 fig:impacto48
 tab:quadroimpacto5
 tab:quadroimpacto7
+tab:quadroperguntasapend
 fig:impactoanexo1
 fig:graficosaneamento
 tab:quadroimpacto6
-tab:quadroperguntasapend
+ciência-de-dados-na-escola-pública
 apresentação---relatório-2020.1
 website
+construção-do-website-do-projeto
 páginas-do-website
 ebooks
 e-book-1.-ciência-de-dados-80-concluído
@@ -123,7 +125,6 @@ protagonismo-de-gênero-0-concluído
 ressa
 construção-e-exploração-do-site-reconhecendo-salvador
 etapas-de-desenvolvimento-do-site-reconhecendo-salvador
-relato-da-contratação-da-empresa-de-design-gráfico-alinhavo-jr.-e-entrega-da-identidade-visual-e-página-principal-do-site-reconhecendo-salvador
 etapas-de-desenvolvimento-da-homepage-do-site-reconhecendo-salvador
 desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos
 levantamento-dos-dados-e-informações
@@ -167,6 +168,10 @@ questão-aberta-sobre-saneamento
 observações-cruzadas
 conclusão
 referências
-atividade-de-fixação
-ciência-de-dados-1
+anexo
 apendperguntas
+relatoalinhavo
+atividadefix
+teoriadamudanca
+rubrica
+glossario

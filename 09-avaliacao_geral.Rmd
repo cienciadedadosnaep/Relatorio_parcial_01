@@ -20,14 +20,15 @@ A despeito das dificuldades, foi possível aplicar as atividades e questionário
 
 ## Método 
 
-Ainda no início de 2020 foi elaborado uma Teoria da Mudança correspondente às atividades planejadas para o ano (ver Anexo 1). A maioria dos efeitos seriam medidos através de questionários de opinião. Assim, o questionário em papel aplicado em 2019 para grande parte das estudantes das escolas foi modificado para incluir questões que pudessem medir tais efeitos (uma cópia que pode ser respondida está acessível em: [](https://forms.gle/QP9crYYY6x1XhF7RA)). O questionário modificado foi aplicado em duas ocasiões: no início do calendário de atividades (de 30/04 até 06/05) e ao fim (30/10 até 01/11). Os estudantes receberam o link para responder ao questionário através dos canais de comunicação da equipe. Para tornar a experiência menos sisuda, o questionário foi respondido em um ambiente que simula uma conversa de texto com um robô.
+Ainda no início de 2020 foi elaborado uma Teoria da Mudança correspondente às atividades planejadas para o ano (ver Anexo \@ref(teoriadamudanca)). A maioria dos efeitos seriam medidos através de questionários de opinião. Assim, o questionário em papel aplicado em 2019 para grande parte das estudantes das escolas foi modificado para incluir questões que pudessem medir tais efeitos (uma cópia que pode ser respondida está acessível em: [](https://forms.gle/QP9crYYY6x1XhF7RA)). O questionário modificado foi aplicado em duas ocasiões: no início do calendário de atividades (de 30/04 até 06/05) e ao fim (30/10 até 01/11). Os estudantes receberam o link para responder ao questionário através dos canais de comunicação da equipe. Para tornar a experiência menos sisuda, o questionário foi respondido em um ambiente que simula uma conversa de texto com um robô.
 
 
 ```{r impacto01,echo=FALSE,out.width="100%",out.height="80%",fig.cap="Tela do ambiente que simula uma conversa com um robô.",fig.show='hold',fig.align='center'}
 knitr::include_graphics(c("images/Impactos/01.png"))
 ```
 
-O outro instrumento de medição foram avaliações produzidas em colaboração com as equipes. Em um primeiro momento pesquisou-se que habilidades e conhecimentos são esperados de um estudante nas áreas cobertas pelo projeto. Uma vez que tais temas não fazem parte em sua integridade de um currículo escolar comum buscou-se arcabouços produzidos por entes ligados ao mercado, governança global e a literatura científica. O conjunto de habilidades e conhecimentos prospectados foram então condensados e comparados com o que foi efetivamente ensinado durante o ano. A busca não produziu bons resultados para dois grupos (Introdução à Inteligência Artificial e Protagonismos) provavelmente devido à novidade dos temas. Nesses casos os membros das equipes voltaram-se para os conteúdos que apresentaram durante o ano como base para criar as questões. A Figura \@ref(fig:impacto02) resume este procedimento.
+O outro instrumento de medição foram avaliações produzidas em colaboração com as equipes 
+(os acesso aos formulários das atividades está disponível no Anexo \@ref(atividadefix)). Em um primeiro momento pesquisou-se que habilidades e conhecimentos são esperados de um estudante nas áreas cobertas pelo projeto. Uma vez que tais temas não fazem parte em sua integridade de um currículo escolar comum buscou-se arcabouços produzidos por entes ligados ao mercado, governança global e a literatura científica. O conjunto de habilidades e conhecimentos prospectados foram então condensados e comparados com o que foi efetivamente ensinado durante o ano. A busca não produziu bons resultados para dois grupos (Introdução à Inteligência Artificial e Protagonismos) provavelmente devido à novidade dos temas. Nesses casos os membros das equipes voltaram-se para os conteúdos que apresentaram durante o ano como base para criar as questões. A Figura \@ref(fig:impacto02) resume este procedimento.
 
 
 ```{r impacto02,echo=FALSE,out.width="100%",out.height="80%",fig.cap="Exemplo do procedimento para criação de um arcabouço de habilidades e conhecimentos esperados dos estudantes do projeto em cada tema.",fig.show='hold',fig.align='center'}
@@ -48,7 +49,7 @@ Por fim, a mesma orientação para a aplicação das avaliações foi dada aos g
  - Produção do Conhecimento Científico: 25 de novembro;
  - Protagonismo: 27 de novembro.
 
-Cada equipe aplicou um teste com duração de 30 minutos. As equipes de Inteligência Artificial e do Site aplicaram um teste extra contendo a versão digital de uma questão aberta aplicada em um formulário que havia sido passado aos estudantes ao fim de 2019 a ser respondido em 15 minutos. Em anexo estão a questão e sua rubrica de correção (Anexo 2).
+Cada equipe aplicou um teste com duração de 30 minutos. As equipes de Inteligência Artificial e do Site aplicaram um teste extra contendo a versão digital de uma questão aberta aplicada em um formulário que havia sido passado aos estudantes ao fim de 2019 a ser respondido em 15 minutos. Em anexo estão a questão e sua rubrica de correção (Anexo \@ref(rubrica)).
 
 ## Resultados 
 
@@ -600,7 +601,7 @@ centrais para o pleno desenvolvimento em protagonismo e letramento em dados. Emb
 destacada a dificuldade de abstração, desenvolvimento de escrita, argumentação e ainda
  do reconhecimento das etapas conceituais em pensamento científico, 
  quantitativamente o resultado está coeso com os avanços revelados no quadro \@ref(tab:quadroimpacto7).
- Os encontros com professores geraram debates entorno destas dificuldades, contudo reconheciam os avanços apresentados.**
+ Os encontros com professores geraram debates entorno destas dificuldades, contudo reconheciam os avanços apresentados pelas atividades do projeto.**
 
 
 ## Referências 
@@ -611,86 +612,4 @@ destacada a dificuldade de abstração, desenvolvimento de escrita, argumentaç�
  - Wenning, C. J. Science literacy: What it is, how to assess it, and a way to achieve it. Disponível em: http://www.phy.ilstu.edu/pte/INDONESIA/PDFs/G.%20SciLit-What_&_How.pdf. Acessado em: Novembro/2020.
  - Wenning, C. J. ScInqLiT (Scientific Inquiry Literacy Test). Disponível em: https://studylib.net/doc/8991191/scinqlit--scientific-inquiry-literacy-test-. Acessado em: Novembro/2020.
  - Indiana Department of Education. ISTAR Science Sample Items for Grades 4, 6, and 10. Disponível em: https://www.doe.in.gov/sites/default/files/assessment/istar-2016-17-science-item-sampler-final.pdf. Acessado em: Novembro/2020.
-
-## Anexo: Teoria da mudança elaborada no início de 2020 {-}
-
-```{r impactoanexo1,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e sexo.",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("images/Impactos/anexo1.png"))
-```
-
-## Anexo: Questão aberta aplicada em exames de 2019 e 2020 e sua rubrica {-}
-
-Segundo o site do Instituto Trata Brasil, “Saneamento é o conjunto de medidas que visa preservar ou modificar as condições do meio ambiente com a finalidade de prevenir doenças e promover a saúde, melhorar a qualidade de vida da população e à produtividade do indivíduo e facilitar a atividade econômica. No Brasil, o saneamento básico é um direito assegurado pela Constituição (...)”.
-
-Embora atualmente se usa no Brasil o conceito de Saneamento Ambiental como sendo o conjunto de ações diretamente relacionadas a saúde pública e a proteção ambiental. Dentre estas ações se inserem: o abastecimento de água em quantidade e qualidade compatível com os padrões de potabilidade; coleta, tratamento e disposição adequada dos esgotos e dos resíduos sólidos, comumente chamado de lixo; drenagem e manejo de águas pluviais; e controle de vetores e reservatórios transmissores de doenças.
-
-A partir dos conceitos apresentados, observa-se que as ações de saneamento estão diretamente relacionadas à saúde pública e a proteção ambiental, além da sua essencialidade socioambiental. A falta de saneamento básico é extremamente grave por trabalhar com a questão do lixo, coleta do lixo, com esgotamento sanitário, água potável, e ter essas coisas tratadas significa qualidade de vida. O gráfico mostra como a falta de saneamento básico interferiu na saúde das pessoas em dez anos (2009 – 2018) no Brasil.
-
-
-```{r graficosaneamento,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Internações por carência de saneamento básico.",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("images/Impactos/grafico-saneamento.png"))
-```
-
-    A. O que representa o tamanho das bolinhas no gráfico?
-    B. Qual região tem as menores taxas de internação? Você acha que isso acontece por algum motivo? Se sim, qual?
-    C. Com base no gráfico, o que você percebeu sobre o Saneamento Básico da região Nordeste?
-    
-    
-    
-
-```{r quadroimpacto6, echo=FALSE, message=FALSE, warning=FALSE}
-library(dplyr)
-library(kableExtra)
-
-Parte <-c(
-"A.",
-"B.",
-"B.",
-"C."
-)
-
-Pergunta<-c("O que representa o tamanho das bolinhas no gráfico?",
-"Qual região tem as menores taxas de internação?",
-"Você acha que isso acontece por algum motivo?",
-"Com base no gráfico, o que você percebeu sobre o Saneamento Básico da região Nordeste?"
-)
-
-Tarefa <-c(
-"Identificar o significado de um elemento gráfico",
-"Extrair informação específica a partir de um elemento gráfico",
-"Elaborar uma hipótese verificável",
-"Extrair informações em geral a partir de um elemento gráfico")
-
-RespostasV <-c(
-"Respondeu alguma das respostas abaixo ou uma variante:
-“a taxa/qtd de pessoas internadas”;
-“a taxa/qtd de pessoas internadas por 100 mil hab.”;
-“a taxa/qtd de pessoas internadas por carência de saneamento básico por 100 mil hab.”;
-“o mesmo que o eixo Y/horizontal”.",
-"Respondeu exatamente:
-“Sudeste”",
-"Respondeu algo que possa ser medido com experimentos ou coleta de dados. Exemplos:
-“há mais investimento em saúde/saneamento”;
-“as pessoas se cuidam mais”;
-“há menos pessoas lá”.",
-"Em relação à taxa de internações, respondeu alguma das respostas abaixo ou uma variante:
-“tendeu a cair”;
-“oscilou e caiu”;
-“passou a ser a maior do Brasil”;
-“se manteve como uma das mais altas do Brasil”.
-
-OU
-
-Em relação ao saneamento básico, respondeu alguma das respostas abaixo ou uma variante:
-“melhorou um pouco, mas menos que as outras regiões”;")
-
-
-
-
-quadro <- data.frame(Parte,Pergunta,Tarefa,RespostasV)
-
-names(quadro) <- c("Parte","Pergunta","Tarefa","Resposta Válida")
-
-kbl(quadro,caption = "Rubrica:")
-```
 

@@ -1,5 +1,15 @@
 # Encontros virtuais com estudantes bolsistas {#encest}
 
+<div class="capa">
+<div class="foto_ativ">
+![](images/image125.png)
+</div>
+
+<div class="leg_ativ">
+Encontros virtuais
+</div>
+</div>
+
 ## Metodologia
 
 A preparação do material para os encontros com as/os estudantes requereu a realização de pesquisa sobre o tema, a elaboração de slides, a discussão e elaboração de planos de aula, bem como a preparação de disparadores complementares (jogos, cards etc.). Para cada encontro, estima-se um tempo médio de dedicação da equipe correspondente a 8h.
@@ -48,12 +58,12 @@ kbl(quadro3,caption = "Encontros realizados com as/os estudantes.")
 Nas Figuras \@ref(fig:meetenctprot) a \@ref(fig:meetenctsite) são apresentados alguns registros desses encontros.
 
 
-```{r meetenctprot, fig.cap='Registro de um dos encontros com a equipe de Protagonismo.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r meetenctprot, fig.cap='Registro de um dos encontros com a equipe de Protagonismo.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image125.png")
 ```
 
 
-```{r meetenctsite, fig.cap='Registro de um dos encontros com a equipe do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r meetenctsite, fig.cap='Registro de um dos encontros com a equipe do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image126.png")
 ```
 
@@ -89,7 +99,7 @@ kbl(quadro4,caption = "Podcasts produzidos pelas estudantes durante o período d
 
 
 
-```{r podcast, fig.cap='Podcast Mulheres Extraordinárias publicado pelas estudantes no Spotify. A edição dos áudios e as publicações no Spotify são de responsabilidade da estudante do 9º ano do ensino fundamental Maíra Oliveira Esquerre (voluntária).', echo=FALSE, message=FALSE, warning=FALSE}
+```{r podcast, fig.cap='Podcast Mulheres Extraordinárias publicado pelas estudantes no Spotify. A edição dos áudios e as publicações no Spotify são de responsabilidade da estudante do 9º ano do ensino fundamental Maíra Oliveira Esquerre (voluntária).', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image95.png")
 ```
 
@@ -116,14 +126,14 @@ foram compartilhados nos grupos de WhatsApp do projeto. Na Figura
 são apresentados exemplos de alguns vídeos. As estatísticas de acesso 
 aos vídeos não foram estimadas por falta de dados, visto que os vídeos se encontram em websites de acesso público.
 
-```{r exemplosvideo, fig.cap='Exemplos de vídeos compartilhados com as/os estudantes e professores.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r exemplosvideo, fig.cap='Exemplos de vídeos compartilhados com as/os estudantes e professores.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image96.png")
 ```
 
 Visando acessar um público escolar ainda maior, além dos que fazem parte das cinco escolas que colaboram com o Projeto, a equipe colaborou de forma expressiva na Semana Nacional de Ciência e Tecnologia, promovida pela UFBA e realizada entre os dias 17 a 23 de outubro de 2020 - [(SNCT)](http://www.snct.ufba.br/programacao-semana-ufba/). Durante toda a semana, professores, estudantes e técnicos administrativos das diversas Unidades Acadêmicas da UFBA, de Salvador e Camaçari, bem como professores e estudantes da rede pública de ensino, estadual e municipal dessas cidades, participaram de encontros virtuais (palestras, mesas-redondas, bate-papos, etc) com o intuito de proporcionar discussões a respeito da Inteligência Artificial e temas afins.  
 No Quadro \@ref(tab:quadro5) apresenta-se o calendário das apresentações lideradas pela equipe do Projeto, assim como o seu respectivo número de participantes. As apresentações podem ser acessadas no [Youtube.](https://www.youtube.com/playlist?list=PLdPylXX7C_XhxUyoDBxeEIOR0hbLNHbqX)
 
-```{r quadro5, echo=FALSE, message=FALSE, warning=FALSE}
+```{r quadro5, echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 
 library(dplyr)
 library(kableExtra)
@@ -191,6 +201,6 @@ knitr::include_graphics(c("images/image98.png","images/image99.png"))
 ``` 
 
 
-```{r encerrSNCT, fig.cap='Registro da cerimônia de encerramento da SNCT. Com destaque o relato no chat das estudantes Caroll (Carollyne Dourado) “Amoo fazer parte das Meninas na Ciência de Dados” e Karin Beatriz (de Souza) “Me sinto honrada em participar do projeto meninas na ciências de dados” (esquerda) e o depoimento de um estudante no formulário de inscrições - informação compartilhada pela coordenação do evento; autoria não divulgada (direita).', echo=FALSE, message=FALSE, warning=FALSE}
+```{r encerrSNCT, fig.cap='Registro da cerimônia de encerramento da SNCT. Com destaque o relato no chat das estudantes Caroll (Carollyne Dourado) “Amoo fazer parte das Meninas na Ciência de Dados” e Karin Beatriz (de Souza) “Me sinto honrada em participar do projeto meninas na ciências de dados” (esquerda) e o depoimento de um estudante no formulário de inscrições - informação compartilhada pela coordenação do evento; autoria não divulgada (direita).', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}
 knitr::include_graphics("images/image101.png")
 ```
