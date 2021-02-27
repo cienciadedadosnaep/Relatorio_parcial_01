@@ -12,12 +12,13 @@ link-citations: yes
 # Ciência de Dados na Escola Pública
 
 <div class="capa">
+Iniciativa para inclusão da Ciência de Dados e da Inteligência Artificial na Educação Pública do Brasil
 <div class="foto_ativ">
-![](images/figura_capa/capa_principal.png)
+![](images/image00capa.png)
 </div>
 
 <div class="leg_ativ">
-Representação da avaliação de impacto
+**Conhecer e Experimentar para Compreender e Transformar**
 </div>
 </div>
 
@@ -59,19 +60,44 @@ knitr::include_graphics("images/image111.png")
 
 ## Equipe {-}
 
-Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-graduação (7) e por professoras/es e profissionais que atuam em instituições de ensino superior se dividem em sete grupos de ação (ver Figura \@ref(fig:profcdnaep)): 
+Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-graduação (7) e por professoras/es e profissionais que atuam em instituições de ensino superior se dividem em sete grupos de ação: 
 
  - Coordenação e Secretaria;
+    - Karla Esquerre (Profª Engª Química - UFBA)
+    - Reijane Gomes (Secretária)
  - Ciência de Dados;
+    - Júlia Carolina Bijos (Doutoranda - PEI-UFBA)
+    - Janaína Souza (Graduanda - Engenharia Química - UFBA)
+    - Kaike Wesley Reis (Graduando - Engenharia de Controle e Automação - UFBA)
  - Inteligência Artificial;
+    - Ana Luísa Nogueira dos Santos (Graduanda - Engenharia Química - UFBA)
+    - Lais Bastos Pinheiro (Mestranda em Controle e Automação)
  - Produção do Conhecimento Científico;
+    - Rejane de Almeida Santana dos Santos (Doutoranda - PEI-UFBA)
+    - Simão Urpia (Graduando  - Engenharia Química - UFBA)
+    - Elaine Christine de Magalhães Cabral Albuquerque (Profª de Engª Química - UFBA)
+    - Luciana Martinez (Profª do Departamento de Engenharia Elétrica - UFBA)
  - (re)Conhecendo Salvador;
+    - Nícole Príncipe (Mestranda - PEI-UFBA)
+    - Thalita Sena (Graduanda - BI-UFBA)
+    - Robson Wilson Silva Pessoa (Doutorando - PEI-UFBA)
+    - Marcos Narciso (Doutorando - PEI-UFBA)
+    - Silvia Miranda (Profª do Departamento de Transportes - UFBA )
  - Protagonismo;
+    - Daniele dos Santos Lima (Educadora - UFBA)
+    - Ana Carolina Costa (Graduanda - Engenharia Química - UFBA)
+    - Talita Costa (Doutoranda - Antropologia - UFBA)
  - Avaliação de Impactos do Projeto.
+    - Ícaro Bernardes (Mestrando - PEI-UFBA)
+    - Sandro Cabral (Insper Metrics)
+- Comunicação 
+    - Roseline Vanessa Santos Oliveira (Profª da Faculdade de Arquitetura e Urbanismo - UFAL)
+    - Daniele dos Santos Lima (Educadora - UFBA)
+    - Thalita Sena (Graduanda - BI-UFBA)
 
-```{r profcdnaep, fig.cap='Equipe do projeto Ciência de Dados na Escola Pública', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("images/image113.png")
-```
+
+
+
 
 ## Ações do Projeto {-}
 
