@@ -13,7 +13,7 @@ link-citations: yes
 
 <div class="capa">
 Iniciativa para inclusão da Ciência de Dados e da Inteligência Artificial na Educação Pública do Brasil
-<div class="foto_ativ">
+<div class="foto_ativ" >
 ![](images/image00capa.png)
 </div>
 
@@ -101,6 +101,30 @@ Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-g
 
 ## Ações do Projeto {-}
 
-As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações, conforme descrito a seguir (seções \@ref(website)-\@ref(encest)). Juntamente com as demais seções, este relatório busca descrever de forma sucinta tais ações e seus resultados, assim como os desafios e dificuldades encontradas que exigiram o reajuste das atividades planejadas inicialmente.
+As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações,
+
+ - Construção de ferramentas para apoiar professoras/es e estudantes
+   - \@ref(website) Construção do Website do Projeto
+   - \@ref(ebooks) Elaboração de 4 E-books 
+   - \@ref(ressa) Elaboração do site (re)Conhecendo Salvador, contendo estatísticas históricas da cidade
+   - \@ref(ensaprend) Desenvolvimento e acesso a novos métodos e metodologias de ensino e aprendizagem
+ - Conexão entre teoria e prática
+   - \@ref(prodconh) Desenvolvimento do pensamento científico
+   - \@ref(ressa) Construção e exploração do site (re)Conhecendo Salvador
+ - Encantamento e capacitação de professoras/es
+   - \@ref(cafecdados) Encontros virtuais com professores (Café com Dados)
+   - \@ref(cdia) Produção de textos sobre Inteligência Artificial
+   - \@ref(cdia) Construção da disciplina Inteligência Artificial
+   - \@ref(parciat) Construção de uma parceria com professores do IAT
+ - Encantamento e formação de estudantes
+   - \@ref(encest) Encontros virtuais com estudantes bolsistas
+   - \@ref(podcast) Produção de Podcasts: Mulheres extraordinárias
+   - \@ref(pubescol) Encantamento do público escolar para o engajamento nas ações do Projeto
+ - Percepção dos impactos do projeto
+   - \@ref(impactquali) Percepção com base qualitativa
+   - \@ref(impactquant) Percepção com base quantitativa
+   - \@ref(avalgeralimpact) Impactos do projeto 
+
+ Juntamente com as demais seções, este relatório busca descrever de forma sucinta tais ações e seus resultados, assim como os desafios e dificuldades encontradas que exigiram o reajuste das atividades planejadas inicialmente.
 
 

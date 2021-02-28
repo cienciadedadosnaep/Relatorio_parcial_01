@@ -1,6 +1,6 @@
 # Encantamento e capacitação de professores {#encprof}
 
-## Encontros virtuais com professoras/es (Café com Dados)
+## Encontros virtuais com professoras/es (Café com Dados) {#cafecdados}
 
 A [Webpage](https://cienciadedadosep.wixsite.com/cafecomdados) dispõe dos temas, nome e atribuições dos palestrantes, slides, referências sugeridas e gravações de todas as palestras que ocorreram de 01/04/2020 à 07/10/2020 no Café com Dados.)
 
@@ -26,7 +26,7 @@ Contribuíram como palestrantes professores, profissionais, estudantes de gradua
 knitr::include_graphics("images/image121.png")
 ```
 
-## Construção da disciplina Inteligência Artificial
+## Construção da disciplina Inteligência Artificial {#cdia}
 
 Considerando a natureza eletiva de parte das disciplinas oferecidas no ensino médio, o Colégio Estadual Henriqueta Martins Catharino, na pessoa da professora Alzira Melo, propôs a oferta de uma disciplina na área de Ciência de Dados. De forma a atrair a atenção e interesse das/os estudantes, juntamente com a equipe do projeto foi proposta a disciplina de Inteligência Artificial. Além desse colégio, o Estadual Evaristo da Veiga, na pessoa da professora Érica Nascimento, propôs oferecer a mesma disciplina. Uma proposta de ementa foi elaborada no início de 2020.
 A aproximação dessas professoras ao tema de Inteligência Artificial foi iniciada através da produção de textos/resumos baseados em artigos científicos, vídeos, reportagens e cursos relacionados a esses temas. Tal atividade foi conduzida por um membro do projeto vinculado à equipe de protagonismo. No total, foram elaborados 02 resumos baseados em vídeo conferências, 02 resumos baseados em artigos científicos, 01 resumo baseado em vídeo reportagem e 10 resumos baseados em reportagens de revistas e jornais online. As referências utilizadas para a produção dos resumos são apresentadas na Seção Bibliográfica.  A lista de resumos é apresentada na Tabela \@ref(tab:quadroia1) e os resumos completos podem ser acessados no [Drive](https://drive.google.com/drive/folders/1J2h6ljxDrwNOSu66Wzr-V13JCXEHWzHv?usp=sharin).
@@ -91,7 +91,7 @@ knitr::include_graphics("images/image123.png")
 ```
 
 
-## Construção de uma parceria com professoras/es do IAT
+## Construção de uma parceria com professoras/es do IAT {#parciat}
 
 No dia 14/12/2020, a equipe de protagonismo realizou uma reunião com quatro professores e uma coordenadora de uma escola pública no interior da Bahia. A reunião teve como objetivo promover a escuta dos professores e levantar suas expectativas sobre parceria com Projeto Ciência de Dados na Educação Pública com vistas a elaborar proposta conjunta de ação para estimular o protagonismo juvenil em sala de aula segundo uma perspectiva transdisciplinar em suas respectivas escolas.
            Durante a reunião, as integrantes da equipe de protagonismo convidou os professores participantes a preencherem coletivamente e online um material contendo as questões abaixo: 

@@ -1,0 +1,9 @@
+# Bibliografia Consultada
+
+ - Gould, R. (2017). Data literacy is statistical literacy. Statistics Education Research Journal, 16(1), 22-25.
+ - Law, N., Woo, D., de la Torre, J., & Wong, G. (2018). A global framework of reference on digital literacy skills for indicator 4.4. 2. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
+ - UNESCO (2018). Mathematics Global-Content-Framework. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
+ - Wenning, C. J. Science literacy: What it is, how to assess it, and a way to achieve it. Disponível em: http://www.phy.ilstu.edu/pte/INDONESIA/PDFs/G.%20SciLit-What_&_How.pdf. Acessado em: Novembro/2020.
+ - Wenning, C. J. ScInqLiT (Scientific Inquiry Literacy Test). Disponível em: https://studylib.net/doc/8991191/scinqlit--scientific-inquiry-literacy-test-. Acessado em: Novembro/2020.
+ - Indiana Department of Education. ISTAR Science Sample Items for Grades 4, 6, and 10. Disponível em: https://www.doe.in.gov/sites/default/files/assessment/istar-2016-17-science-item-sampler-final.pdf. Acessado em: Novembro/2020.
+

@@ -14,9 +14,13 @@ Um processo de licitação foi realizado para a contratação da empresa para re
 ### Etapas de desenvolvimento do site (re)Conhecendo Salvador
 
 A ideia do desenvolvimento do site (re)Conhecendo Salvador surgiu ainda no projeto *Meninas na Ciência de Dados*. Ela foi inspirada no projeto [PorData Kids](https://www.pordatakids.pt/Inicio), desenvolvido pela Fundação Francisco Manuel dos Santos, que explora estatísticas de Portugal a partir de questionamentos levantados em diversas áreas como educação, saúde, meio ambiente, transportes entre outros. 
+
 O (re)Conhecendo Salvador servirá como ferramenta de apoio ao desenvolvimento do pensamento analítico a ser utilizado pelos professores e estudantes do projeto, pois irá retratar a realidade da cidade de Salvador através de questionamentos cujas respostas são fundamentadas através de dados. Para isso, algumas perguntas foram levantadas com as estudantes durante ações do próprio projeto, formando um banco de perguntas. 
+
 Para dar início ao desenvolvimento, em abril de 2020, ocorreu a primeira reunião entre as equipes do projeto e da empresa de desenvolvimento InfoJr., para fazer o primeiro briefing com o levantamento de requisitos do site e proposta orçamentária. Posteriormente, já com a equipe do site em ação, novas reuniões foram realizadas para definir o escopo do site. Portanto, as etapas de mapa do site e definição de itens estão concluídas.
+
 O levantamento dos dados para o desenvolvimento do banco de dados responsável por abastecer o site começou em Agosto. Esta etapa ainda está em andamento em decorrência da dificuldade de encontrar dados abertos e que respondam ao nosso banco de perguntas. Para agilizar o desenvolvimento do banco de dados, algumas perguntas estão sendo reformuladas de acordo com os dados já levantados.
+
 A Figura \@ref(fig:steprecossa) apresenta as etapas de desenvolvimento do site. Em relação ao relatório de setembro, tivemos um avanço significativo a partir das entregas da logomarca e identidade visual do (re)Conhecendo Salvador. O design de interface, entretanto, é uma etapa que continua em andamento porque apenas uma tela foi desenvolvida, a tela inicial, porém, a partir dela, e da identidade visual feita pela Alinhavo Jr. será continuado o trabalho de design de interface das páginas seguintes de forma interna. 
 
 ```{r steprecossa, fig.cap='Fluxo do processo de desenvolvimento do site (re)Conhecendo Salvador.', echo=FALSE, message=FALSE, warning=FALSE, fig.show='hold',fig.align='center'}

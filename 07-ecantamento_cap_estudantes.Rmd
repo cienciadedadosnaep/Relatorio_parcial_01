@@ -68,7 +68,7 @@ knitr::include_graphics("images/image126.png")
 ```
 
 
-## Produção de Podcasts: Mulheres Extraordinárias
+## Produção de Podcasts: Mulheres Extraordinárias {#podcast}
 
 O objetivo desta atividade consistiu em fortalecer o protagonismo das estudantes; estimulá-las a mediar o aprendizado para seus pares e envolvê-los, ainda que indiretamente, nas ações do projeto. 
 Foi proposto às estudantes que, à distância, motivassem colegas (não vinculadas ao projeto) para produzir podcasts (áudios curtos passíveis de edição, disponibilizados via internet, dedicados a tratar de um tema específico) sobre as mulheres extraordinárias discutidas durante as reuniões do projeto, com base nos textos e pontos-chave elaborados pela equipe. 
@@ -104,7 +104,7 @@ knitr::include_graphics("images/image95.png")
 ```
 
 
-## Encantamento do público escolar
+## Encantamento do público escolar {#pubescol}
 
 Uma preocupação contínua durante todo o projeto tem sido criar meios 
 de encantar e apoiar a formação de toda a comunidade escolar, 

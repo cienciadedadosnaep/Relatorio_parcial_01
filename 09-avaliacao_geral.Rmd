@@ -1,4 +1,4 @@
-# Avaliação geral de impacto
+# Avaliação geral de impacto {#avalgeralimpact}
 
 <div class="capa">
 
@@ -541,11 +541,7 @@ kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
 ```
 A maioria das relações acima não parece ter uma relação clara. Todavia, há temas com aparente sinergia. O tema “IA4: Identificar viés algorítmico” convida o estudante a reconhecer em um conjunto de reportagens o problema de viés que dados não representativos podem gerar aos modelos gerados a partir deles. O tema “CD8: Métodos estatísticos (noção de intervalos de confiança)” busca verificar se o estudante entende que um valor podem estar relacionados com a capacidade do estudante de perceber que dados selecionar para que um intervalo de confiança melhor represente um comportamento dos dados. Curiosamente, o tema “CD6: Coleta de dados” no qual propõe-se aos estudantes que indiquem quais as características que uma amostra deve ter para evitar vieses tem correlação baixa e negativa com os temas referidos anteriormente (-0,34 para CD8 e -0,45 para IA4).
 
-
-
-
-## Conclusão
-
+## Conclusão 
 
 O desempenho geral dos estudantes foi de mediano a muito bom. O melhor resultado geral foi obtido no exame de Protagonismo, curso que teve a maior quantidade de encontros. Sugerindo que uma maior frequência tem efeito sobre o aprendizado dos estudantes. Todavia, não necessariamente por meio de “aulas cruciais” às quais se o estudante faltar não será capaz de compreender os temas.
 Os resultados mostram que estudantes que falharam em acertar em vários casos tiveram assiduidade mais baixa em encontros que na verdade têm relação meramente marginal ou não existente com o tema no qual falharam. Tal situação pode ser explicada por um conjunto de hipóteses: 1. Há um espalhamento do conteúdo ao longo dos encontros através de repetições e reforços. Assim, os estudantes têm diversas oportunidades de assimilar os temas. 2. Em alguns dos exames os estudantes que erraram certas questões não faltaram aula alguma. Há também casos onde os estudantes estiveram presentes em aulas cujo tema focal coincidiu com o tema da questão que eles falharam. Isso indica que tais estudantes estão tendo dificuldades mesmo presentes nas aulas.
@@ -604,12 +600,6 @@ destacada a dificuldade de abstração, desenvolvimento de escrita, argumentaç�
  Os encontros com professores geraram debates entorno destas dificuldades, contudo reconheciam os avanços apresentados pelas atividades do projeto.**
 
 
-## Referências 
 
- - Gould, R. (2017). Data literacy is statistical literacy. Statistics Education Research Journal, 16(1), 22-25.
- - Law, N., Woo, D., de la Torre, J., & Wong, G. (2018). A global framework of reference on digital literacy skills for indicator 4.4. 2. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
- - UNESCO (2018). Mathematics Global-Content-Framework. UNESCO Institute for Statistics (UIS/2018/ICT/IP/51).
- - Wenning, C. J. Science literacy: What it is, how to assess it, and a way to achieve it. Disponível em: http://www.phy.ilstu.edu/pte/INDONESIA/PDFs/G.%20SciLit-What_&_How.pdf. Acessado em: Novembro/2020.
- - Wenning, C. J. ScInqLiT (Scientific Inquiry Literacy Test). Disponível em: https://studylib.net/doc/8991191/scinqlit--scientific-inquiry-literacy-test-. Acessado em: Novembro/2020.
- - Indiana Department of Education. ISTAR Science Sample Items for Grades 4, 6, and 10. Disponível em: https://www.doe.in.gov/sites/default/files/assessment/istar-2016-17-science-item-sampler-final.pdf. Acessado em: Novembro/2020.
+
 
