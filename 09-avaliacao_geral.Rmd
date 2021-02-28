@@ -14,7 +14,7 @@ Representação da avaliação de impacto
 
 ## Introdução 
 
-As atividades de um projeto social precisam ser avaliadas com critérios transparentes e precisos. A avaliação permite uma melhor gestão do projeto e traz clareza à comunidade sobre o andamento do mesmo. Boas métricas devem ser baratas, precisas e mensurar elementos que tenham uma clara relação com objetos do interesse do público-alvo. A Teoria da Mudança auxilia na escolha das métricas. Esse método auxilia o analista a associar atividades e seus efeitos em uma cadeia de eventos. A certos efeitos associa-se uma métrica e desenha-se um método para medi-la. Apesar da simplicidade do método, não são incomuns empecilhos na sua execução.
+As atividades de um projeto social precisam ser avaliadas com critérios transparentes e próximos da realidade. A avaliação permite uma melhor gestão do projeto e traz informações à comunidade sobre o andamento do mesmo. Boas métricas devem ser baratas, próximas da realidade e mensurar elementos que tenham uma clara relação com objetos do interesse do público-alvo. A Teoria da Mudança auxilia na escolha das métricas. Esse método auxilia o analista a associar as atividades e seus efeitos em uma cadeia de eventos. A certos efeitos associa-se uma métrica e desenha-se um método para medi-la. Apesar da simplicidade do método, não são incomuns empecilhos na sua execução.
 Em 2020, o projeto Ciência de Dados na Educação Pública foi desafiado de várias formas. A pandemia foi a principal fonte de problemas e estes também afetaram os movimentos de avaliação de impactos. A mudança do ambiente presencial para o digital dificultou a aplicação de questionários de opinião e atividades avaliativas. Tal problema foi enfrentado concentrando as avaliações tanto quanto possível, alertando aos estudantes antecipadamente da importância de participar e valendo-se da experiência adquirida pela equipe ao longo do ano no ambiente virtual. Outro inconveniente foi a necessidade de adaptar e redefinir o calendário de atividades para acomodar novas oportunidades que surgiam e seguir o plano original tanto quanto possível. Em resposta, as métricas escolhidas para a avaliação de impacto tiveram de ser genéricas o suficiente para contemplar o conjunto de atividades esperado do projeto.
 A despeito das dificuldades, foi possível aplicar as atividades e questionários com sucesso. As seções seguintes esclarecem como foram construídos e aplicados os formulários (Método), apresentam e discutem os resultados (Resultados) e indicam o que foi possível observar como resultado dessa experiência (Conclusão).
 
@@ -350,7 +350,7 @@ A cada questão foi associado um tema discutido em sala com os estudantes. A Fig
 knitr::include_graphics(c("images/Impactos/34.png"))
 ```
 
-Cruzando os acertos e erros nas questões com as variáveis coletadas dos estudantes nos questionários pode-se investigar possíveis causas de dificuldades na compreensão dos estudantes. As Figuras \@ref(fig;impacto35) a \@ref(fig;impacto37) exibem tais cruzamentos. É importante chamar à atenção de que as categorias têm pequenas quantidades, logo as tendências observadas têm razoável incerteza.
+Cruzando os acertos e erros nas questões com as variáveis coletadas dos estudantes nos questionários pode-se investigar possíveis causas de dificuldades na compreensão dos estudantes. As Figuras \@ref(fig:impacto35) a \@ref(fig:impacto37) exibem tais cruzamentos. É importante chamar à atenção de que as categorias têm pequenas quantidades, logo as tendências observadas têm razoável incerteza.
 
 ```{r impacto35,echo=FALSE,out.width="75%",out.height="75%",fig.cap="Quantidade de acertos por questão e ano escolar.",fig.show='hold',fig.align='center'}
 knitr::include_graphics(c("images/Impactos/35.png"))
@@ -366,8 +366,8 @@ knitr::include_graphics(c("images/Impactos/36.png"))
 knitr::include_graphics(c("images/Impactos/37.png"))
 ```
 
-Alguns aspectos dignos de nota observados nas figuras são: uma fração maior dos estudantes mais velhos e em classes mais avançadas foi capaz de perceber uma explicação coerente para um resultado inesperado proposto na questão 4. O desempenho dos alunos de ambos os sexos foi similar.
-Outro fator que pode explicar os resultados alcançados pelos estudantes nos exames são as presenças deles em certos encontros do projeto. A Figura \@ref(fig:impacto38) apresenta pares de barras em cruzamentos entre as questões temáticas e os encontros ministrados pelo grupo.
+Alguns aspectos relevantes de nota observados nas figuras são: uma fração maior dos estudantes mais velhos e em classes mais avançadas foi capaz de perceber uma explicação coerente para um resultado inesperado proposto na questão 4. O desempenho dos alunos de ambos os sexos foi similar.
+Outro fator que pode explicar os resultados alcançados  são as presenças  encontros do projeto. A Figura \@ref(fig:impacto38) apresenta pares de barras em cruzamentos entre as questões temáticas e os encontros ministrados pelo grupo.
 
 
 
@@ -375,7 +375,7 @@ Outro fator que pode explicar os resultados alcançados pelos estudantes nos exa
 knitr::include_graphics(c("images/Impactos/38.png"))
 ```
 
-Vê-se que os estudantes que responderam as questões incorretamente não estiveram todos ausentes em qualquer encontro em particular. A Tabela \@ref(tab:quadroimpacto4) mostra encontros cuja ausência possivelmente podem explicar as dificuldades dos estudantes com algumas questões.
+Vê-se que os estudantes que responderam as questões incorretamente não estiveram todos ausentes em qualquer encontro em particular. A Tabela \@ref(tab:quadroimpacto4) mostra encontros com menor frequência e cuja ausência possivelmente podem explicar as dificuldades dos estudantes com algumas questões.
 
 
 

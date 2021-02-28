@@ -2,7 +2,7 @@
 
 ## Encontros virtuais com professoras/es (Café com Dados)
 
-Encontros virtuais abertos a professores e comunidade escolar das cinco escolas participantes do projeto, bem como toda a sociedade ocorreram através do Café com Dados.  Os encontros totalizaram uma carga horária aproximada de 40h, dividida em encontros de uma vez por semana, que duravam entre 1h a 1h30. As gravações dos encontros estão disponíveis no [site do projeto](https://cienciadedadosep.wixsite.com/cafecomdados), possibilitando, assim, que as discussões alcançassem pessoas que não estavam presentes nos momentos dos encontros. A primeira etapa, realizada de abril a julho de 2020, visou encantar e aproximar os professores e coordenadores das escolas ao tema de ciência de dados e suas relações com os demais temas (inteligência artificial, produção do conhecimento científico e protagonismos social, racial e de gênero). A segunda etapa ocorreu de agosto a outubro, no formato de mediações didáticas. Nestes encontros foram apresentados e discutidos os conteúdos trabalhados nos encontros virtuais com as/os estudantes liderados pela equipe do projeto. 
+A [Webpage](https://cienciadedadosep.wixsite.com/cafecomdados) dispõe dos temas, nome e atribuições dos palestrantes, slides, referências sugeridas e gravações de todas as palestras que ocorreram de 01/04/2020 à 07/10/2020 no Café com Dados.)
 
 **Abril 2020**
 Desmistificando a ciência de dados - Profa. Karla Esquerre / UFBA; Ciência de dados na Engenharia de transportes - Prof. Jorge Ubirajara / UFBA; Ressignificando os dados públicos sobre COVID-19: As iniciativas não governamentais - Fernando Barbalho / Tesouro Nacional; Testes diagnósticos para o COVID - 19 - Profs. Danilo Klein e Alexandre Silva / UERJ e Secretaria Extraordinária de Acompanhamento das Ações Governamentais Integradas do Covid 19 do Rio de Janeiro; Ferramentas online para suporte ao ensino - Ana Carolina Santos, Ana Luisa Nogueira, Janaina Souza, Thalita Senna e Profa. Karla Esquerre / UFBA.
@@ -29,9 +29,59 @@ knitr::include_graphics("images/image121.png")
 ## Construção da disciplina Inteligência Artificial
 
 Considerando a natureza eletiva de parte das disciplinas oferecidas no ensino médio, o Colégio Estadual Henriqueta Martins Catharino, na pessoa da professora Alzira Melo, propôs a oferta de uma disciplina na área de Ciência de Dados. De forma a atrair a atenção e interesse das/os estudantes, juntamente com a equipe do projeto foi proposta a disciplina de Inteligência Artificial. Além desse colégio, o Estadual Evaristo da Veiga, na pessoa da professora Érica Nascimento, propôs oferecer a mesma disciplina. Uma proposta de ementa foi elaborada no início de 2020.
-A aproximação dessas professoras ao tema de Inteligência Artificial foi iniciada através da produção de textos/resumos baseados em artigos científicos, vídeos, reportagens e cursos relacionados a esses temas. Tal atividade foi conduzida por um membro do projeto vinculado à equipe de protagonismo. No total, foram elaborados 02 resumos baseados em vídeo conferências, 02 resumos baseados em artigos científicos, 01 resumo baseado em vídeo reportagem e 10 resumos baseados em reportagens de revistas e jornais online. As referências utilizadas para a produção dos resumos são apresentadas na Sessão Bibliográfica.  A lista de resumos é apresentada no Apêndice 12.2 e os resumos completos podem ser acessados no [Drive](https://drive.google.com/drive/folders/1J2h6ljxDrwNOSu66Wzr-V13JCXEHWzHv?usp=sharin).
+A aproximação dessas professoras ao tema de Inteligência Artificial foi iniciada através da produção de textos/resumos baseados em artigos científicos, vídeos, reportagens e cursos relacionados a esses temas. Tal atividade foi conduzida por um membro do projeto vinculado à equipe de protagonismo. No total, foram elaborados 02 resumos baseados em vídeo conferências, 02 resumos baseados em artigos científicos, 01 resumo baseado em vídeo reportagem e 10 resumos baseados em reportagens de revistas e jornais online. As referências utilizadas para a produção dos resumos são apresentadas na Seção Bibliográfica.  A lista de resumos é apresentada na Tabela \@ref(tab:quadroia1) e os resumos completos podem ser acessados no [Drive](https://drive.google.com/drive/folders/1J2h6ljxDrwNOSu66Wzr-V13JCXEHWzHv?usp=sharin).
 
-Inicialmente, a equipe de Inteligência Artificial iria apenas apoiar as professoras e instituições na disciplina. No entanto, por ter que ser conduzida de modo virtual, foram percebidas as necessidades de adaptar a ementa inicialmente proposta para a quantidade de encontros previstos e para a dinâmica de um encontro virtual. Assim, ficou acordado que seriam realizados encontros semanais dentro do período de 18 de agosto a 24 de novembro de 2020. Aliado ao discurso das professoras que se mostraram inseguras em alguns pontos da liderança do encontro, também ficou definida a alternância quinzenal da liderança desses encontros com a equipe do projeto. Nos encontros liderados pelas professoras, passaram a ser abordadas as aplicações e implicações da inteligência artificial enquanto a equipe do projeto passou a se dedicar aos tópicos mais teóricos e conceituais. Nos encontros das professoras, elas utilizaram a experiência adquirida com a produção dos resumos para propor os temas e discussões dos seus encontros. Para a discussão dos tópicos e de eventuais dúvidas das professoras, também ficaram combinadas reuniões semanais ou quinzenais com as professoras e uso do grupo do WhatsApp para diálogos e compartilhamentos. A ementa da disciplina é apresentada no Apêndice 12.3.
+
+```{r quadroia1, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(kableExtra)
+
+
+MES <- c("Abril/2020","","Maio/2020","","","Junho/2020","","","Julho/2020","","","","","","Agosto/2020","Setembro/2020")
+
+
+MATERIAL <- c("Vídeo conferência",
+"Vídeo conferência",
+"Artigo científico",
+"Artigo científico",
+"Artigo em revista online",
+"Reportagem",
+"Reportagem",
+"Reportagem",
+"Reportagem",
+"Reportagem",
+"Vídeo- reportagem",
+"Reportagem",
+"Reportagens compiladas em resumo único","",
+"Reportagem",
+"Reportagem")
+
+TITULO <-c("WRIGHT, Shelley. The power of student-driven learning. TEDx West Vancouver ED. Disponível em: https://www.youtube.com/watch?v=3fMC-z7K0r4. Acesso em: 07 abr.2020",
+"ORESKES, Naomi. Why We Should Trust Scientists. TEDSalon. Disponível em: https://www.ted.com/talks/naomi_oreskes_why_we_should_believe_in_science/transcript#t-841831. Acesso em: 18 abr.2020",
+"COZMAN, Fábio G. O futuro da (pesquisa em) inteligência artificial: algumas direções. Revista USP. São Paulo: Universidade de São Paulo, n.124, p.11-20, jan/mar 2020. Dossiê Inteligência Artificial.",
+"CÓBE, Raphael M. O; NONATO, Luiza G.; NOVAES, Sérgio F. e ZIEBARTH, José A. Rumo a uma política de Estado para Inteligência Artificial. Revista USP. São Paulo: Universidade de São Paulo, n.124, p.37-48, jan./mar. 2020 (Dossiê Inteligência Artificial).",
+"DAVENPORT, Thomas H. e PATIL, D.J. Data Scientist: The Sexiest Job of the 21st Century. Harvard Business Review (revista online). Out.2012. Disponível em: https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century. Acesso em: 01 maio 2020.",
+"AGRELA, Lucas. 5 coisas surpreendentes feitas por inteligência artificial. De sonhos a comentários racistas, veja o que as redes neurais artificiais já conseguiram fazer. Super Interessante (revista online). Jul.2017. Disponível em: https://super.abril.com.br/tecnologia/5-coisas-surpreendentes-feitas-por-inteligencia-artificial/. Acesso em: 15 jun. 2020.",
+"(Autoria não é informada). Como a inteligência artificial pode melhorar a vida de pessoas com deficiência. Revista G1 [online]. Ciência e Saúde. Jan.2019. Disponível em: https://g1.globo.com/ciencia-e-saude/noticia/2019/01/20/como-a-inteligencia-artificial-pode-melhorar-a-vida-de-pessoas-com-deficiencia.ghtml.Acesso em: 18 jun. 2020",
+"AGRELA, Lucas. Máquinas não roubarão empregos, diz presidente da Microsoft. Revista Exame [online]. Tecnologia. Ago. 2017. Disponível em: https://exame.com/tecnologia/maquinas-nao-roubarao-empregos-diz-presidente-da-microsoft/. Acesso em: 20 jun. 2020.",
+"LOPES, André. Isso é um flerte? IA analisa conversas no WhatsApp para dar dicas amorosas. Veja (revista online). Set. 2019. Disponível em: https://veja.abril.com.br/tecnologia/isso-e-um-flerte-ia-analisa-conversas-no-whatsapp-para-dar-dicas-amorosas/ Acesso em: 07 jul. 2020.",
+"BATTAGLIA, Rafael. Aos 13 anos, cada criança terá 1300 fotos e vídeos postados na internet. Super Interessante [online]. 12 nov. 2018. Disponível em: https://super.abril.com.br/ciencia/aos-13-anos-cada-crianca-tera-1-300-fotos-e-videos-postados-na-internet/ Acesso em: 08 jul. 2020.",
+"Hospitais de SP usam inteligência artificial para proteger funcionários contra corona vírus. Jornal da Globo [online]. 31 mar.2020 Mar. 2020. Disponível em: https://globoplay.globo.com/v/8447582/. Acesso em: 24 jun. 2020.",
+"SANTOS, Carolina Marins. Por que as mulheres “desapareceram” dos cursos de computação? Jornal da USP [online]. Universidade de São Paulo. 07 mar.2018. Disponível em: https://jornal.usp.br/universidade/por-que-as-mulheres-desapareceram-dos-cursos-de-computacao/. Acesso em: 20 jul. 2020",
+"1) GERONASSO, Christian. Inteligência Artificial, o caminho para um novo Apartheid. VDI-Brasil. Associação de Engenheiros Brasil-Alemanha. [online]. Disponível em: https://www.vdibrasil.com/inteligencia-artificial-o-caminho-para-um-novo-arpartheid/.Acesso em: 23 jun. 2020;",
+"2) VDI-Brasil. Associação de Engenheiros Brasil-Alemanha. [online]. Tokenismo e Discriminação Algorítmica. Disponível em: https://www.vdibrasil.com/tokenismo-e-discriminacao-algoritmica/ . Acesso em: 25 jun. 2020.",
+"ZUIN, Lidia. Inteligência Artificial e gênero na ficção científica. Medium [online]. 08 jul.2019. Disponível em: https://medium.com/up-future-sight/intelig%C3%AAncia-artificial-e-g%C3%AAnero-na-fic%C3%A7%C3%A3o-cient%C3%ADfica-1fae72b612cb. Acesso em: 08 ago.2020.",
+"ZAPAROLLI, Domingos. Agricultura 4.0. Revista Pesquisa FAPESP [online]. 16 jan. 2020. Edição 287. jan.2020. Disponível em: https://revistapesquisa.fapesp.br/agricultura-4-0/. Acesso em: 17 set. 2020.")
+
+quadro <- data.frame(MES,MATERIAL,TITULO)
+names(quadro) <- c("Mês","Material","Título")
+
+kbl(quadro,caption ="Lista de resumos produzidos no tema de Inteligência Artificial")
+                                
+```
+
+
+Inicialmente, a equipe de Inteligência Artificial iria apenas apoiar as professoras e instituições na disciplina. No entanto, por ter que ser conduzida de modo virtual, foram percebidas as necessidades de adaptar a ementa inicialmente proposta para a quantidade de encontros previstos e para a dinâmica de um encontro virtual. Assim, ficou acordado que seriam realizados encontros semanais dentro do período de 18 de agosto a 24 de novembro de 2020. Aliado ao discurso das professoras que se mostraram inseguras em alguns pontos da liderança do encontro, também ficou definida a alternância quinzenal da liderança desses encontros com a equipe do projeto. Nos encontros liderados pelas professoras, passaram a ser abordadas as aplicações e implicações da inteligência artificial enquanto a equipe do projeto passou a se dedicar aos tópicos mais teóricos e conceituais. Nos encontros das professoras, elas utilizaram a experiência adquirida com a produção dos resumos para propor os temas e discussões dos seus encontros. Para a discussão dos tópicos e de eventuais dúvidas das professoras, também ficaram combinadas reuniões semanais ou quinzenais com as professoras e uso do grupo do WhatsApp para diálogos e compartilhamentos. A ementa da disciplina é apresentada no Apêndice \@ref(ementaai).
 As inscrições para a disciplina foram feitas através de um formulário do Google compartilhado com um card para divulgação da iniciativa. O link foi divulgado pelas professoras e coordenadoras entre os estudantes e foi divulgado pela equipe do projeto entre os estudantes bolsistas.
 Ao todo, foram feitas 43 inscrições. Contudo, 20 estudantes nunca compareceram. Essas faltas foram averiguadas e, geralmente, apresentaram justificativas relacionadas à pandemia. Foi observada uma frequência máxima de 23 estudantes no encontro do dia 01/09/2020, e mínima de 11 estudantes no encontro do dia 13/10/2020, variando entre esses valores e entre os mesmos estudantes. Vale ressaltar que temos estudantes sem faltas.
 Na Figura \@ref(fig:diagramaAI) é apresentada uma representação das discussões de Inteligência Artificial e a formação de futuros protagonistas de transformação da sociedade.

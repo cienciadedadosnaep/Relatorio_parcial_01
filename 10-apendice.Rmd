@@ -95,6 +95,36 @@ A partir do aceite da FAPEX para a contratação da única empresa candidata ao 
 Posteriormente, ocorreram outras reuniões para realizar entregas parciais (11/01/2021 e 20/01/2021). Por ser um processo iterativo e incremental, o cronograma de entrega precisou ser reajustado, dadas as necessidades de mudança no processo de construção dos produtos solicitados pela própria equipe do site (re)Conhecendo Salvador. Detalhes dos encontros estão descritos a seguir.
 
 
+## Ementas dos encontros com estudantes {#ementaai}
+
+```{r quadroapendexia, echo=FALSE, message=FALSE, warning=FALSE}
+library(readr)
+library(dplyr)
+library(kableExtra)
+
+lista_encontros_ai <- read_delim("arquivo/lista_encontros_ai.csv",";", escape_double = FALSE, na = "empty",trim_ws = TRUE)
+
+kbl(lista_encontros_ai,caption = "Cronograma da disciplina eletiva de Inteligência Artificial")
+
+```
+
+
+
+
+
+```{r quadroapendexgeral, echo=FALSE, message=FALSE, warning=FALSE}
+library(readr)
+library(dplyr)
+library(kableExtra)
+
+lista_encontros_geral <- read_delim("arquivo/lista_encontros_geral.csv",";", escape_double = FALSE, na = "empty",trim_ws = TRUE)
+
+kbl(lista_encontros_geral,caption = "Temas dos encontros virtuais com as/os estudantes")
+
+```
+
+
+
 ## Atividade de Fixação {#atividadefix}
 
 As atividades de fixação com os estudantes foram realizadas entre os meses de Novembro e Dezembro/2020, com o intuito de verificar o ganho de conhecimento dos estudantes e percepção dos conteúdos tratados em problemas contextualizados. As equipes elaboraram a atividade com base nos conteúdos discutidos nas dinâmicas frente às habilidades esperadas. Desta forma, este capítulo irá discutir a percepção de cada equipe sobre os resultados obtidos nas atividades.
@@ -165,7 +195,7 @@ RespostasV <-c(
 “a taxa/qtd de pessoas internadas”;
 “a taxa/qtd de pessoas internadas por 100 mil hab.”;
 “a taxa/qtd de pessoas internadas por carência de saneamento básico por 100 mil hab.”;
-“o mesmo que o eixo Y/horizontal”.",
+“o mesmo que o eixo Y/horizontal”.;“falta de saneamento”.",
 "Respondeu exatamente:
 “Sudeste”",
 "Respondeu algo que possa ser medido com experimentos ou coleta de dados. Exemplos:

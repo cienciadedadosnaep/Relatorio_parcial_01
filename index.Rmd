@@ -54,7 +54,7 @@ As ferramentas desenvolvidas visam beneficiar 1000 estudantes de cinco escolas p
 Através de uma parceria em construção com o Instituto Anísio Teixeira, trabalha-se para que todo o material desenvolvido e em desenvolvimento seja disponibilizado para toda a rede de ensino público (e privado). 
 Na Figura \@ref(fig:estudcdnaep) é apresentada a equipe de estudantes bolsistas do projeto. Atualmente, em um contexto pandêmico, que dificulta o acesso a encontros on-line, 29 estudantes participam de modo frequente, mas este número triplicará com o retorno das atividades presenciais.
 
-```{r estudcdnaep, fig.cap='Equipe de estudantes bolsistas do projeto Ciência de Dados na Escola Pública', echo=FALSE, message=FALSE, warning=FALSE}
+```{r estudcdnaep,echo=FALSE,out.width="95%",out.height="95%", fig.cap='Equipe de estudantes bolsistas do projeto Ciência de Dados na Escola Pública', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("images/image111.png")
 ```
 

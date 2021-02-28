@@ -1,6 +1,6 @@
 #  Desenvolvimento do pensamento científico {#prodconh}
 
-As atividades relacionadas ao desenvolvimento do pensamento científico envolvem a construção do E-book (relatado na sessão 1), o fortalecimento do pensamento científico das/os estudantes nos encontros virtuais e a sua mobilização para que participem de eventos científicos. 
+As atividades relacionadas ao desenvolvimento do pensamento científico envolvem a construção do E-book (relatado na seção \@ref(ebookpcc)), o fortalecimento do pensamento científico das/os estudantes nos encontros virtuais e a sua mobilização para que participem de eventos científicos. 
 Tais atividades se baseiam em três eixos estruturantes da alfabetização científica: (a) Compreensão básica de termos e conceitos científicos, em que são trazidos aos estudantes elementos que compõem uma investigação científica (conhecimento); (b) Compreensão da natureza da ciência e os fatores que circundam sua prática, demonstrando a importância da investigação científica e sua diversidade (reconhecimento); (c) Compreensão das relações existentes entre investigação científica, tecnologia, sociedade e meio ambiente (aplicação). 
 O Quadro Colaborativo ilustrado na Figura \@ref(fig:prodcocient) sintetiza os elementos associados ao pensamento científico trabalhados, destaca-se que esse quadro foi construído juntamente com as/os estudantes partícipes do Projeto.
   
