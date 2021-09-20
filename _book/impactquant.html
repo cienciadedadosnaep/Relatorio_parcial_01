@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>9.2 Percepção com base quantitativa |  “Ciência de Dados na Educação Pública: Relatório 2021.1”</title>
   <meta name="description" content="9.2 Percepção com base quantitativa |  “Ciência de Dados na Educação Pública: Relatório 2021.1”" />
-  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="9.2 Percepção com base quantitativa |  “Ciência de Dados na Educação Pública: Relatório 2021.1”" />
   <meta property="og:type" content="book" />
@@ -32,7 +32,9 @@
   
 <link rel="prev" href="impactquali.html"/>
 <link rel="next" href="avalgeralimpact.html"/>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -48,10 +50,11 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
 
 
 
@@ -71,16 +74,19 @@
 <li><a href="./">CDEP Relatório 2021.1</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Ciência de Dados na Escola Pública</a><ul>
-<li class="chapter" data-level="1.1" data-path="apresentação-relatório-2020-1.html"><a href="apresentação-relatório-2020-1.html"><i class="fa fa-check"></i><b>1.1</b> Apresentação - Relatório 2020.1</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Ciência de Dados na Escola Pública</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="apresentação---relatório-2020.html"><a href="apresentação---relatório-2020.html"><i class="fa fa-check"></i><b>1.1</b> Apresentação - Relatório 2020.1</a></li>
 <li class="chapter" data-level="" data-path="objetivos.html"><a href="objetivos.html"><i class="fa fa-check"></i>Objetivos</a></li>
 <li class="chapter" data-level="" data-path="público-alvo.html"><a href="público-alvo.html"><i class="fa fa-check"></i>Público Alvo</a></li>
 <li class="chapter" data-level="" data-path="equipe.html"><a href="equipe.html"><i class="fa fa-check"></i>Equipe</a></li>
 <li class="chapter" data-level="" data-path="ações-do-projeto.html"><a href="ações-do-projeto.html"><i class="fa fa-check"></i>Ações do Projeto</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="website.html"><a href="website.html"><i class="fa fa-check"></i><b>2</b> Website do Projeto</a><ul>
+<li class="chapter" data-level="2" data-path="website.html"><a href="website.html"><i class="fa fa-check"></i><b>2</b> Website do Projeto</a>
+<ul>
 <li class="chapter" data-level="2.1" data-path="construção-do-website-do-projeto.html"><a href="construção-do-website-do-projeto.html"><i class="fa fa-check"></i><b>2.1</b> Construção do Website do Projeto</a></li>
-<li class="chapter" data-level="2.2" data-path="páginas-do-website.html"><a href="páginas-do-website.html"><i class="fa fa-check"></i><b>2.2</b> Páginas do website</a><ul>
+<li class="chapter" data-level="2.2" data-path="páginas-do-website.html"><a href="páginas-do-website.html"><i class="fa fa-check"></i><b>2.2</b> Páginas do website</a>
+<ul>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#início-e-sobre"><i class="fa fa-check"></i>Início e Sobre</a></li>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#café-com-dados"><i class="fa fa-check"></i>Café com Dados</a></li>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#professores"><i class="fa fa-check"></i>Professores</a></li>
@@ -88,23 +94,28 @@
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#ferramentas"><i class="fa fa-check"></i>Ferramentas</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="ebooks.html"><a href="ebooks.html"><i class="fa fa-check"></i><b>3</b> Elaboração de 4 <em>e-books</em></a><ul>
+<li class="chapter" data-level="3" data-path="ebooks.html"><a href="ebooks.html"><i class="fa fa-check"></i><b>3</b> Elaboração de 4 <em>e-books</em></a>
+<ul>
 <li class="chapter" data-level="3.1" data-path="ebookcd.html"><a href="ebookcd.html"><i class="fa fa-check"></i><b>3.1</b> <em>e-book</em> 1. Ciência de Dados (<span class="math inline">\(80\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.2" data-path="ebookia.html"><a href="ebookia.html"><i class="fa fa-check"></i><b>3.2</b> <em>e-book</em> 2. Inteligência Artificial (<span class="math inline">\(75\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.3" data-path="ebookpcc.html"><a href="ebookpcc.html"><i class="fa fa-check"></i><b>3.3</b> <em>e-book</em> 3. Produção do Conhecimento Científico (<span class="math inline">\(50\%\)</span> concluído)</a></li>
-<li class="chapter" data-level="3.4" data-path="ebookpsrg.html"><a href="ebookpsrg.html"><i class="fa fa-check"></i><b>3.4</b> <em>e-book</em> 4. Protagonismo Social, Racial e de Gênero</a><ul>
+<li class="chapter" data-level="3.4" data-path="ebookpsrg.html"><a href="ebookpsrg.html"><i class="fa fa-check"></i><b>3.4</b> <em>e-book</em> 4. Protagonismo Social, Racial e de Gênero</a>
+<ul>
 <li class="chapter" data-level="3.4.1" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-social-proposta-em-andamento"><i class="fa fa-check"></i><b>3.4.1</b> Protagonismo Social (proposta em andamento)</a></li>
 <li class="chapter" data-level="3.4.2" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-racial-80-concluído"><i class="fa fa-check"></i><b>3.4.2</b> Protagonismo Racial (<span class="math inline">\(80\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.4.3" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-de-gênero-0-concluído"><i class="fa fa-check"></i><b>3.4.3</b> Protagonismo de Gênero (<span class="math inline">\(0\%\)</span> concluído)</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="ressa.html"><a href="ressa.html"><i class="fa fa-check"></i><b>4</b> Elaboração de site com estatísticas históricas da cidade de Salvador</a><ul>
-<li class="chapter" data-level="4.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html"><i class="fa fa-check"></i><b>4.1</b> Construção e exploração do site (re)Conhecendo Salvador</a><ul>
+<li class="chapter" data-level="4" data-path="ressa.html"><a href="ressa.html"><i class="fa fa-check"></i><b>4</b> Elaboração de site com estatísticas históricas da cidade de Salvador</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html"><i class="fa fa-check"></i><b>4.1</b> Construção e exploração do site (re)Conhecendo Salvador</a>
+<ul>
 <li class="chapter" data-level="4.1.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html#etapas-de-desenvolvimento-do-site-reconhecendo-salvador"><i class="fa fa-check"></i><b>4.1.1</b> Etapas de desenvolvimento do site (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="4.1.2" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html#etapas-de-desenvolvimento-da-homepage-do-site-reconhecendo-salvador"><i class="fa fa-check"></i><b>4.1.2</b> Etapas de desenvolvimento da homepage do site (re)Conhecendo Salvador</a></li>
 </ul></li>
 <li class="chapter" data-level="4.2" data-path="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html"><a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html"><i class="fa fa-check"></i><b>4.2</b> Desenvolvimento do site na versão beta (teste) com módulos gráficos</a></li>
-<li class="chapter" data-level="4.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html"><i class="fa fa-check"></i><b>4.3</b> Levantamento dos Dados e Informações</a><ul>
+<li class="chapter" data-level="4.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html"><i class="fa fa-check"></i><b>4.3</b> Levantamento dos Dados e Informações</a>
+<ul>
 <li class="chapter" data-level="4.3.1" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-população"><i class="fa fa-check"></i><b>4.3.1</b> Dados de População</a></li>
 <li class="chapter" data-level="4.3.2" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-educação"><i class="fa fa-check"></i><b>4.3.2</b> Dados de Educação</a></li>
 <li class="chapter" data-level="4.3.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-turismo"><i class="fa fa-check"></i><b>4.3.3</b> Dados de Turismo</a></li>
@@ -118,18 +129,22 @@
 </ul></li>
 <li class="chapter" data-level="5" data-path="ensaprend.html"><a href="ensaprend.html"><i class="fa fa-check"></i><b>5</b> Desenvolvimento e acesso de novos métodos e metodologias de ensino e aprendizagem</a></li>
 <li class="chapter" data-level="6" data-path="prodconh.html"><a href="prodconh.html"><i class="fa fa-check"></i><b>6</b> Desenvolvimento do pensamento científico</a></li>
-<li class="chapter" data-level="7" data-path="encprof.html"><a href="encprof.html"><i class="fa fa-check"></i><b>7</b> Encantamento e capacitação de professores</a><ul>
+<li class="chapter" data-level="7" data-path="encprof.html"><a href="encprof.html"><i class="fa fa-check"></i><b>7</b> Encantamento e capacitação de professores</a>
+<ul>
 <li class="chapter" data-level="7.1" data-path="cafecdados.html"><a href="cafecdados.html"><i class="fa fa-check"></i><b>7.1</b> Encontros virtuais com professoras/es (Café com Dados)</a></li>
 <li class="chapter" data-level="7.2" data-path="cdia.html"><a href="cdia.html"><i class="fa fa-check"></i><b>7.2</b> Construção da disciplina Inteligência Artificial</a></li>
 <li class="chapter" data-level="7.3" data-path="parciat.html"><a href="parciat.html"><i class="fa fa-check"></i><b>7.3</b> Construção de uma parceria com professoras/es do IAT</a></li>
 </ul></li>
-<li class="chapter" data-level="8" data-path="encest.html"><a href="encest.html"><i class="fa fa-check"></i><b>8</b> Encontros virtuais com estudantes bolsistas</a><ul>
+<li class="chapter" data-level="8" data-path="encest.html"><a href="encest.html"><i class="fa fa-check"></i><b>8</b> Encontros virtuais com estudantes bolsistas</a>
+<ul>
 <li class="chapter" data-level="8.1" data-path="metodologia.html"><a href="metodologia.html"><i class="fa fa-check"></i><b>8.1</b> Metodologia</a></li>
 <li class="chapter" data-level="8.2" data-path="podcast.html"><a href="podcast.html"><i class="fa fa-check"></i><b>8.2</b> Produção de Podcasts: Mulheres Extraordinárias</a></li>
 <li class="chapter" data-level="8.3" data-path="pubescol.html"><a href="pubescol.html"><i class="fa fa-check"></i><b>8.3</b> Encantamento do público escolar</a></li>
 </ul></li>
-<li class="chapter" data-level="9" data-path="avaliação-de-impacto.html"><a href="avaliação-de-impacto.html"><i class="fa fa-check"></i><b>9</b> Avaliação de Impacto</a><ul>
-<li class="chapter" data-level="9.1" data-path="impactquali.html"><a href="impactquali.html"><i class="fa fa-check"></i><b>9.1</b> Percepções com base qualitativa</a><ul>
+<li class="chapter" data-level="9" data-path="avaliação-de-impacto.html"><a href="avaliação-de-impacto.html"><i class="fa fa-check"></i><b>9</b> Avaliação de Impacto</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="impactquali.html"><a href="impactquali.html"><i class="fa fa-check"></i><b>9.1</b> Percepções com base qualitativa</a>
+<ul>
 <li class="chapter" data-level="9.1.1" data-path="impactquali.html"><a href="impactquali.html#questões-sociais"><i class="fa fa-check"></i><b>9.1.1</b> Questões sociais</a></li>
 <li class="chapter" data-level="9.1.2" data-path="impactquali.html"><a href="impactquali.html#letramento-científico-e-em-dados"><i class="fa fa-check"></i><b>9.1.2</b> Letramento científico e em dados</a></li>
 <li class="chapter" data-level="9.1.3" data-path="impactquali.html"><a href="impactquali.html#ciência-de-dados-como-instrumento"><i class="fa fa-check"></i><b>9.1.3</b> Ciência de dados como instrumento</a></li>
@@ -137,10 +152,12 @@
 </ul></li>
 <li class="chapter" data-level="9.2" data-path="impactquant.html"><a href="impactquant.html"><i class="fa fa-check"></i><b>9.2</b> Percepção com base quantitativa</a></li>
 </ul></li>
-<li class="chapter" data-level="10" data-path="avalgeralimpact.html"><a href="avalgeralimpact.html"><i class="fa fa-check"></i><b>10</b> Avaliação geral de impacto</a><ul>
+<li class="chapter" data-level="10" data-path="avalgeralimpact.html"><a href="avalgeralimpact.html"><i class="fa fa-check"></i><b>10</b> Avaliação geral de impacto</a>
+<ul>
 <li class="chapter" data-level="10.1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>10.1</b> Introdução</a></li>
 <li class="chapter" data-level="10.2" data-path="método.html"><a href="método.html"><i class="fa fa-check"></i><b>10.2</b> Método</a></li>
-<li class="chapter" data-level="10.3" data-path="resultados.html"><a href="resultados.html"><i class="fa fa-check"></i><b>10.3</b> Resultados</a><ul>
+<li class="chapter" data-level="10.3" data-path="resultados.html"><a href="resultados.html"><i class="fa fa-check"></i><b>10.3</b> Resultados</a>
+<ul>
 <li class="chapter" data-level="10.3.1" data-path="resultados.html"><a href="resultados.html#identidade-dos-estudantes"><i class="fa fa-check"></i><b>10.3.1</b> Identidade dos estudantes</a></li>
 <li class="chapter" data-level="10.3.2" data-path="resultados.html"><a href="resultados.html#protagonismo"><i class="fa fa-check"></i><b>10.3.2</b> Protagonismo</a></li>
 <li class="chapter" data-level="10.3.3" data-path="resultados.html"><a href="resultados.html#ciência-de-dados"><i class="fa fa-check"></i><b>10.3.3</b> Ciência de dados</a></li>
@@ -152,15 +169,18 @@
 </ul></li>
 <li class="chapter" data-level="10.4" data-path="conclusão.html"><a href="conclusão.html"><i class="fa fa-check"></i><b>10.4</b> Conclusão</a></li>
 </ul></li>
-<li class="chapter" data-level="11" data-path="conclusaogeral.html"><a href="conclusaogeral.html"><i class="fa fa-check"></i><b>11</b> Desafios e Oportunidades</a><ul>
-<li class="chapter" data-level="11.1" data-path="desafios.html"><a href="desafios.html"><i class="fa fa-check"></i><b>11.1</b> Desafios</a><ul>
+<li class="chapter" data-level="11" data-path="conclusaogeral.html"><a href="conclusaogeral.html"><i class="fa fa-check"></i><b>11</b> Desafios e Oportunidades</a>
+<ul>
+<li class="chapter" data-level="11.1" data-path="desafios.html"><a href="desafios.html"><i class="fa fa-check"></i><b>11.1</b> Desafios</a>
+<ul>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-as-estudantes"><i class="fa fa-check"></i>Para as Estudantes</a></li>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-asos-professoresas"><i class="fa fa-check"></i>Para as/os Professores/as</a></li>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-a-equipe"><i class="fa fa-check"></i>Para a Equipe</a></li>
 </ul></li>
 <li class="chapter" data-level="11.2" data-path="oportunidades.html"><a href="oportunidades.html"><i class="fa fa-check"></i><b>11.2</b> Oportunidades</a></li>
 </ul></li>
-<li class="chapter" data-level="12" data-path="anexo.html"><a href="anexo.html"><i class="fa fa-check"></i><b>12</b> Anexo</a><ul>
+<li class="chapter" data-level="12" data-path="anexo.html"><a href="anexo.html"><i class="fa fa-check"></i><b>12</b> Anexo</a>
+<ul>
 <li class="chapter" data-level="12.1" data-path="apendperguntas.html"><a href="apendperguntas.html"><i class="fa fa-check"></i><b>12.1</b> Quadro de perguntas - (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="12.2" data-path="relatoalinhavo.html"><a href="relatoalinhavo.html"><i class="fa fa-check"></i><b>12.2</b> Relato da contratação da empresa de design gráfico Alinhavo Jr. e entrega da identidade visual e página principal do site (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="12.3" data-path="ementaai.html"><a href="ementaai.html"><i class="fa fa-check"></i><b>12.3</b> Ementas dos encontros com estudantes</a></li>
@@ -190,19 +210,19 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="impactquant" class="section level2">
+<div id="impactquant" class="section level2" number="9.2">
 <h2><span class="header-section-number">9.2</span> Percepção com base quantitativa</h2>
 <p>Ao fim de abril de 2020, 19 das 26 estudantes bolsistas vinculadas ao projeto desde o início desse ano responderam a um questionário semiestruturado com o objetivo de identificar, por meio de auto declarações ou situações-problema, as habilidades e conhecimentos adquiridos. O questionário está organizado em dez seções, similar à sua versão aplicada em 2019, contém questões adicionais e será repetido ao fim do calendário de atividades. Apesar da amostra não ser representativa do ponto de visto estatístico, as respostas obtidas nos permitem conhecer a realidade das estudantes, avaliar as ações realizadas e definir novas ações e estratégias visando um atingir um público ainda maior.
 Em relação à autodeclaração das estudantes quanto à cor da pele/raça, 95% se percebem como negras ou pardas. No que se refere à religião, aproximadamente 47% afirma ser evangélica e 30% católica. Além disso, há uma predominância feminina no lar, 90% moram com a mãe ou com a avó, em contraste com 42% moram com o pai.
 No que consta à dedicação de tempo ao estudo fora da escola, pouco mais de 70% não têm ocupação extraescolar. Entre aquelas que possuem ocupação, 60% fazem algum curso extra escola. 80% afirmam estudar 1h ou mais fora da escola. 56% afirmam estudar assuntos por iniciativa própria, além dos conteúdos aprendidos em sala de aula; e apenas 22% afirmam ter concluído algum curso online.
 Quando perguntadas o que são ciências exatas, 60% afirmam não ter certeza e apenas 37% afirmaram que possuem algum conhecimento sobre o assunto. A Figura <a href="impactquant.html#fig:profestu">9.4</a> sintetiza as respostas relacionadas às carreiras que acreditam fazer parte das ciências exatas. Apesar da predominância das respostas incluindo Ciência de Dados, 21% acreditam que ciências exatas só envolvem problemas matemáticos. Por um lado, este resultado aponta para o não reconhecimento do uso da “matemática” aplicado a outras disciplinas ou ao seu cotidiano. Entretanto, elas reconhecem a importância da matemática para algumas carreiras nas áreas social e de saúde, como demonstra a Figura <a href="impactquant.html#fig:nivprofestu">9.5</a>.</p>
-<div class="figure" style="text-align: center"><span id="fig:profestu"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:profestu"></span>
 <img src="images/image40.png" alt="Profissões que estudantes creem fazer parte das ciências exatas." width="100%" height="80%" />
 <p class="caption">
 Figura 9.4: Profissões que estudantes creem fazer parte das ciências exatas.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:nivprofestu"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:nivprofestu"></span>
 <img src="images/image41.png" alt=" Níveis de importância atribuídos pelas estudantes à matemática em diferentes profissões." width="100%" height="80%" />
 <p class="caption">
 Figura 9.5:  Níveis de importância atribuídos pelas estudantes à matemática em diferentes profissões.
@@ -210,7 +230,7 @@ Figura 9.5:  Níveis de importância atribuídos pelas estudantes à matemática
 </div>
 <p>Quase 70% das estudantes afirmam conhecer exemplos de mulheres nas ciências exatas. Entre essas estudantes, 60% informou ter obtido tal informação na Internet. Acredita-se que esta resposta tenha relação com as referências nas aulas propostas pelo projeto. 70% das estudantes referem conhecer pessoalmente alguma mulher que trabalha com ciência de dados e 92% desse grupo afirmam se tratar de alguma professora.
 50% das estudantes acreditam ser importante ter mulheres trabalhando na área de exatas e 80% acredita que elas oferecem uma contribuição significativa para essa área. Todas acreditam que as mulheres têm capacidade para contribuir de forma equivalente aos homens. A Figura <a href="impactquant.html#fig:carreirasestu">9.6</a> apresenta as futuras carreiras escolhidas pelas estudantes. Pouco mais de 20% das respostas correspondem à perspectiva clássica de ciências exatas, pouco mais de 30% às carreiras ligadas às áreas de saúde.</p>
-<div class="figure" style="text-align: center"><span id="fig:carreirasestu"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:carreirasestu"></span>
 <img src="images/image42.png" alt="Carreiras que as estudantes acreditam que podem seguir." width="100%" height="80%" />
 <p class="caption">
 Figura 9.6: Carreiras que as estudantes acreditam que podem seguir.
@@ -220,35 +240,35 @@ Figura 9.6: Carreiras que as estudantes acreditam que podem seguir.
 Testar diferentes tipos de papel e formas de dobrar, isto é, propor uma ideia para explicar as coisas e testar se essa ideia faz sentido;
 Entender se existe relação entre o tempo de voo e número de dobras na folha, isto é, obter dados e ver se eles explicam um problema que se quer resolver;
 Escrever um passo-a-passo detalhado para quem nunca fez aviões poder fazer um igual ao seu, ou seja, fazer um conjunto detalhado de instruções para fazer uma atividade (algoritmo).
-A Figura <a href="impactquant.html#fig:habilidades">9.7</a> apresenta as porções de estudantes que escolheram as habilidades ou acreditam que nenhuma delas seria útil para sua carreira futura. Como elas poderiam escolher mais de uma, as barras não somam 100%. Os resultados sugerem que as estudantes têm uma noção mais ampla do que significa uma carreira envolver “habilidades das ciências exatas”, se comparada ao senso comum.</p>
-<div class="figure" style="text-align: center"><span id="fig:habilidades"></span>
+A Figura <a href="impactquant.html#fig:habilidades">9.7</a> apresenta as porções de estudantes que escolheram as habilidades ou acreditam que nenhuma delas seria útil para sua carreira futura. Como elas poderiam escolher mais de uma, as barras não somam 100%. Os resultados sugerem que as estudantes têm uma noção mais ampla do que significa uma carreira envolver “habilidades das ciências exatas,” se comparada ao senso comum.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:habilidades"></span>
 <img src="images/image43.png" alt="Habilidades de raciocínio lógico e método científico que as estudantes acreditam ser importantes para suas futuras carreiras." width="100%" height="80%" />
 <p class="caption">
 Figura 9.7: Habilidades de raciocínio lógico e método científico que as estudantes acreditam ser importantes para suas futuras carreiras.
 </p>
 </div>
 <p>No tocante às desigualdades sociais, a maioria das estudantes se considera capaz de melhorar algum aspecto da condição de vida das pessoas ao seu redor, embora efetivamente não o faça (Figura <a href="impactquant.html#fig:nivpares">9.8</a>). Para as estudantes, a igualdade entre raças parece ser mais importante do que a igualdade de gênero (Figura <a href="impactquant.html#fig:nivgrupos">9.9</a>). Este aspecto precisa ser investigado, pois pode estar associado à dificuldade de entender a diferença entre igualdade e equidade, bem como a aspectos religiosos.</p>
-<div class="figure" style="text-align: center"><span id="fig:nivpares"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:nivpares"></span>
 <img src="images/image44.png" alt="Nível de identificação das estudantes com afirmações sobre ações e a capacidade de trabalhar para o bem de seus pares." width="100%" height="80%" />
 <p class="caption">
 Figura 9.8: Nível de identificação das estudantes com afirmações sobre ações e a capacidade de trabalhar para o bem de seus pares.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:nivgrupos"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:nivgrupos"></span>
 <img src="images/image45.png" alt="Nível de identificação das estudantes com afirmações sobre a importância da igualdade entre diferentes grupos." width="100%" height="80%" />
 <p class="caption">
 Figura 9.9: Nível de identificação das estudantes com afirmações sobre a importância da igualdade entre diferentes grupos.
 </p>
 </div>
 <p>Para estimar a percepção das estudantes sobre sua própria tenacidade, foi utilizado um conjunto de questões advindas de um questionário já validado (Duckworth, acessado em outubro de 2020). Conforme apresentado na Figura <a href="impactquant.html#fig:nivtena">9.10</a>, a maior parte das estudantes adotou uma resposta neutra em quase todas questões. Uma maioria expressiva afirmou que seus interesses mudam de ano em ano. Esta informação reafirma a importância de mantermos as ações de encantamento das estudantes. Felizmente, uma porção razoável de estudantes se identifica com as afirmações de que não se desencorajam com problemas e que já superaram alguns para conseguir algo importante.</p>
-<div class="figure" style="text-align: center"><span id="fig:nivtena"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:nivtena"></span>
 <img src="images/image14.png" alt="Nível de identificação das estudantes com afirmações sobre sua 'garra', tenacidade." width="100%" height="80%" />
 <p class="caption">
-Figura 9.10: Nível de identificação das estudantes com afirmações sobre sua ‘garra’, tenacidade.
+Figura 9.10: Nível de identificação das estudantes com afirmações sobre sua ‘garra,’ tenacidade.
 </p>
 </div>
 <p>Um dos efeitos esperados das atividades do projeto sobre os estudantes é o fortalecimento das habilidades socioemocionais, a exemplo da determinação. O prolongamento da quarentena tem afetado as comunidades escolares. Diretores, professores e coordenadores relataram dificuldade em manter contato com as estudantes e seus pais e/ou responsáveis. Todavia, a equipe do Projeto conseguiu evitar a evasão dos alunos bolsistas, integrou estudantes do sexo masculino às ações e aumentou a frequência dos encontros online. A Figura <a href="impactquant.html#fig:quaseman">9.11</a> apresenta a quantidade de estudantes ativos nesses encontros (participando ou respondendo as atividades propostas).</p>
-<div class="figure" style="text-align: center"><span id="fig:quaseman"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:quaseman"></span>
 <img src="images/image16.png" alt="Quantidade de estudantes ativos (presentes ou que realizaram as atividades) nos encontros semanais." width="100%" height="80%" />
 <p class="caption">
 Figura 9.11: Quantidade de estudantes ativos (presentes ou que realizaram as atividades) nos encontros semanais.
@@ -270,7 +290,7 @@ encontros realizadas para organização e participação da equipe e
 das/os estudantes na Semana Nacional de Ciência e Tecnologia promovida
 pela UFBA. Ressalta-se, entretanto, que as presenças e participações
 nos encontros permaneceram estáveis em todo o período.</p>
-<div class="figure" style="text-align: center"><span id="fig:sitevisita"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:sitevisita"></span>
 <img src="images/image17.png" alt="Número de acessos ao website do Projeto, em 10/08 o número de encontros com as/os estudantes foi ampliado de 1 para 2 ou 3 encontros semanais." width="100%" height="80%" />
 <p class="caption">
 Figura 9.12: Número de acessos ao website do Projeto, em 10/08 o número de encontros com as/os estudantes foi ampliado de 1 para 2 ou 3 encontros semanais.
@@ -292,7 +312,6 @@ Para verificar se as/os estudantes adquiriram habilidades de letramento científ
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -311,6 +330,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -331,6 +351,10 @@ gitbook.start({
 "text": null
 },
 "download": ["Relatorio_parcial_01.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

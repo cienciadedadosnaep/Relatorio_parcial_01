@@ -1,6 +1,6 @@
 --- 
 title: |
-  ![](logo.png){width=0.25in} "Ciência de Dados na Educação Pública: Relatório 2021.1"
+  ![](logo.png){width=0.20in} "Ciência de Dados na Educação Pública: Relatório 2021.1"
 author: "Equipe Ciência de Dados na Educação Pública"
 site: bookdown::bookdown_site
 documentclass: book

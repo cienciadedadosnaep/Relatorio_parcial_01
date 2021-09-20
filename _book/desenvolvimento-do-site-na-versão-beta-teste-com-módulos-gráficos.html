@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>4.2 Desenvolvimento do site na versão beta (teste) com módulos gráficos |  “Ciência de Dados na Educação Pública: Relatório 2021.1”</title>
   <meta name="description" content="4.2 Desenvolvimento do site na versão beta (teste) com módulos gráficos |  “Ciência de Dados na Educação Pública: Relatório 2021.1”" />
-  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="4.2 Desenvolvimento do site na versão beta (teste) com módulos gráficos |  “Ciência de Dados na Educação Pública: Relatório 2021.1”" />
   <meta property="og:type" content="book" />
@@ -32,7 +32,9 @@
   
 <link rel="prev" href="construção-e-exploração-do-site-reconhecendo-salvador.html"/>
 <link rel="next" href="levantamento-dos-dados-e-informações.html"/>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -48,10 +50,11 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
 
 
 
@@ -71,16 +74,19 @@
 <li><a href="./">CDEP Relatório 2021.1</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Ciência de Dados na Escola Pública</a><ul>
-<li class="chapter" data-level="1.1" data-path="apresentação-relatório-2020-1.html"><a href="apresentação-relatório-2020-1.html"><i class="fa fa-check"></i><b>1.1</b> Apresentação - Relatório 2020.1</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Ciência de Dados na Escola Pública</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="apresentação---relatório-2020.html"><a href="apresentação---relatório-2020.html"><i class="fa fa-check"></i><b>1.1</b> Apresentação - Relatório 2020.1</a></li>
 <li class="chapter" data-level="" data-path="objetivos.html"><a href="objetivos.html"><i class="fa fa-check"></i>Objetivos</a></li>
 <li class="chapter" data-level="" data-path="público-alvo.html"><a href="público-alvo.html"><i class="fa fa-check"></i>Público Alvo</a></li>
 <li class="chapter" data-level="" data-path="equipe.html"><a href="equipe.html"><i class="fa fa-check"></i>Equipe</a></li>
 <li class="chapter" data-level="" data-path="ações-do-projeto.html"><a href="ações-do-projeto.html"><i class="fa fa-check"></i>Ações do Projeto</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="website.html"><a href="website.html"><i class="fa fa-check"></i><b>2</b> Website do Projeto</a><ul>
+<li class="chapter" data-level="2" data-path="website.html"><a href="website.html"><i class="fa fa-check"></i><b>2</b> Website do Projeto</a>
+<ul>
 <li class="chapter" data-level="2.1" data-path="construção-do-website-do-projeto.html"><a href="construção-do-website-do-projeto.html"><i class="fa fa-check"></i><b>2.1</b> Construção do Website do Projeto</a></li>
-<li class="chapter" data-level="2.2" data-path="páginas-do-website.html"><a href="páginas-do-website.html"><i class="fa fa-check"></i><b>2.2</b> Páginas do website</a><ul>
+<li class="chapter" data-level="2.2" data-path="páginas-do-website.html"><a href="páginas-do-website.html"><i class="fa fa-check"></i><b>2.2</b> Páginas do website</a>
+<ul>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#início-e-sobre"><i class="fa fa-check"></i>Início e Sobre</a></li>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#café-com-dados"><i class="fa fa-check"></i>Café com Dados</a></li>
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#professores"><i class="fa fa-check"></i>Professores</a></li>
@@ -88,23 +94,28 @@
 <li class="chapter" data-level="" data-path="páginas-do-website.html"><a href="páginas-do-website.html#ferramentas"><i class="fa fa-check"></i>Ferramentas</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="ebooks.html"><a href="ebooks.html"><i class="fa fa-check"></i><b>3</b> Elaboração de 4 <em>e-books</em></a><ul>
+<li class="chapter" data-level="3" data-path="ebooks.html"><a href="ebooks.html"><i class="fa fa-check"></i><b>3</b> Elaboração de 4 <em>e-books</em></a>
+<ul>
 <li class="chapter" data-level="3.1" data-path="ebookcd.html"><a href="ebookcd.html"><i class="fa fa-check"></i><b>3.1</b> <em>e-book</em> 1. Ciência de Dados (<span class="math inline">\(80\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.2" data-path="ebookia.html"><a href="ebookia.html"><i class="fa fa-check"></i><b>3.2</b> <em>e-book</em> 2. Inteligência Artificial (<span class="math inline">\(75\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.3" data-path="ebookpcc.html"><a href="ebookpcc.html"><i class="fa fa-check"></i><b>3.3</b> <em>e-book</em> 3. Produção do Conhecimento Científico (<span class="math inline">\(50\%\)</span> concluído)</a></li>
-<li class="chapter" data-level="3.4" data-path="ebookpsrg.html"><a href="ebookpsrg.html"><i class="fa fa-check"></i><b>3.4</b> <em>e-book</em> 4. Protagonismo Social, Racial e de Gênero</a><ul>
+<li class="chapter" data-level="3.4" data-path="ebookpsrg.html"><a href="ebookpsrg.html"><i class="fa fa-check"></i><b>3.4</b> <em>e-book</em> 4. Protagonismo Social, Racial e de Gênero</a>
+<ul>
 <li class="chapter" data-level="3.4.1" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-social-proposta-em-andamento"><i class="fa fa-check"></i><b>3.4.1</b> Protagonismo Social (proposta em andamento)</a></li>
 <li class="chapter" data-level="3.4.2" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-racial-80-concluído"><i class="fa fa-check"></i><b>3.4.2</b> Protagonismo Racial (<span class="math inline">\(80\%\)</span> concluído)</a></li>
 <li class="chapter" data-level="3.4.3" data-path="ebookpsrg.html"><a href="ebookpsrg.html#protagonismo-de-gênero-0-concluído"><i class="fa fa-check"></i><b>3.4.3</b> Protagonismo de Gênero (<span class="math inline">\(0\%\)</span> concluído)</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="ressa.html"><a href="ressa.html"><i class="fa fa-check"></i><b>4</b> Elaboração de site com estatísticas históricas da cidade de Salvador</a><ul>
-<li class="chapter" data-level="4.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html"><i class="fa fa-check"></i><b>4.1</b> Construção e exploração do site (re)Conhecendo Salvador</a><ul>
+<li class="chapter" data-level="4" data-path="ressa.html"><a href="ressa.html"><i class="fa fa-check"></i><b>4</b> Elaboração de site com estatísticas históricas da cidade de Salvador</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html"><i class="fa fa-check"></i><b>4.1</b> Construção e exploração do site (re)Conhecendo Salvador</a>
+<ul>
 <li class="chapter" data-level="4.1.1" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html#etapas-de-desenvolvimento-do-site-reconhecendo-salvador"><i class="fa fa-check"></i><b>4.1.1</b> Etapas de desenvolvimento do site (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="4.1.2" data-path="construção-e-exploração-do-site-reconhecendo-salvador.html"><a href="construção-e-exploração-do-site-reconhecendo-salvador.html#etapas-de-desenvolvimento-da-homepage-do-site-reconhecendo-salvador"><i class="fa fa-check"></i><b>4.1.2</b> Etapas de desenvolvimento da homepage do site (re)Conhecendo Salvador</a></li>
 </ul></li>
 <li class="chapter" data-level="4.2" data-path="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html"><a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html"><i class="fa fa-check"></i><b>4.2</b> Desenvolvimento do site na versão beta (teste) com módulos gráficos</a></li>
-<li class="chapter" data-level="4.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html"><i class="fa fa-check"></i><b>4.3</b> Levantamento dos Dados e Informações</a><ul>
+<li class="chapter" data-level="4.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html"><i class="fa fa-check"></i><b>4.3</b> Levantamento dos Dados e Informações</a>
+<ul>
 <li class="chapter" data-level="4.3.1" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-população"><i class="fa fa-check"></i><b>4.3.1</b> Dados de População</a></li>
 <li class="chapter" data-level="4.3.2" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-educação"><i class="fa fa-check"></i><b>4.3.2</b> Dados de Educação</a></li>
 <li class="chapter" data-level="4.3.3" data-path="levantamento-dos-dados-e-informações.html"><a href="levantamento-dos-dados-e-informações.html#dados-de-turismo"><i class="fa fa-check"></i><b>4.3.3</b> Dados de Turismo</a></li>
@@ -118,18 +129,22 @@
 </ul></li>
 <li class="chapter" data-level="5" data-path="ensaprend.html"><a href="ensaprend.html"><i class="fa fa-check"></i><b>5</b> Desenvolvimento e acesso de novos métodos e metodologias de ensino e aprendizagem</a></li>
 <li class="chapter" data-level="6" data-path="prodconh.html"><a href="prodconh.html"><i class="fa fa-check"></i><b>6</b> Desenvolvimento do pensamento científico</a></li>
-<li class="chapter" data-level="7" data-path="encprof.html"><a href="encprof.html"><i class="fa fa-check"></i><b>7</b> Encantamento e capacitação de professores</a><ul>
+<li class="chapter" data-level="7" data-path="encprof.html"><a href="encprof.html"><i class="fa fa-check"></i><b>7</b> Encantamento e capacitação de professores</a>
+<ul>
 <li class="chapter" data-level="7.1" data-path="cafecdados.html"><a href="cafecdados.html"><i class="fa fa-check"></i><b>7.1</b> Encontros virtuais com professoras/es (Café com Dados)</a></li>
 <li class="chapter" data-level="7.2" data-path="cdia.html"><a href="cdia.html"><i class="fa fa-check"></i><b>7.2</b> Construção da disciplina Inteligência Artificial</a></li>
 <li class="chapter" data-level="7.3" data-path="parciat.html"><a href="parciat.html"><i class="fa fa-check"></i><b>7.3</b> Construção de uma parceria com professoras/es do IAT</a></li>
 </ul></li>
-<li class="chapter" data-level="8" data-path="encest.html"><a href="encest.html"><i class="fa fa-check"></i><b>8</b> Encontros virtuais com estudantes bolsistas</a><ul>
+<li class="chapter" data-level="8" data-path="encest.html"><a href="encest.html"><i class="fa fa-check"></i><b>8</b> Encontros virtuais com estudantes bolsistas</a>
+<ul>
 <li class="chapter" data-level="8.1" data-path="metodologia.html"><a href="metodologia.html"><i class="fa fa-check"></i><b>8.1</b> Metodologia</a></li>
 <li class="chapter" data-level="8.2" data-path="podcast.html"><a href="podcast.html"><i class="fa fa-check"></i><b>8.2</b> Produção de Podcasts: Mulheres Extraordinárias</a></li>
 <li class="chapter" data-level="8.3" data-path="pubescol.html"><a href="pubescol.html"><i class="fa fa-check"></i><b>8.3</b> Encantamento do público escolar</a></li>
 </ul></li>
-<li class="chapter" data-level="9" data-path="avaliação-de-impacto.html"><a href="avaliação-de-impacto.html"><i class="fa fa-check"></i><b>9</b> Avaliação de Impacto</a><ul>
-<li class="chapter" data-level="9.1" data-path="impactquali.html"><a href="impactquali.html"><i class="fa fa-check"></i><b>9.1</b> Percepções com base qualitativa</a><ul>
+<li class="chapter" data-level="9" data-path="avaliação-de-impacto.html"><a href="avaliação-de-impacto.html"><i class="fa fa-check"></i><b>9</b> Avaliação de Impacto</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="impactquali.html"><a href="impactquali.html"><i class="fa fa-check"></i><b>9.1</b> Percepções com base qualitativa</a>
+<ul>
 <li class="chapter" data-level="9.1.1" data-path="impactquali.html"><a href="impactquali.html#questões-sociais"><i class="fa fa-check"></i><b>9.1.1</b> Questões sociais</a></li>
 <li class="chapter" data-level="9.1.2" data-path="impactquali.html"><a href="impactquali.html#letramento-científico-e-em-dados"><i class="fa fa-check"></i><b>9.1.2</b> Letramento científico e em dados</a></li>
 <li class="chapter" data-level="9.1.3" data-path="impactquali.html"><a href="impactquali.html#ciência-de-dados-como-instrumento"><i class="fa fa-check"></i><b>9.1.3</b> Ciência de dados como instrumento</a></li>
@@ -137,10 +152,12 @@
 </ul></li>
 <li class="chapter" data-level="9.2" data-path="impactquant.html"><a href="impactquant.html"><i class="fa fa-check"></i><b>9.2</b> Percepção com base quantitativa</a></li>
 </ul></li>
-<li class="chapter" data-level="10" data-path="avalgeralimpact.html"><a href="avalgeralimpact.html"><i class="fa fa-check"></i><b>10</b> Avaliação geral de impacto</a><ul>
+<li class="chapter" data-level="10" data-path="avalgeralimpact.html"><a href="avalgeralimpact.html"><i class="fa fa-check"></i><b>10</b> Avaliação geral de impacto</a>
+<ul>
 <li class="chapter" data-level="10.1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>10.1</b> Introdução</a></li>
 <li class="chapter" data-level="10.2" data-path="método.html"><a href="método.html"><i class="fa fa-check"></i><b>10.2</b> Método</a></li>
-<li class="chapter" data-level="10.3" data-path="resultados.html"><a href="resultados.html"><i class="fa fa-check"></i><b>10.3</b> Resultados</a><ul>
+<li class="chapter" data-level="10.3" data-path="resultados.html"><a href="resultados.html"><i class="fa fa-check"></i><b>10.3</b> Resultados</a>
+<ul>
 <li class="chapter" data-level="10.3.1" data-path="resultados.html"><a href="resultados.html#identidade-dos-estudantes"><i class="fa fa-check"></i><b>10.3.1</b> Identidade dos estudantes</a></li>
 <li class="chapter" data-level="10.3.2" data-path="resultados.html"><a href="resultados.html#protagonismo"><i class="fa fa-check"></i><b>10.3.2</b> Protagonismo</a></li>
 <li class="chapter" data-level="10.3.3" data-path="resultados.html"><a href="resultados.html#ciência-de-dados"><i class="fa fa-check"></i><b>10.3.3</b> Ciência de dados</a></li>
@@ -152,15 +169,18 @@
 </ul></li>
 <li class="chapter" data-level="10.4" data-path="conclusão.html"><a href="conclusão.html"><i class="fa fa-check"></i><b>10.4</b> Conclusão</a></li>
 </ul></li>
-<li class="chapter" data-level="11" data-path="conclusaogeral.html"><a href="conclusaogeral.html"><i class="fa fa-check"></i><b>11</b> Desafios e Oportunidades</a><ul>
-<li class="chapter" data-level="11.1" data-path="desafios.html"><a href="desafios.html"><i class="fa fa-check"></i><b>11.1</b> Desafios</a><ul>
+<li class="chapter" data-level="11" data-path="conclusaogeral.html"><a href="conclusaogeral.html"><i class="fa fa-check"></i><b>11</b> Desafios e Oportunidades</a>
+<ul>
+<li class="chapter" data-level="11.1" data-path="desafios.html"><a href="desafios.html"><i class="fa fa-check"></i><b>11.1</b> Desafios</a>
+<ul>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-as-estudantes"><i class="fa fa-check"></i>Para as Estudantes</a></li>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-asos-professoresas"><i class="fa fa-check"></i>Para as/os Professores/as</a></li>
 <li class="chapter" data-level="" data-path="desafios.html"><a href="desafios.html#para-a-equipe"><i class="fa fa-check"></i>Para a Equipe</a></li>
 </ul></li>
 <li class="chapter" data-level="11.2" data-path="oportunidades.html"><a href="oportunidades.html"><i class="fa fa-check"></i><b>11.2</b> Oportunidades</a></li>
 </ul></li>
-<li class="chapter" data-level="12" data-path="anexo.html"><a href="anexo.html"><i class="fa fa-check"></i><b>12</b> Anexo</a><ul>
+<li class="chapter" data-level="12" data-path="anexo.html"><a href="anexo.html"><i class="fa fa-check"></i><b>12</b> Anexo</a>
+<ul>
 <li class="chapter" data-level="12.1" data-path="apendperguntas.html"><a href="apendperguntas.html"><i class="fa fa-check"></i><b>12.1</b> Quadro de perguntas - (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="12.2" data-path="relatoalinhavo.html"><a href="relatoalinhavo.html"><i class="fa fa-check"></i><b>12.2</b> Relato da contratação da empresa de design gráfico Alinhavo Jr. e entrega da identidade visual e página principal do site (re)Conhecendo Salvador</a></li>
 <li class="chapter" data-level="12.3" data-path="ementaai.html"><a href="ementaai.html"><i class="fa fa-check"></i><b>12.3</b> Ementas dos encontros com estudantes</a></li>
@@ -190,7 +210,7 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos" class="section level2">
+<div id="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos" class="section level2" number="4.2">
 <h2><span class="header-section-number">4.2</span> Desenvolvimento do site na versão beta (teste) com módulos gráficos</h2>
 <p>Em função das dificuldades para a contratação de empresas para o
 desenvolvimento do site (re)Conhecendo Salvador, a equipe resolveu
@@ -200,32 +220,32 @@ gratuita, open source bastante robusta e confiável, utilizada em sites de grand
 A capacitação em Wordpress durou, aproximadamente, duas semanas, e ocorreu em paralelo às demais atividades do projeto. Para desenvolver o site (re)Conhecendo Salvador utilizando o Wordpress foi necessário instalar no computador servidores web e de banco de dados (Apache e MySQL), através do MAMP 4.2.0, que é um pacote de servidores que prepara o ambiente localhost para receber o gerenciador de conteúdos. Somente após a instalação dessa infraestrutura é possível instalar o Wordpress na máquina. Vale salientar que a versão utilizada no desenvolvimento deste site foi o Wordpress.org, e por isso foi necessário preparar o ambiente da máquina para recebê-lo. Ele foi escolhido em detrimento da versão Wordpress.com por ser mais customizável e atender melhor aos requisitos do site.
 A próxima etapa de desenvolvimento do (re)Conhecendo Salvador versão beta foi a pesquisa e escolha do tema a ser utilizado no wordpress. O tema corresponde à uma estrutura básica de telas que pode ser instalada no wordpress.org e customizada de acordo com as necessidades da proposta do site. Foi feita uma pesquisa de temas para descobrir o melhor custo benefício para desempenho e funcionalidades do site. Dentro das opções gratuitas, foi escolhido o tema Neve pois apresenta uma estrutura mais robusta e flexível, permitindo customizações das telas nos mais diversos aspectos. Após a instalação do CMS e da escolha do tema, ainda foi necessário fazer a instalação do plugin Elementor, dentro do Wordpress, na versão gratuita, para aprimorar as possibilidades de construção de layouts das telas.
 A diagramação das telas seguiu o fluxo de telas do site Pordata Kids: tela inicial &gt; tela de submenus dos temas &gt; painel de perguntas &gt; dashboards com gráficos. A logomarca, os elementos do menu principal e os botões foram todos criados utilizando dos recursos gratuitos oferecidos na plataforma de design online Canva (Figura <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:logotrecossa">4.8</a>, <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:botaotrecossa">4.9</a>, <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:voltartrecossa">4.10</a> e <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:botaointtrecossa">4.11</a>)</p>
-<div class="figure" style="text-align: center"><span id="fig:logotrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:logotrecossa"></span>
 <img src="images/image11.png" alt="Logomarca da versão teste." width="50%" />
 <p class="caption">
 Figura 4.8: Logomarca da versão teste.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:botaotrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:botaotrecossa"></span>
 <img src="images/image80.png" alt="Botões do menu principal" width="150%" />
 <p class="caption">
 Figura 4.9: Botões do menu principal
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:voltartrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:voltartrecossa"></span>
 <img src="images/image69.png" alt="Botão de rodapé." width="50%" />
 <p class="caption">
 Figura 4.10: Botão de rodapé.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:botaointtrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:botaointtrecossa"></span>
 <img src="images/image27.png" alt="Botões dos painéis dos subtemas educação, população e segurança, de cima para baixo, respectivamente." width="50%" />
 <p class="caption">
 Figura 4.11: Botões dos painéis dos subtemas educação, população e segurança, de cima para baixo, respectivamente.
 </p>
 </div>
 <p>Depois de iniciar o desenvolvimento na máquina local, optamos por transferir a versão a um servidor online e gratuito para que outros membros da equipe pudessem visualizar e até mesmo modificar a estrutura do que estava proposto. Após algumas pesquisas, o servidor escolhido foi o <a href="https://www.awardspace.com/">Awardspace</a>. Esse servidor oferece instalador automático do WordPress, o que facilitou bastante a migração da versão desenvolvida no computador local para o servidor online, hospedagem sem anúncios, além de ter espaço em disco igual a 1GB, largura de banda de 5GB, e banco de dados MySQL. Para fazer a migração, foi necessário instalar no wordpress da máquina o plugin All-in-One, nativo no Wordpress do Awardspace. Entretanto, após fazer a migração para o servidor online, a equipe achou melhor continuar o desenvolvimento em localhost e utilizar o servidor online apenas para apresentar e compartilhar as mudanças e evoluções nas versões.</p>
-<p>Os dados relacionados aos temas são apresentados em dashboars, embutidos nas páginas de respostas das perguntas, desenvolvidos em R, conforme descrito na seção “Descrição do layout dos dashboards”.</p>
+<p>Os dados relacionados aos temas são apresentados em dashboars, embutidos nas páginas de respostas das perguntas, desenvolvidos em R, conforme descrito na seção “Descrição do layout dos dashboards.”</p>
 <p>A seguir, serão apresentadas as telas da versão teste do (re)Conhecendo Salvador de acordo com o fluxo de navegação:</p>
 <ul>
 <li>Tela inicial (Figura <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:teleinicialtrecossa">4.12</a>)</li>
@@ -233,25 +253,25 @@ Figura 4.11: Botões dos painéis dos subtemas educação, população e seguran
 <li>Painel de Perguntas (Figura <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:paineldisptrecossa">4.14</a> )</li>
 <li>Dashboard com a apresentação dos dados em gráficos (Figura <a href="desenvolvimento-do-site-na-versão-beta-teste-com-módulos-gráficos.html#fig:dashtrecossa">4.15</a>)</li>
 </ul>
-<div class="figure" style="text-align: center"><span id="fig:teleinicialtrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:teleinicialtrecossa"></span>
 <img src="images/image61.png" alt="Tela inicial/ Página Principal." width="100%" />
 <p class="caption">
 Figura 4.12: Tela inicial/ Página Principal.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:painelsubtrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:painelsubtrecossa"></span>
 <img src="images/image74.png" alt="Painel do submenu do tema." width="100%" />
 <p class="caption">
 Figura 4.13: Painel do submenu do tema.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:paineldisptrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:paineldisptrecossa"></span>
 <img src="images/image92.png" alt="Painel de perguntas disparadoras." width="100%" />
 <p class="caption">
 Figura 4.14: Painel de perguntas disparadoras.
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:dashtrecossa"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:dashtrecossa"></span>
 <img src="images/image77.png" alt="Painel de perguntas disparadoras." width="100%" />
 <p class="caption">
 Figura 4.15: Painel de perguntas disparadoras.
@@ -268,7 +288,6 @@ Figura 4.15: Painel de perguntas disparadoras.
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -287,6 +306,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -307,6 +327,10 @@ gitbook.start({
 "text": null
 },
 "download": ["Relatorio_parcial_01.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }
