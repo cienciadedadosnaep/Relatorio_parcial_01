@@ -5,19 +5,36 @@
 A [Webpage](https://cienciadedadosep.wixsite.com/cafecomdados) dispõe dos temas, nome e atribuições dos palestrantes, slides, referências sugeridas e gravações de todas as palestras que ocorreram de 01/04/2020 à 07/10/2020 no Café com Dados.)
 
 **Abril 2020**
-Desmistificando a ciência de dados - Profa. Karla Esquerre / UFBA; Ciência de dados na Engenharia de transportes - Prof. Jorge Ubirajara / UFBA; Ressignificando os dados públicos sobre COVID-19: As iniciativas não governamentais - Fernando Barbalho / Tesouro Nacional; Testes diagnósticos para o COVID - 19 - Profs. Danilo Klein e Alexandre Silva / UERJ e Secretaria Extraordinária de Acompanhamento das Ações Governamentais Integradas do Covid 19 do Rio de Janeiro; Ferramentas online para suporte ao ensino - Ana Carolina Santos, Ana Luisa Nogueira, Janaina Souza, Thalita Senna e Profa. Karla Esquerre / UFBA.
+
+- Desmistificando a ciência de dados - Profa. Karla Esquerre / UFBA; 
+- Ciência de dados na Engenharia de transportes - Prof. Jorge Ubirajara / UFBA;
+- Ressignificando os dados públicos sobre COVID-19: As iniciativas não governamentais - Fernando Barbalho / Tesouro Nacional;
+- Testes diagnósticos para o COVID - 19 - Profs. Danilo Klein e Alexandre Silva / UERJ e Secretaria Extraordinária de Acompanhamento das Ações Governamentais Integradas do Covid 19 do Rio de Janeiro; 
+- Ferramentas online para suporte ao ensino - Ana Carolina Santos, Ana Luisa Nogueira, Janaina Souza, Thalita Senna e Profa. Karla Esquerre / UFBA.
 
 **Maio 2020**
 
-Ciência de dados na educação pública - Profa. Karla Esquerre / UFBA; Webinar: explorando um Design Universal de Aprendizagem em Programação; Pensamento Computacional - Geisa Santos / IAT; Jurimetria - Julio Trecenti; Ciência de Dados no esporte - Prof. Daniel Takata Gomes 
+- Ciência de dados na educação pública - Profa. Karla Esquerre / UFBA; 
+- Webinar: explorando um Design Universal de Aprendizagem em Programação;
+- Pensamento Computacional - Geisa Santos / IAT; 
+- Jurimetria - Julio Trecenti;
+- Ciência de Dados no esporte - Prof. Daniel Takata Gomes. 
 
 **Junho 2020**
 
-Hackers na Educação - Profa. Karina Menezes / UFBA; Pesquisa em segurança pública em evidências: O caso das delegacias das mulheres - Prof. Sandro Cabral / UFBA - Insper; A robótica transformando a educação e as pessoas - Profa. Andrea Bittencourt / IFBA; Interpretando dados para compreender fenômenos biologicamente complexos-efeitos analgésicos de células-tronco - Profa. Cristiane Flora Villarreal / UFBA 
+- Hackers na Educação - Profa. Karina Menezes / UFBA;
+- Pesquisa em segurança pública em evidências: O caso das delegacias das mulheres - Prof. Sandro Cabral / UFBA - Insper; 
+- A robótica transformando a educação e as pessoas - Profa. Andrea Bittencourt / IFBA; 
+- Interpretando dados para compreender fenômenos biologicamente complexos-efeitos analgésicos de células-tronco - Profa. Cristiane Flora Villarreal / UFBA 
 
 **Julho 2020**
 
-Debatendo sobre gênero e diversidade - Profa. Maíse Zucco / UFBA; Refletindo sobre o campo dos estudos de gênero e as contribuições para uma educação inclusiva - Profa. Maíse Zucco / UFBA; A versatilidade de um cientista de dados - Gabriela de Queiroz IBM / IA Inclusive; Ações da Fundação Itaú Social na área de educação - Renato Brizzi / Fundação Itaú Social; Algoritmos e pandemia: Fatos biológicos e ficções culturais - Profa. Jamile Borges / UFBA; Educação para justiça social: Conceito e métricas - Icaro Bernardes / UFBA (Set 2020).
+- Debatendo sobre gênero e diversidade - Profa. Maíse Zucco / UFBA;
+- Refletindo sobre o campo dos estudos de gênero e as contribuições para uma educação inclusiva - Profa. Maíse Zucco / UFBA;
+- A versatilidade de um cientista de dados - Gabriela de Queiroz IBM / IA Inclusive; 
+- Ações da Fundação Itaú Social na área de educação - Renato Brizzi / Fundação Itaú Social;
+- Algoritmos e pandemia: Fatos biológicos e ficções culturais - Profa. Jamile Borges / UFBA;
+- Educação para justiça social: Conceito e métricas - Icaro Bernardes / UFBA (Set 2020).
 
 Contribuíram como palestrantes professores, profissionais, estudantes de graduação e pós-graduação compartilhando as suas experiências nas mais diversas áreas. Destaca-se a participação das professoras Alzira Melo e Érica Nascimento, do Colégio Estadual Henriqueta Martins Catharino e do Colégio Estadual Evaristo da Veiga, respectivamente, que apresentaram suas experiências ministrando a disciplina Introdução à Inteligência Artificial juntamente com a graduanda Ana Luisa Nogueira e a mestranda Laís Bastos, ambas bolsistas do projeto. A Figura \@ref(fig:cafe) apresenta um registro desse encontro. 
 

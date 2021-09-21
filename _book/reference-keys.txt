@@ -121,9 +121,7 @@ ebookcd
 ebookia
 ebookpcc
 ebookpsrg
-protagonismo-social-proposta-em-andamento
-protagonismo-racial-80-concluído
-protagonismo-de-gênero-0-concluído
+protagonismo-racial-90-concluído
 ressa
 construção-e-exploração-do-site-reconhecendo-salvador
 etapas-de-desenvolvimento-do-site-reconhecendo-salvador

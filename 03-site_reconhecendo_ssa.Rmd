@@ -6,8 +6,7 @@ A construção do site (re)Conhecendo Salvador requer a realização de cinco et
 knitr::include_graphics("images/mapaconceitualressa.png")
 ```
 
-Um processo de licitação foi realizado para a contratação da empresa para realizar as etapas (2) e (3). A produção do conteúdo (etapa 5) está em andamento através da definição das perguntas, do levantamento (*webscraping*) dos dados e estatísticas para responder a estas perguntas e da definição de gráficos que sejam visualmente atrativos e que permitam a visualização de tendências e padrões (quando existirem). No Apêndice \@ref(apendperguntas) são listadas perguntas trazidas pelos estudantes e levantadas pela equipe cujos dados e estatísticas já foram inferidos.
-
+~~Um processo de licitação foi realizado para a contratação da empresa para realizar as etapas (2) e (3). A produção do conteúdo (etapa 5) está em andamento através da definição das perguntas, do levantamento (*webscraping*) dos dados e estatísticas para responder a estas perguntas e da definição de gráficos que sejam visualmente atrativos e que permitam a visualização de tendências e padrões (quando existirem). No Apêndice \@ref(apendperguntas) são listadas perguntas trazidas pelos estudantes e levantadas pela equipe cujos dados e estatísticas já foram inferidos.~~
 
 ## Construção e exploração do site (re)Conhecendo Salvador
 
