@@ -9,7 +9,7 @@ biblio-style: apalike
 link-citations: yes
 ---
 
-# Ciência de Dados na Escola Pública
+# Ciência de Dados na Escola Pública {#cdnaep}
 
 <div class="capa">
 Iniciativa para inclusão da Ciência de Dados e da Inteligência Artificial na Educação Pública do Brasil
@@ -22,7 +22,7 @@ Iniciativa para inclusão da Ciência de Dados e da Inteligência Artificial na 
 </div>
 </div>
 
-## Apresentação - Relatório 2020.1 
+## Apresentação - Relatório 2020.1 {#apresentacao}
 
 O avanço do uso de informações para solucionar diferentes tipos de questões e problemas gerou muitas mudanças em um curto espaço de tempo na história da sociedade. Novos questionamentos e desafios surgem em um contexto marcado pela Tecnologia da Informação e Comunicação, orientada ou dominada por notícias falsas (fake news), por grandes massas de dados (Big data) e pela internet das coisas (Internet of things). O reconhecimento de problemas e oportunidades requer soluções e tomadas de decisões cada vez mais personalizadas, lançando mão dos avanços da ciência no sentido de contribuir para o incremento das formas de pensar e, com isso, para o impulso da qualidade de vida. Assim, algoritmos e tecnologias trazem na sua concepção também vieses sociais, raciais ou de gênero que beneficiam uma parte privilegiada da sociedade. Por isso, vem sendo preciso desenvolver mecanismos e oportunidades de apoio à formação de cidadãos para torná-los capazes, por exemplo, de entender como as empresas têm acesso aos seus dados, como são construídos modelos que preveem seus desejos e como algoritmos podem afetar suas decisões e seu senso crítico. Cidadãos que usem suas experiências para compreender o universo científico sob diferentes aspectos e com percepção da interdisciplinaridade de soluções de problemas cotidianos; com habilidades de exploração e abstração das diversas realidades e cenários que impactam diretamente ou tangencialmente o seu cotidiano e sua comunidade; com visões críticas ampliadas acerca da cidade e da sociedade, bem como se percebam e atuem como protagonistas de mudanças e transformações da sociedade e resilientes frente a um futuro incerto, agravado durante a pandemia.
 
@@ -55,7 +55,7 @@ a comunidade, fundamenta todo o material didático
 utilizado e em construção no cotidiano de vulnerabilidades sociais, raciais e de gênero, visando estender a outras
 escolas da rede pública, e assim, a construção de novos territórios educacionais.</span>
 
-## Público-alvo {-}
+## Público-alvo {-} {#publialvo}
 
 As ferramentas desenvolvidas visam beneficiar 1000 estudantes de cinco escolas públicas: Colégio Estadual Evaristo da Veiga (EV), Colégio Estadual Henriqueta Martins Catharino (HM), Colégio Estadual Ypiranga (YP), Colégio Estadual Mário Costa Neto (MC) e Escola Municipal Cidade de Jequié (CJ), 
 através de uma parceria em construção com o Instituto Anísio Teixeira (IAT). Assim, trabalha-se para que todo o material desenvolvido e em desenvolvimento seja disponibilizado para toda a rede de ensino público (e privado). 
@@ -106,7 +106,7 @@ Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-g
 
 
 
-## Ações do Projeto {-}
+## Ações do Projeto {-} {#acaoproj}
 
 As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações,
 
