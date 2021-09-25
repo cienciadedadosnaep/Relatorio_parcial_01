@@ -37,7 +37,7 @@ focando nossas discussões na equidade e no respeito aos Direitos Humanos.</span
 *"Não podemos inserir indivíduos menos privilegiados em uma\ estrutura social que é originalmente codificada para os\ privilegiados, temos que mudar a estrutura." \
 Parafraseando Mary Beardy para Women & Power: O Manifesto,\ 2017: "You cannot easily fit women into a structure that is\ already coded as male; you have to change the structure."*
 
-## Objetivos {-}
+## Objetivos {#objetivos}
 
 O projeto Ciência de Dados na Educação Pública
 atua no desenvolvimento de ferramentas e meios para
@@ -55,7 +55,7 @@ a comunidade, fundamenta todo o material didático
 utilizado e em construção no cotidiano de vulnerabilidades sociais, raciais e de gênero, visando estender a outras
 escolas da rede pública, e assim, a construção de novos territórios educacionais.</span>
 
-## Público-alvo {-} {#publialvo}
+## Público-alvo {#publialvo}
 
 As ferramentas desenvolvidas visam beneficiar 1000 estudantes de cinco escolas públicas: Colégio Estadual Evaristo da Veiga (EV), Colégio Estadual Henriqueta Martins Catharino (HM), Colégio Estadual Ypiranga (YP), Colégio Estadual Mário Costa Neto (MC) e Escola Municipal Cidade de Jequié (CJ), 
 através de uma parceria em construção com o Instituto Anísio Teixeira (IAT). Assim, trabalha-se para que todo o material desenvolvido e em desenvolvimento seja disponibilizado para toda a rede de ensino público (e privado). 
@@ -65,7 +65,7 @@ A Figura \@ref(fig:estudcdnaep) é apresentada a equipe de estudantes bolsistas 
 knitr::include_graphics("images/image111.png")
 ```
 
-## Equipe {-}
+## Equipe {#equipe}
 
 Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-graduação (7) e por professoras/es e profissionais que atuam em instituições de ensino superior se dividem em sete grupos de ação: 
 
@@ -106,7 +106,7 @@ Uma equipe multidisciplinar, composta por estudantes de graduação (5) e pós-g
 
 
 
-## Ações do Projeto {-} {#acaoproj}
+## Ações do Projeto {#acaoproj}
 
 As atividades desenvolvidas durante o ano de 2020 podem ser agrupadas em cinco grandes ações,
 

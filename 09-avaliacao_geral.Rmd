@@ -12,13 +12,13 @@ Representação da avaliação de impacto
 
 </div>
 
-## Introdução 
+## Introdução {#intro}
 
 As atividades de um projeto social precisam ser avaliadas com critérios transparentes e próximos da realidade. A avaliação permite uma melhor gestão do projeto e traz informações à comunidade sobre o andamento do mesmo. Boas métricas devem ser baratas, próximas da realidade e mensurar elementos que tenham uma clara relação com objetos do interesse do público-alvo. A Teoria da Mudança auxilia na escolha das métricas. Esse método auxilia o analista a associar as atividades e seus efeitos em uma cadeia de eventos. A certos efeitos associa-se uma métrica e desenha-se um método para medi-la. Apesar da simplicidade do método, não são incomuns empecilhos na sua execução.
 Em 2020, o projeto Ciência de Dados na Educação Pública foi desafiado de várias formas. A pandemia foi a principal fonte de problemas e estes também afetaram os movimentos de avaliação de impactos. A mudança do ambiente presencial para o digital dificultou a aplicação de questionários de opinião e atividades avaliativas. Tal problema foi enfrentado concentrando as avaliações tanto quanto possível, alertando aos estudantes antecipadamente da importância de participar e valendo-se da experiência adquirida pela equipe ao longo do ano no ambiente virtual. Outro inconveniente foi a necessidade de adaptar e redefinir o calendário de atividades para acomodar novas oportunidades que surgiam e seguir o plano original tanto quanto possível. Em resposta, as métricas escolhidas para a avaliação de impacto tiveram de ser genéricas o suficiente para contemplar o conjunto de atividades esperado do projeto.
 A despeito das dificuldades, foi possível aplicar as atividades e questionários com sucesso. As seções seguintes esclarecem como foram construídos e aplicados os formulários (Método), apresentam e discutem os resultados (Resultados) e indicam o que foi possível observar como resultado dessa experiência (Conclusão).
 
-## Método 
+## Método {#metodo}
 
 Ainda no início de 2020 foi elaborado uma Teoria da Mudança correspondente às atividades planejadas para o ano (ver Anexo \@ref(teoriadamudanca)). A maioria dos efeitos seriam medidos através de questionários de opinião. Assim, o questionário em papel aplicado em 2019 para grande parte das estudantes das escolas foi modificado para incluir questões que pudessem medir tais efeitos (uma cópia que pode ser respondida está acessível em: [](https://forms.gle/QP9crYYY6x1XhF7RA)). O questionário modificado foi aplicado em duas ocasiões: no início do calendário de atividades (de 30/04 até 06/05) e ao fim (30/10 até 01/11). Os estudantes receberam o link para responder ao questionário através dos canais de comunicação da equipe. Para tornar a experiência menos sisuda, o questionário foi respondido em um ambiente que simula uma conversa de texto com um robô.
 
@@ -51,9 +51,9 @@ Por fim, a mesma orientação para a aplicação das avaliações foi dada aos g
 
 Cada equipe aplicou um teste com duração de 30 minutos. As equipes de Inteligência Artificial e do Site aplicaram um teste extra contendo a versão digital de uma questão aberta aplicada em um formulário que havia sido passado aos estudantes ao fim de 2019 a ser respondido em 15 minutos. Em anexo estão a questão e sua rubrica de correção (Anexo \@ref(rubrica)).
 
-## Resultados 
+## Resultados {#resultados}
 
-### Identidade dos estudantes
+### Identidade dos estudantes {#identidadeestudante}
 
 Comparando dados demográficos dos estudantes que responderam ao questionário em 2019 e 2020 pode-se ter uma noção de quão similar o grupo selecionado para o projeto é do perfil geral das escolas. A Figura \@ref(fig:impacto04) apresenta a distribuição de alunos por idade nos diferentes grupos e a Figura \@ref(fig:impacto05), as quantidades de estudantes por ano escolar (em branco). Na Figura \@ref(fig:impacto05) também estão destacados os estudantes que estão até dois anos atrasados em relação à idade recomendada para sua série (em laranja) e os que estão além dos dois anos, isto é, em distorção idade-série (em vermelho). Nota-se que os estudantes do grupo tratado têm uma faixa etária mais estreita e estão em anos escolares mais avançados.
 
@@ -96,7 +96,7 @@ knitr::include_graphics(c("images/Impactos/09.png"))
 knitr::include_graphics(c("images/Impactos/10.png"))
 ```
 
-### Protagonismo
+### Protagonismo {#protagonismo}
 
 23 estudantes responderam à atividade de oito questões. O desempenho em geral foi bom como se pode ver na Figura \@ref(fig:impacto11) que mostra a distribuição de estudantes por total de acertos.
 
@@ -177,7 +177,7 @@ kbl(quadro,caption = "Questões temáticas e encontros com maior taxa de faltas 
 Uma vez que os encontros tinham temáticas principais, mas também tangenciavam outras questões então é possível que a ausência em apenas um encontro não explique o erro do estudante em uma questão do exame. Um exemplo: o erro dos estudantes na questão "Q1: Machismo" parece ser resultado de uma série de ausências e não apenas da falta dos estudantes nos encontros destacados. Embora tais encontros tenham pontos de contato com o tema, há outros encontros focados no mesmo (como o "E14: Malala Yousafzai") do qual quase todos alunos que erraram a questão participaram. Vale destacar o aparecimento recorrente dos encontros "E07: Margarida Alves" e "E17: Djamila Ribeiro". O que pode sugerir que tais encontros tiveram especial importância no crescimento dos estudantes.
 
 
-### Ciência de dados
+### Ciência de dados {#cienciadados}
 
 
 23 estudantes responderam à atividade de oito questões. O desempenho em geral foi mediano como se pode ver na Figura \@ref(fig:impacto19) que mostra a distribuição de estudantes por total de acertos.
@@ -261,7 +261,7 @@ kbl(quadro,caption = "Questões temáticas e encontros com maior taxa de faltas 
 Um elemento a destacar na Tabela \@ref(tab:quadroimpacto2) é a onipresença do “E25: Medidas de dispersão”. Entretanto a ausência de muitos dos estudantes que erraram questões nessa aula não implica em casualidade. A priori não parece haver qualquer relação entre o tema da aula e a habilidade demanda na questão “Q5: Proteção de privacidade”. Em verdade, parece que os erros dos estudantes podem estar mais associados a dificuldades em absorver o conteúdo mesmo presentes nas aulas. Tal hipótese encontra algum eco no fato de que os estudantes que erraram a questão “Q3: Identificar tipos de dados” participaram de todas as aulas.
 
 
-### Site/Exploração gráfica
+### Site/Exploração gráfica {#exploracaografica}
 
 25 estudantes responderam à atividade de três questões. As questões 2 e 3 têm múltiplas alternativas corretas. Assim, tais questões são desmembradas nas análises a seguir de sorte que a avaliação contem oito afirmações corretas a serem reconhecidas pelos estudantes. Na Figura \@ref(fig:impacto27) vê-se um espectro de desempenhos em diferentes níveis por parte dos estudantes.
 
@@ -336,7 +336,7 @@ kbl(quadro,caption = "Questões temáticas e encontros com maior taxa de faltas 
 
 A Tabela \@ref(tab:quadroimpacto3) apresenta frequentemente os encontros “E20: Reconhecendo Salvador” e “E28: Turismo”. Há uma relação esperada entre este primeiro encontro e as dificuldades dos estudantes nas seções da questão 3 dado que neste encontro a exploração gráfica de mapas foi intensa e tal questão tem como base um mapa da cidade. A relação entre “Q2.2: Interpretar gráficos (linhas)” e “E32: Transporte” também é esperada uma vez que essa foi uma das aulas onde gráficos de linhas fizeram parte da formação dos estudantes.
 
-### Produção do conhecimento científico
+### Produção do conhecimento científico {#prodcc}
 
 25 estudantes responderam à atividade de cinco questões. As questões 1 e 2 têm múltiplas sessões e a 3 têm múltiplas alternativas corretas. Assim, tais questões são desmembradas nas análises a seguir de sorte que a avaliação contem quatorze afirmações corretas a serem reconhecidas pelos estudantes. Na Figura \@ref(fig:impacto33) nota-se que a maior parte dos estudantes acertou pouco mais da metade das questões.
 
@@ -431,7 +431,7 @@ kbl(quadro,caption = "Questões temáticas e encontros com maior taxa de faltas 
 
 Percebe-se uma destacada presença dos encontros “E18: Introdução a produção do conhecimento científico (o que é investigação científica?)” e “E22: O que é uma pergunta científica?”. A associação do temas desses encontros com as questões “Q1: Planejar investigação científica” e “Q5: Formular pergunta científica” é evidente. As questões 2 e 3 que buscam verificar a capacidade do estudante de associar corretamente fenômenos estão associados a vários encontros, possivelmente por ser uma habilidade que deriva da prática constante e não de apenas um encontro.
 
-### Inteligência artificial
+### Inteligência artificial {#ia}
 
 12 estudantes responderam à atividade de sete questões. A questão 5 busca identificar ideias de aplicação de inteligência artificial de uso cotidiano que os estudantes gostariam de criar. Já as questões 6 e 7 tentam identificar mudanças nas perspectivas que os estudantes tiveram sobre o tema após os encontros. Na Figura \@ref(fig:impacto39) vê-se que os estudantes tiveram um desempenho geral mediano.
 
@@ -462,7 +462,7 @@ knitr::include_graphics(c("images/Impactos/42.png"))
 knitr::include_graphics(c("images/Impactos/43.png"))
 ```
 
-### Questão aberta sobre saneamento
+### Questão aberta sobre saneamento {#qasaneamento}
 
 30 estudantes responderam à atividade de três questões. A questão 2 tem duas seções, logo é apresentada em duas partes. Na Figura \@ref(fig:impacto44) vê-se que os estudantes tiveram um desempenho geral excelente.
 
@@ -497,7 +497,7 @@ knitr::include_graphics(c("images/Impactos/47.png"))
 knitr::include_graphics(c("images/Impactos/48.png"))
 ```
 
-### Observações cruzadas
+### Observações cruzadas {#obscruzadas}
 
 
 Uma vez que os estudantes realizaram múltiplos exames é natural buscar observar se acertos em certas seções estão correlacionadas (levantando a hipótese de haver sinergia no aprendizado de certos temas). A Tabela \@ref(tab:quadroimpacto5) apresenta as questões temáticas com maior nível de correlação (acima de 0,7).
@@ -541,7 +541,7 @@ kbl(quadro,caption = "Questões temáticas com maior nível de correlação.")
 ```
 A maioria das relações acima não parece ter uma relação clara. Todavia, há temas com aparente sinergia. O tema “IA4: Identificar viés algorítmico” convida o estudante a reconhecer em um conjunto de reportagens o problema de viés que dados não representativos podem gerar aos modelos gerados a partir deles. O tema “CD8: Métodos estatísticos (noção de intervalos de confiança)” busca verificar se o estudante entende que um valor podem estar relacionados com a capacidade do estudante de perceber que dados selecionar para que um intervalo de confiança melhor represente um comportamento dos dados. Curiosamente, o tema “CD6: Coleta de dados” no qual propõe-se aos estudantes que indiquem quais as características que uma amostra deve ter para evitar vieses tem correlação baixa e negativa com os temas referidos anteriormente (-0,34 para CD8 e -0,45 para IA4).
 
-## Conclusão 
+## Conclusão {#conclusao}
 
 O desempenho geral dos estudantes foi de mediano a muito bom. O melhor resultado geral foi obtido no exame de Protagonismo, curso que teve a maior quantidade de encontros. Sugerindo que uma maior frequência tem efeito sobre o aprendizado dos estudantes. Todavia, não necessariamente por meio de “aulas cruciais” às quais se o estudante faltar não será capaz de compreender os temas.
 Os resultados mostram que estudantes que falharam em acertar em vários casos tiveram assiduidade mais baixa em encontros que na verdade têm relação meramente marginal ou não existente com o tema no qual falharam. Tal situação pode ser explicada por um conjunto de hipóteses: 1. Há um espalhamento do conteúdo ao longo dos encontros através de repetições e reforços. Assim, os estudantes têm diversas oportunidades de assimilar os temas. 2. Em alguns dos exames os estudantes que erraram certas questões não faltaram aula alguma. Há também casos onde os estudantes estiveram presentes em aulas cujo tema focal coincidiu com o tema da questão que eles falharam. Isso indica que tais estudantes estão tendo dificuldades mesmo presentes nas aulas.

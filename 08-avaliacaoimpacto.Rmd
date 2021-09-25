@@ -3,7 +3,7 @@ output:
   word_document: default
   html_document: default
 ---
-# Avaliação de Impacto
+# Avaliação de Impacto {#avaliacaoimpacto}
 
 Tratando-se da avaliação de impactos de projetos sociais é fundamental estabelecer quais os resultados esperados, métricas e instrumentos para verificar o status deles e métodos para contornar vieses. A teoria da mudança é um método que facilita a construção de uma cadeia de elementos que parte dos insumos necessários para as atividades de um projeto e chega até os efeitos estimados no público-alvo. Métricas devem ser relevantes para o público-alvo, tão fáceis quão possível de obter e precisas no que estão medindo. Além disso, é importante ponderar que podem haver características não-observadas no público alvo e que afetam as métricas escolhidas (INSPER METRICIS, 2018).
 Os principais resultados que esperamos observar como consequência das atividades que as/os estudantes participaram são: 
