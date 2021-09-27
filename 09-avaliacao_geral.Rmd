@@ -12,7 +12,7 @@ Representação da avaliação de impacto
 
 </div>
 
-## Introdu\c{c}\~ao {#intro}
+## Introdu\c{c}\~ao 
 
 As atividades de um projeto social precisam ser avaliadas com critérios transparentes e próximos da realidade. A avaliação permite uma melhor gestão do projeto e traz informações à comunidade sobre o andamento do mesmo. Boas métricas devem ser baratas, próximas da realidade e mensurar elementos que tenham uma clara relação com objetos do interesse do público-alvo. A Teoria da Mudança auxilia na escolha das métricas. Esse método auxilia o analista a associar as atividades e seus efeitos em uma cadeia de eventos. A certos efeitos associa-se uma métrica e desenha-se um método para medi-la. Apesar da simplicidade do método, não são incomuns empecilhos na sua execução.
 Em 2020, o projeto Ciência de Dados na Educação Pública foi desafiado de várias formas. A pandemia foi a principal fonte de problemas e estes também afetaram os movimentos de avaliação de impactos. A mudança do ambiente presencial para o digital dificultou a aplicação de questionários de opinião e atividades avaliativas. Tal problema foi enfrentado concentrando as avaliações tanto quanto possível, alertando aos estudantes antecipadamente da importância de participar e valendo-se da experiência adquirida pela equipe ao longo do ano no ambiente virtual. Outro inconveniente foi a necessidade de adaptar e redefinir o calendário de atividades para acomodar novas oportunidades que surgiam e seguir o plano original tanto quanto possível. Em resposta, as métricas escolhidas para a avaliação de impacto tiveram de ser genéricas o suficiente para contemplar o conjunto de atividades esperado do projeto.
