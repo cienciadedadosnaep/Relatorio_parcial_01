@@ -1,9 +1,9 @@
 # Elaboração de 4 *e-books*  {#ebooks}
 
-<span style="color:blue">A ideia de produção dos e-books dialoga com a necessidade de
+A ideia de produção dos e-books dialoga com a necessidade de
 produção de materiais autorais pela equipe do programa, bem como da necessidade
 de difusão dos conteúdos formativos trabalhados com os/as nossos/as estudantes
-bolsistas para mais discentes da rede pública.</span>
+bolsistas para mais discentes da rede pública.
 
 O conteúdo dos E-books se subdivide em 4 eixos temáticos:: Ciências de dados, Inteligência artificial, Pensamento científico e Protagonismo racial. Os três primeiros são destinados aos estudantes e apresentam exemplos pautados na discussão sobre a cidade de Salvador, a partir do site (re)Conhecendo Salvador. As reflexões visam atingi-los, a fim de estimulá-los a se perceberem como agentes de mudanças da sociedade, capazes de promover ações nas escolas, em suas comunidades ou em contextos locais e/ou globais. Os capítulos dos e-books oferecem os objetivos da abordagem de cada assunto, o que se espera dos/as estudantes, sugestões de como abordar o tema em sala de aula, os principais vocábulos, sugestões de leituras, vídeos e páginas em redes sociais (Instagram, Facebook, Pinterest etc.).
 O E-book sobre protagonismos social, racial e de gênero é o único volume que se destina especificamente aos professores e visa auxiliá-los na abordagem dos assuntos em sala de aula, dialogando com os conceitos de interseccionalidade (articulação entre raça, classe e gênero), autoconceito, autoestima e empoderamento. A diferenciação entre os protagonismos social, racial e de gênero é didática e visa apenas facilitar a discussão sobre os diferentes temas. Compreendemos que os sujeitos se caracterizam por distintos marcadores sociais e cotidianamente lidam com formas de discriminação sobrepostas. Por isso, necessitam se engajar em estratégias de enfrentamento de modo igualmente articulado.
@@ -30,23 +30,19 @@ Cap. 1. - Inteligência Artificial; Cap. 2 - Pensamento Computacional; Cap. 3 - 
 ## *e-book* 3. Produção do Conhecimento Científico ($50\%$ concluído) {#ebookpcc}
 Cap. 1 - Origem da Ciência; Cap. 2 - Investigação Científica; Cap. 3 - Observações e Experimentos Científicos; Cap. 4 - Documento Científico; e a proposta de seis capítulos relacionados à investigação científica na prática (Quanta água tem na minha fruta? O ovo dobrável; Batata com sal, os outros capítulos estão em construção), os experimentos citados se relacionam com conhecimentos das ciências da natureza (química, física e biologia), e tem como objetivo servir de ferramenta para o professor explorar junto com os estudantes o fenômeno da evaporação, conhecimentos sobre a composição química de diferentes frutas, pH, além de possibilitar descobertas relacionadas ao seu cotidiano.
 
-## *e-book* 4. Protagonismo Social, Racial e de Gênero {#ebookpsrg}
+A atual fase inclui a reestruturação do e-book, como há muitos livros interessantes sobre o tema de produção científica, a nossa proposta teria um teor mais inspirador e de divulgação com registros das dinâmicas do projeto. Assim, o e- book estará viável para compor o material didático tanto dos/as professores/as e de estudantes que fazem parte do Projeto quanto aqueles/as de escolas públicas através das disciplinas eletivas e de docentes que tenham interesse em implementar o material em suas práticas de ensino.
 
-~~### Protagonismo Social (proposta em andamento)~~
-~~Cap. 1 - O Grito dos(as) Excluídos(as); Cap. 2 - Direitos e Deveres da Criança e do Adolescente. O demais capítulos estão em processo de definição.~~
+## *e-book* 4. Protagonismo Social, Racial e de Gênero {#ebookpsrg}
 
 ### Protagonismo Racial ($90\%$ concluído)
 Cap. 1 - Blackface, Representatividade negra e Preconceito racial na mídia; Cap. 2 - Colorismo e branquitude; Cap. 3 - Interseccionalidade: raça, gênero e classe; Cap. 4 - Literatura negra; Cap. 5 - Mito da Democracia Racial; Cap. 6 - Necropolítica; Cap. 7 - Racismo no ambiente escolar; Cap. 8 - Racismo e Intolerância Religiosa; Cap. 9 - Políticas de Ações Afirmativas e o Dia Internacional de Luta contra a discriminação racial; Cap. 10 - Tokenismo, segregação e discriminação algorítmica na Inteligência Artificial.
 
-~~### Protagonismo de Gênero ($0\%$ concluído)~~
-~~Cap. 1 - A trajetória da construção do conceito (de mulher para gênero); Cap. 2- Sexo e sexualidade; Cap. 3 - Identidade de gênero (homens e mulheres cisgênero e transgênero); Cap. 4 - Orientação sexual (heterossexualidade, homossexualidade e bissexualidade); Cap. 5 - Sexo biológico e expressão de gênero (masculina, feminina e não-binária); Cap. 6- Diversidade sexual e cidadania; Cap. 7 - Movimentos sociais LGBTQI+ e a luta/conquista de direitos; Cap. 8 - Discursos hegemônicos e narrativas sobre homens e mulheres na sociedade brasileira; atribuição de papéis e expectativas sociais; Cap. 9 - Violência de gênero e violência contra a mulher; Cap. 10 - Diversidade sexual na escola e a Atenção à criança e ao adolescente vítima de discriminação por orientação sexual e identidade de gênero; Cap. 11- Representatividade feminina nas ciências; Cap. 12- Protagonismo de gênero e Lei de Diretrizes e Bases (LDB); Cap. 13 - Protagonismo de gênero, Ciência de Dados e Inteligência Artificial (IA).~~
-
-<span style="color:blue">A atual fase inclui a revisão dos capítulos com correções,
+A atual fase inclui a revisão dos capítulos com correções,
 inserções de materiais, escrita da Introdução e das Considerações finais. Assim, o e-
 book estará viável para compor o material didático tanto dos/as estudantes que fazem
 parte do programa quanto aqueles/as de escolas públicas através das disciplinas
 eletivas e de docentes que tenham interesse em implementar o material em suas salas
-de aula.</span>
+de aula.
 
 
 
